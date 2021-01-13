@@ -1,0 +1,97 @@
+.detail-convenience-box {
+  font-family: 'Jal_Onuel';
+  font-size: 2.2vmin;
+}
+
+.conven-icon-col {
+  height: 160px;
+  /* height: 100%; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 0 10px;
+}
+
+.under376-icon {
+  display: none;
+}
+
+@media (max-width: 376px) {
+  .conven-icon-col {
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 5px;
+  }
+
+  .conven-icon-box {
+    display: none;
+  }
+
+  .under376-icon {
+    width: 100%;
+    border-style: solid;
+    /* border-color: #5fd8d8; */
+    border-color: #97b4d6;
+    border-radius: 5px;
+    background-color: #97b4d6;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.conven-icon-topbox {
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border-top-color: #97b4d6;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-left-color: #97b4d6;
+  border-left-style: solid;
+  border-left-width: 2px;
+  border-right-color: #97b4d6;
+  border-right-style: solid;
+  border-right-width: 2px;
+
+  border-radius: 10px 10px 0 0;
+
+  padding: 0.1em;
+}
+
+.conven-icon-bottombox {
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border-top-color: #97b4d6;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-bottom-color: #97b4d6;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-left-color: #97b4d6;
+  border-left-style: solid;
+  border-left-width: 2px;
+  border-right-color: #97b4d6;
+  border-right-style: solid;
+  border-right-width: 2px;
+
+  border-radius: 0 0 10px 10px;
+
+  color: #ffffff;
+  background-color: #97b4d6;
+  font-size: 1em;
+}
+
+.conven-icon-box img {
+  width: 70%;
+  height: 70%;
+}

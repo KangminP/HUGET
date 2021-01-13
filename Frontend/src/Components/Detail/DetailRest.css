@@ -1,0 +1,84 @@
+/* @font-face {
+  font-family: 'TTMogujasusimgyeolR';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_ten@1.2/TTMogujasusimgyeolR.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+} */
+
+.box {
+  width: auto;
+  background: #fff;
+  margin: auto;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+}
+
+@media (max-width: 768px) {
+  .detail-rest-box {
+    font-family: 'NanumBarunpen';
+    font-size: 1.6vmax;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1280px) {
+  .detail-rest-box {
+    font-family: 'NanumBarunpen';
+    font-size: 1.4vmax;
+  }
+}
+
+@media (min-width: 1281px) and (max-width: 1600px) {
+  .detail-rest-box {
+    font-family: 'NanumBarunpen';
+    font-size: 1.2vmax;
+  }
+}
+
+@media (min-width: 1601px) {
+  .detail-rest-box {
+    font-family: 'NanumBarunpen';
+    font-size: 1vmax;
+  }
+}
+
+/* .effect {
+  -webkit-box-shadow: 0 10px 6px -6px #777;
+  -moz-box-shadow: 0 10px 6px -6px #777;
+  box-shadow: 0 10px 6px -6px #777;
+} */
+
+/* 양쪽 끝 그림자 */
+/* .effect {
+  position: relative;
+}
+.effect:before,
+.effect:after {
+  z-index: -1;
+  position: absolute;
+  content: '';
+  bottom: 15px;
+  left: 10px;
+  width: 50%;
+  top: 80%;
+  max-width: 300px;
+  background: #777;
+  -webkit-box-shadow: 0 15px 10px #777;
+  -moz-box-shadow: 0 15px 10px #777;
+  box-shadow: 0 15px 10px #777;
+  -webkit-transform: rotate(-3deg);
+  -moz-transform: rotate(-3deg);
+  -o-transform: rotate(-3deg);
+  -ms-transform: rotate(-3deg);
+  transform: rotate(-3deg);
+}
+.effect:after {
+  -webkit-transform: rotate(3deg);
+  -moz-transform: rotate(3deg);
+  -o-transform: rotate(3deg);
+  -ms-transform: rotate(3deg);
+  transform: rotate(3deg);
+  right: 10px;
+  left: auto;
+} */

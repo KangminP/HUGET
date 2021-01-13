@@ -1,0 +1,112 @@
+.searchbox {
+  margin: auto;
+  min-width: 270px !important;
+  min-height: 100vh !important;
+}
+
+.rootbox {
+  margin: auto;
+  min-width: 100vw;
+  max-width: 700px;
+  min-height: 100vh;
+}
+
+.search-menu-header {
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  height: 50px;
+  background-color: #ffffff;
+  width: 100%;
+  padding: 0 15px 0 15px;
+}
+
+.search-menu-title {
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 1.8rem;
+
+  font-family: 'LotteMartHappy';
+}
+
+.blankdiv {
+  height: 20px;
+  background-color: #ffffff;
+}
+
+.search-menu-box .ant-input {
+  height: 47px !important;
+  margin-bottom: 10px;
+}
+
+.select-direction-btn-box {
+  margin-top: 10px;
+}
+
+.choice-section {
+  display: flex;
+  justify-content: space-between;
+}
+
+.choice-section button {
+  width: 49%;
+}
+
+.search-push-btn,
+.search-push-btn-not {
+  background-color: #17a2b8;
+  font-family: 'LotteMartHappy';
+  color: #ffffff;
+  height: 40px;
+  font-size: 15px;
+}
+
+.search-push-btn:hover {
+  color: #ffffff;
+  background-color: #70c0cc;
+  height: 40px;
+}
+
+.search-push-btn-not:hover {
+  color: #ffffff;
+  background-color: #17a2b8;
+  height: 40px;
+}
+
+.search-menu-godetail-btn {
+  background-color: #ec8bad;
+  color: #ffffff;
+  font-family: 'LotteMartHappy';
+}
+
+.search-menu-godetail-btn:hover {
+  background-color: #f3acc5;
+  color: #ffffff;
+  font-family: 'LotteMartHappy';
+}
+
+.text-center-direction {
+  font-family: 'NanumBarunpen';
+  /* color: rgb(156, 154, 154); */
+  color: #17a2b8;
+  font-size: 1em;
+}
+
+.text-center-info-name {
+  font-family: 'Jal_Onuel';
+  font-size: 1.4em;
+}
+
+.text-center-info-content {
+  font-family: 'NanumBarunpen';
+  font-size: 1.2em;
+}
+
+.text-center-best {
+  color: rgb(247, 37, 107);
+}
+
+.loading-text {
+  font-family: 'NanumBarunpen';
+}

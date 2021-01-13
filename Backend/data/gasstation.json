@@ -1,0 +1,1882 @@
+[
+	{
+		"model": "defaults.RestGas",
+		"pk": 0,
+		"fields": {
+			"rest_name": "서울만남(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "02-573-7430"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 1,
+		"fields": {
+			"rest_name": "기흥(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "031-286-5185"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 2,
+		"fields": {
+			"rest_name": "안성(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "031-651-5385"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 3,
+		"fields": {
+			"rest_name": "망향(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-557-6161"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 4,
+		"fields": {
+			"rest_name": "옥산(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "043-269-0843"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 5,
+		"fields": {
+			"rest_name": "천안호두(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-552-6367"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 6,
+		"fields": {
+			"rest_name": "죽암(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "043-269-4434"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 7,
+		"fields": {
+			"rest_name": "금강(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "043-733-0439"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 8,
+		"fields": {
+			"rest_name": "황간(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "043-742-5853"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 9,
+		"fields": {
+			"rest_name": "추풍령(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-430-0502"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 10,
+		"fields": {
+			"rest_name": "평사(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "053-851-6110"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 11,
+		"fields": {
+			"rest_name": "칠곡(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-975-1734"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 12,
+		"fields": {
+			"rest_name": "옥천(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "043-731-8524"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 13,
+		"fields": {
+			"rest_name": "경주(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-748-3427"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 14,
+		"fields": {
+			"rest_name": "김천(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "054-435-0266"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 15,
+		"fields": {
+			"rest_name": "통도사(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "055-372-6163"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 16,
+		"fields": {
+			"rest_name": "옥천만남의광장",
+			"gas_name": "SK",
+			"gas_lpg": "N",
+			"gas_tel": "043-732-0081"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 17,
+		"fields": {
+			"rest_name": "건천(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "054-751-4600"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 18,
+		"fields": {
+			"rest_name": "안성(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "031-664-4096"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 19,
+		"fields": {
+			"rest_name": "죽전(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "031-262-4602"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 20,
+		"fields": {
+			"rest_name": "천안삼거리(서울)",
+			"gas_name": "SK",
+			"gas_lpg": "Y",
+			"gas_tel": "041-555-3001"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 21,
+		"fields": {
+			"rest_name": "죽암(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "043-260-5341"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 22,
+		"fields": {
+			"rest_name": "옥천(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "043-733-9924"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 23,
+		"fields": {
+			"rest_name": "황간(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "043-742-1266"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 24,
+		"fields": {
+			"rest_name": "입장거봉포도(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-588-2184"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 25,
+		"fields": {
+			"rest_name": "추풍령(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-439-3187"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 26,
+		"fields": {
+			"rest_name": "칠곡(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-975-2544"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 27,
+		"fields": {
+			"rest_name": "경산(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "053-851-7025"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 28,
+		"fields": {
+			"rest_name": "건천(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "054-751-8256"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 29,
+		"fields": {
+			"rest_name": "언양(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "052-263-6146"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 30,
+		"fields": {
+			"rest_name": "양산(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "055-389-1750"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 31,
+		"fields": {
+			"rest_name": "신탄진(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "042-934-2445"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 32,
+		"fields": {
+			"rest_name": "청주(서울)",
+			"gas_name": "GS",
+			"gas_lpg": "Y",
+			"gas_tel": "043-231-8833"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 33,
+		"fields": {
+			"rest_name": "김천(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-431-4477"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 34,
+		"fields": {
+			"rest_name": "섬진강(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "061-772-2106"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 35,
+		"fields": {
+			"rest_name": "사천(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "055-854-8622"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 36,
+		"fields": {
+			"rest_name": "진영(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "055-342-3236"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 37,
+		"fields": {
+			"rest_name": "진주(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "055-759-1028"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 38,
+		"fields": {
+			"rest_name": "함안(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "055-583-9341"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 39,
+		"fields": {
+			"rest_name": "보성녹차(영암)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "070-4325-8800~2"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 40,
+		"fields": {
+			"rest_name": "섬진강(순천)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "061-772-4163"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 41,
+		"fields": {
+			"rest_name": "사천(순천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "055-854-6732"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 42,
+		"fields": {
+			"rest_name": "진영(순천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "055-342-0878"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 43,
+		"fields": {
+			"rest_name": "문산(순천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "055-762-2048"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 44,
+		"fields": {
+			"rest_name": "함안(순천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "055-582-6321"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 45,
+		"fields": {
+			"rest_name": "보성녹차(순천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "070-4325-8805"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 46,
+		"fields": {
+			"rest_name": "함평나비(광주)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "061-324-8864"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 47,
+		"fields": {
+			"rest_name": "함평나비(무안)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "061-323-8867"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 48,
+		"fields": {
+			"rest_name": "지리산(대구)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "063-636-2721"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 49,
+		"fields": {
+			"rest_name": "거창(대구)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "055-941-0863"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 50,
+		"fields": {
+			"rest_name": "강천산(대구)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "063-653-3068"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 51,
+		"fields": {
+			"rest_name": "논공(대구)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "070-4304-0630"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 52,
+		"fields": {
+			"rest_name": "지리산(광주)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "063-636-2722"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 53,
+		"fields": {
+			"rest_name": "거창(광주)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "055-941-0861"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 54,
+		"fields": {
+			"rest_name": "강천산(광주)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": null
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 55,
+		"fields": {
+			"rest_name": "논공(광주)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "070-4304-0610"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 56,
+		"fields": {
+			"rest_name": "화성(목포)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "031-353-8015"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 57,
+		"fields": {
+			"rest_name": "대천(목포)",
+			"gas_name": "SK",
+			"gas_lpg": "Y",
+			"gas_tel": "041-931-5871"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 58,
+		"fields": {
+			"rest_name": "서산(목포)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-688-8817"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 59,
+		"fields": {
+			"rest_name": "군산(목포)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "063-453-5763"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 60,
+		"fields": {
+			"rest_name": "함평천지(목포)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "061-324-4136"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 61,
+		"fields": {
+			"rest_name": "고창고인돌(목포)",
+			"gas_name": "SK",
+			"gas_lpg": "Y",
+			"gas_tel": "063-561-6318"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 62,
+		"fields": {
+			"rest_name": "홍성(목포)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-642-1145"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 63,
+		"fields": {
+			"rest_name": "서천(목포)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-952-9738"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 64,
+		"fields": {
+			"rest_name": "화성(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "031-353-8148"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 65,
+		"fields": {
+			"rest_name": "대천(서울)",
+			"gas_name": "SK",
+			"gas_lpg": "Y",
+			"gas_tel": "041-931-5371"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 66,
+		"fields": {
+			"rest_name": "서산(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-688-7717"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 67,
+		"fields": {
+			"rest_name": "군산(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "063-453-5163"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 68,
+		"fields": {
+			"rest_name": "함평천지(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "061-322-4409"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 69,
+		"fields": {
+			"rest_name": "고창고인돌(서울)",
+			"gas_name": "SK",
+			"gas_lpg": "Y",
+			"gas_tel": "063-561-0962"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 70,
+		"fields": {
+			"rest_name": "홍성(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-642-1178"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 71,
+		"fields": {
+			"rest_name": "서천(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-952-9735"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 72,
+		"fields": {
+			"rest_name": "목감(서울)",
+			"gas_name": "SK",
+			"gas_lpg": "Y",
+			"gas_tel": "031-411-0592"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 73,
+		"fields": {
+			"rest_name": "진안마이산(익산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "063-432-1383"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 74,
+		"fields": {
+			"rest_name": "진안마이산(장수)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "063-432-6353"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 75,
+		"fields": {
+			"rest_name": "영천(대구)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-338-9301"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 76,
+		"fields": {
+			"rest_name": "청통(대구)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-337-5074"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 77,
+		"fields": {
+			"rest_name": "와촌(포항)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "053-853-1082"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 78,
+		"fields": {
+			"rest_name": "영천(포항)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-338-9135"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 79,
+		"fields": {
+			"rest_name": "여산(천안)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "063-836-5272"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 80,
+		"fields": {
+			"rest_name": "정읍녹두장군(천안)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "063-532-2373"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 81,
+		"fields": {
+			"rest_name": "곡성(천안)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "061-362-7188"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 82,
+		"fields": {
+			"rest_name": "백양사(천안)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "061-393-0267"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 83,
+		"fields": {
+			"rest_name": "주암(천안)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "061-754-4454"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 84,
+		"fields": {
+			"rest_name": "이서(천안)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "063-236-2592"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 85,
+		"fields": {
+			"rest_name": "여산(순천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "063-836-5246"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 86,
+		"fields": {
+			"rest_name": "정읍녹두장군(순천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "063-532-0510"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 87,
+		"fields": {
+			"rest_name": "곡성(순천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "061-362-5955"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 88,
+		"fields": {
+			"rest_name": "주암(순천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "061-754-4985"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 89,
+		"fields": {
+			"rest_name": "백양사(순천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "061-394-5178"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 90,
+		"fields": {
+			"rest_name": "이서(순천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "063-227-4334"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 91,
+		"fields": {
+			"rest_name": "오수(순천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "063-644-7300"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 92,
+		"fields": {
+			"rest_name": "황전(순천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "061-782-1737"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 93,
+		"fields": {
+			"rest_name": "오수(완주)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "063-644-4800"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 94,
+		"fields": {
+			"rest_name": "황전(완주)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "061-782-1701"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 95,
+		"fields": {
+			"rest_name": "화서(영덕)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-531-1984"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 96,
+		"fields": {
+			"rest_name": "예산(당진)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-335-0052"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 97,
+		"fields": {
+			"rest_name": "공주(당진)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-854-9504"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 98,
+		"fields": {
+			"rest_name": "의성(청주)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-862-9036"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 99,
+		"fields": {
+			"rest_name": "청송(청주)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "054-872-5911"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 100,
+		"fields": {
+			"rest_name": "속리산(청주)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "043-544-6311"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 101,
+		"fields": {
+			"rest_name": "예산(대전)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-334-0081"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 102,
+		"fields": {
+			"rest_name": "공주(대전)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "041-854-9728"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 103,
+		"fields": {
+			"rest_name": "의성(영덕)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-862-9254"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 104,
+		"fields": {
+			"rest_name": "청송(영덕)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "054-872-9102"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 105,
+		"fields": {
+			"rest_name": "산청(통영)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "055-973-8902"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 106,
+		"fields": {
+			"rest_name": "금산인삼랜드(통영)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-751-2895"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 107,
+		"fields": {
+			"rest_name": "덕유산(통영)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "063-353-5100"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 108,
+		"fields": {
+			"rest_name": "함양(통영)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "055-963-8762"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 109,
+		"fields": {
+			"rest_name": "고성공룡나라(통영)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "055-674-2062"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 110,
+		"fields": {
+			"rest_name": "산청(대전)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "055-973-6138"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 111,
+		"fields": {
+			"rest_name": "금산인삼랜드(대전)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-754-9200"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 112,
+		"fields": {
+			"rest_name": "덕유산(대전)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "063-353-4200"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 113,
+		"fields": {
+			"rest_name": "고성공룡나라(대전)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "055-674-8062"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 114,
+		"fields": {
+			"rest_name": "하남드림",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "031-793-5800"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 115,
+		"fields": {
+			"rest_name": "오창(남이)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "043-217-1443"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 116,
+		"fields": {
+			"rest_name": "음성(남이)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "043-878-5039"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 117,
+		"fields": {
+			"rest_name": "이천(남이)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "031-637-0401"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 118,
+		"fields": {
+			"rest_name": "이천(하남)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "031-637-0953"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 119,
+		"fields": {
+			"rest_name": "오창(하남)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "043-217-6385"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 120,
+		"fields": {
+			"rest_name": "음성(하남)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "043-877-1086"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 121,
+		"fields": {
+			"rest_name": "안성맞춤(제천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "031-674-8644"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 122,
+		"fields": {
+			"rest_name": "금왕(제천)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "043-881-8122"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 123,
+		"fields": {
+			"rest_name": "천등산(제천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "043-844-2988"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 124,
+		"fields": {
+			"rest_name": "안성맞춤(평택)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "031-672-9622"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 125,
+		"fields": {
+			"rest_name": "금왕(평택)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "043-882-8030"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 126,
+		"fields": {
+			"rest_name": "천등산(평택)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "043-844-2915"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 127,
+		"fields": {
+			"rest_name": "영산(창원)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "055-521-3284"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 128,
+		"fields": {
+			"rest_name": "선산(양평)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-482-6014"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 129,
+		"fields": {
+			"rest_name": "충주(창원)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "043-857-7371"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 130,
+		"fields": {
+			"rest_name": "괴산(창원)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "043-832-7970"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 131,
+		"fields": {
+			"rest_name": "문경(양평)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-554-1659"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 132,
+		"fields": {
+			"rest_name": "남성주참외(창원)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-932-0031"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 133,
+		"fields": {
+			"rest_name": "서여주(양평)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "031-885-9764"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 134,
+		"fields": {
+			"rest_name": "성주(창원)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "031-296-1509"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 135,
+		"fields": {
+			"rest_name": "성주(양평)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "031-295-1509"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 136,
+		"fields": {
+			"rest_name": "칠서(양평)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "055-587-1420"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 137,
+		"fields": {
+			"rest_name": "선산(창원)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-482-6034"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 138,
+		"fields": {
+			"rest_name": "충주(양평)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "043-857-4884"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 139,
+		"fields": {
+			"rest_name": "괴산(양평)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "043-832-6598"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 140,
+		"fields": {
+			"rest_name": "문경(창원)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-554-1614"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 141,
+		"fields": {
+			"rest_name": "남성주참외(양평)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-931-5149"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 142,
+		"fields": {
+			"rest_name": "서여주(창원)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "031-884-9718"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 143,
+		"fields": {
+			"rest_name": "용인(강릉)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "031-332-3221"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 144,
+		"fields": {
+			"rest_name": "여주(강릉)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "031-881-6132"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 145,
+		"fields": {
+			"rest_name": "횡성(강릉)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "033-342-7357"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 146,
+		"fields": {
+			"rest_name": "문막(강릉)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "033-734-0764"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 147,
+		"fields": {
+			"rest_name": "평창(강릉)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "033-334-5108"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 148,
+		"fields": {
+			"rest_name": "강릉(강릉)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "033-648-9559"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 149,
+		"fields": {
+			"rest_name": "용인(인천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "031-339-2262"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 150,
+		"fields": {
+			"rest_name": "문막(인천)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "033-734-0767"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 151,
+		"fields": {
+			"rest_name": "여주(인천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "031-881-3665"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 152,
+		"fields": {
+			"rest_name": "횡성(인천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "033-342-5880"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 153,
+		"fields": {
+			"rest_name": "평창(인천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "033-332-5107"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 154,
+		"fields": {
+			"rest_name": "강릉(인천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "033-647-7112"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 155,
+		"fields": {
+			"rest_name": "안동(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-853-9758"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 156,
+		"fields": {
+			"rest_name": "군위(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-383-6116"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 157,
+		"fields": {
+			"rest_name": "치악(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "033-763-8603"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 158,
+		"fields": {
+			"rest_name": "단양팔경(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "043-423-5406"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 159,
+		"fields": {
+			"rest_name": "원주(부산)",
+			"gas_name": "HD",
+			"gas_lpg": "Y",
+			"gas_tel": "033-731-0736"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 160,
+		"fields": {
+			"rest_name": "춘천(부산)",
+			"gas_name": "SK",
+			"gas_lpg": "Y",
+			"gas_tel": "033-264-0391"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 161,
+		"fields": {
+			"rest_name": "동명(춘천)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "054-977-6941"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 162,
+		"fields": {
+			"rest_name": "안동(춘천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-854-3324"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 163,
+		"fields": {
+			"rest_name": "군위(춘천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "054-383-6117"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 164,
+		"fields": {
+			"rest_name": "치악(춘천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "033-762-0349"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 165,
+		"fields": {
+			"rest_name": "단양팔경(춘천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "043-421-1676"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 166,
+		"fields": {
+			"rest_name": "홍천강(춘천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "033-435-6751"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 167,
+		"fields": {
+			"rest_name": "원주(춘천)",
+			"gas_name": "S",
+			"gas_lpg": "N",
+			"gas_tel": "033-731-6425"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 168,
+		"fields": {
+			"rest_name": "동명(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "054-977-6941"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 169,
+		"fields": {
+			"rest_name": "홍천(서울)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "033-436-7887"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 170,
+		"fields": {
+			"rest_name": "홍천(양양)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "033-436-7997"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 171,
+		"fields": {
+			"rest_name": "동해(삼척)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "033-534-6648"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 172,
+		"fields": {
+			"rest_name": "구정(삼척)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "033-644-8456"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 173,
+		"fields": {
+			"rest_name": "옥계(속초)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "033-534-2100"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 174,
+		"fields": {
+			"rest_name": "구정(속초)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "033-644-4929"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 175,
+		"fields": {
+			"rest_name": "외동(부산)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": null
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 176,
+		"fields": {
+			"rest_name": "외동(포항)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": null
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 177,
+		"fields": {
+			"rest_name": "장유(서부산)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "055-314-2447"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 178,
+		"fields": {
+			"rest_name": "부여백제(서천)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-833-8300"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 179,
+		"fields": {
+			"rest_name": "부여백제(공주)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-834-4600"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 180,
+		"fields": {
+			"rest_name": "벌곡(논산)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-733-7487"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 181,
+		"fields": {
+			"rest_name": "벌곡(대전)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "041-732-3991"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 182,
+		"fields": {
+			"rest_name": "삼국유사군위(상주)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "054-932-1200"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 183,
+		"fields": {
+			"rest_name": "군위영천(영천)",
+			"gas_name": "AD",
+			"gas_lpg": "N",
+			"gas_tel": "054-933-0820"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 184,
+		"fields": {
+			"rest_name": "낙동강의성(영천)",
+			"gas_name": "SK",
+			"gas_lpg": "Y",
+			"gas_tel": "031-481-8147"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 185,
+		"fields": {
+			"rest_name": "낙동강구미(상주)",
+			"gas_name": "SK",
+			"gas_lpg": "Y",
+			"gas_tel": "031-481-8149"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 186,
+		"fields": {
+			"rest_name": "현풍(대구)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "053-614-2508"
+		}
+	},
+	{
+		"model": "defaults.RestGas",
+		"pk": 187,
+		"fields": {
+			"rest_name": "현풍(창원)",
+			"gas_name": "AD",
+			"gas_lpg": "Y",
+			"gas_tel": "053-614-2437"
+		}
+	}
+]

@@ -1,0 +1,121 @@
+.over376 {
+  padding: 0 1.5em 0 1.5em;
+}
+
+.bestimg {
+  width: 70%;
+  height: 95%;
+  margin-bottom: 18px;
+}
+
+.bestimgbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 1.5em 0 1.5em;
+
+  flex-basis: 40%;
+}
+
+.bestbox {
+  display: flex;
+  align-items: center;
+  padding-left: 2%;
+  padding-right: 8%;
+
+  flex-basis: 60%;
+  font-family: 'Jal_Onuel';
+  font-size: 1.2vmax;
+}
+
+.namebox {
+  color: #54b48c;
+}
+
+.pricebox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (min-width: 377px) and (max-width: 560px) {
+  .bestbox {
+    font-family: 'Jal_Onuel';
+    font-size: 1.5vmax;
+  }
+}
+
+@media (min-width: 561px) and (max-width: 768px) {
+  .bestbox {
+    font-family: 'Jal_Onuel';
+    font-size: 1.8vmax;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1280px) {
+  .bestbox {
+    font-family: 'Jal_Onuel';
+    font-size: 1.6vmax;
+  }
+}
+
+@media (min-width: 1281px) and (max-width: 1600px) {
+  .bestbox {
+    font-family: 'Jal_Onuel';
+    font-size: 1.3vmax;
+  }
+}
+
+@media (min-width: 1601px) {
+  .bestbox {
+    font-family: 'Jal_Onuel';
+    font-size: 1vmax;
+  }
+}
+
+.npbox {
+  width: 100%;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+
+  border-color: rgb(211, 209, 209);
+  border-width: 1.3px;
+  border-style: dashed;
+  border-radius: 8px;
+  padding: 3%;
+}
+
+@media (max-width: 376px) {
+  .bestimgbox {
+    display: none;
+  }
+
+  .under376 {
+    width: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .bestbox {
+    width: 100%;
+    padding: 0;
+
+    display: inline;
+
+    font-family: 'Jal_Onuel';
+    font-size: 1em;
+  }
+
+  .npbox {
+    display: inline;
+  }
+
+  .namebox {
+    text-align: center;
+    margin-bottom: 5px;
+    color: #54b48c;
+  }
+}

@@ -1,0 +1,266 @@
+[
+  {
+    "model": "defaults.ExFood",
+    "pk": 0,
+    "fields": {
+      "rest_name": "서울만남(부산)",
+      "ex_name": "명인오모가리김치찌개",
+      "ex_price": "7,500원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_01.jpg",
+      "ex_info": "24시간 가마솥에서 우려낸 한우사골육수에 제주산 돼지고기와 묵은지 김치가 어우러진 깊고 진한 맛이 일품"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 1,
+    "fields": {
+      "rest_name": "기흥(부산)",
+      "ex_name": "소고기국밥",
+      "ex_price": "8,500원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_02.jpg",
+      "ex_info": "우양지로 진하게 우려낸 육수에 우거지와 무를 넣고 얼큰하게 끓여낸 국밥"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 2,
+    "fields": {
+      "rest_name": "안성(서울)",
+      "ex_name": "안성자연맞춤한우국밥",
+      "ex_price": "10,000원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_03.jpg",
+      "ex_info": "안성한우와 24시간 우려낸 사골육수의 조화로 담백함과 감칠맛이 뛰어난 휴게소 대표음식"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 3,
+    "fields": {
+      "rest_name": "횡성(강릉)",
+      "ex_name": "횡성한우떡더덕스테이크",
+      "ex_price": "15,000원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_04.jpg",
+      "ex_info": "횡성하면 한우! 횡성한우로 빚어낸 떡더덕 스테이크의 환상적인 콜라보레이션"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 4,
+    "fields": {
+      "rest_name": "횡성(인천)",
+      "ex_name": "횡성더덕설렁탕",
+      "ex_price": "9,000원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_05.jpg",
+      "ex_info": "횡성 한우를 오랜 시간 삶아내어 깊고 구수한 맛이 일품인 특급 보양식"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 5,
+    "fields": {
+      "rest_name": "여주(인천)",
+      "ex_name": "매운돼지갈비찜",
+      "ex_price": "9,000원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_06.jpg",
+      "ex_info": "부드럽고 담백한 돼지고기에 얼큰함을 더한 휴게소 대표음식"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 6,
+    "fields": {
+      "rest_name": "문경(창원)",
+      "ex_name": "전복왕갈비탕",
+      "ex_price": "12,000원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_07.jpg",
+      "ex_info": "전복, 낙지, 대추 등 장거리 운전에 지친 고객들을 위한 맞춤형 보양식"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 7,
+    "fields": {
+      "rest_name": "속리산(청주)",
+      "ex_name": "보은대추영양솥밥",
+      "ex_price": "11,000원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_08.jpg",
+      "ex_info": "보은대추와 서리태, 느타리, 은행 등 맛과 영양까지 풍부한 영양식"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 8,
+    "fields": {
+      "rest_name": "오창(남이)",
+      "ex_name": "능이버섯인삼설렁탕",
+      "ex_price": "10,000원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_09.jpg",
+      "ex_info": "능이버섯과 인삼이 들어간 최고의 ‘보양식’"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 9,
+    "fields": {
+      "rest_name": "천안삼거리(서울)",
+      "ex_name": "해주비빔밥",
+      "ex_price": "10,000원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_10.jpg",
+      "ex_info": "기름에 볶은 밥, 닭고기 고명, 간장 양념이 특징인 조선 3대 비빔밥 ‘황해도 해주비빔밥’"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 10,
+    "fields": {
+      "rest_name": "황간(부산)",
+      "ex_name": "영표국밥",
+      "ex_price": "6,000원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_11.jpg",
+      "ex_info": "충북 영동의 표고버섯에 사골육수와 고추기름이 만나 칼칼하고 시원한 맛이 일품"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 11,
+    "fields": {
+      "rest_name": "천안호두(부산)",
+      "ex_name": "아우내병천순대국밥",
+      "ex_price": "8,000원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_12.jpg",
+      "ex_info": "담백하고 쫄긴한 순대와 진한 육수가 만나 그 유명한 ‘병천순대국밥’을 재현"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 12,
+    "fields": {
+      "rest_name": "이서(천안)",
+      "ex_name": "명품애호박국밥",
+      "ex_price": "8,500원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_13.jpg",
+      "ex_info": "육개장 육수에 로컬푸드인 애호박과 두툼한 돼지고기를 더한 얼큰하고 시원한 한 끼 식사"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 13,
+    "fields": {
+      "rest_name": "금산인삼랜드(통영)",
+      "ex_name": "인삼능이왕갈비탕",
+      "ex_price": "15,000원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_14.jpg",
+      "ex_info": "기력회복에 좋은 능이버섯과 금산인삼을 활용한 최고의 건강식"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 14,
+    "fields": {
+      "rest_name": "진안마이산(익산)",
+      "ex_name": "마이산더덕비빔밥",
+      "ex_price": "9,000원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_15.jpg",
+      "ex_info": "진안에서 자란 더덕의 풍미와 풍성한 재료로 맛까지 더한 맛있는 비빔밥"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 15,
+    "fields": {
+      "rest_name": "황전(완주)",
+      "ex_name": "황전해초꼬막비빔밥",
+      "ex_price": "10,000원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_16.jpg",
+      "ex_info": "벌교꼬막에 전남 완도의 싱싱한 해초류를 더해 쫄깃하고 아삭한 식감이 일품인 꼬막비빔밥"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 16,
+    "fields": {
+      "rest_name": "백양사(천안)",
+      "ex_name": "삼채애호박찌개",
+      "ex_price": "7,500원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_17.jpg",
+      "ex_info": "달콤하고 매콤한 고품격 채소인 삼채를 활용한 건강식"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 17,
+    "fields": {
+      "rest_name": "섬진강(순천)",
+      "ex_name": "청매실재첩비빔밥",
+      "ex_price": "8,000원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_18.jpg",
+      "ex_info": "자체 제조한 매실장아찌와 엑기스에 싱싱한 재첩을 활용한 웰빙음식의 진수"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 18,
+    "fields": {
+      "rest_name": "칠곡(서울)",
+      "ex_name": "칠곡벌꿀소머리곰탕",
+      "ex_price": "9,000원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_19.jpg",
+      "ex_info": "소머리고기를 여러 번 우려낸 육수의 깊은 맛이 일품"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 19,
+    "fields": {
+      "rest_name": "성주(양평)",
+      "ex_name": "고추장제육볶음",
+      "ex_price": "8,500원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_20.jpg",
+      "ex_info": "갖은 양념으로 숙성한 돼지 앞다리살과 쌈 채소 등이 어우러진 푸짐한 한상차림수"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 20,
+    "fields": {
+      "rest_name": "안동(부산)",
+      "ex_name": "이동삼안동간고등어정식",
+      "ex_price": "10,000원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_21.jpg",
+      "ex_info": "고소하고 담백한 맛이 일품인 고등어정식"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 21,
+    "fields": {
+      "rest_name": "진영(순천)",
+      "ex_name": "장군차생고기김치찌개",
+      "ex_price": "7,500원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_22.jpg",
+      "ex_info": "신선한 돼지고기에 장군차를 활용하여 맛과 건강을 동시에 잡은 건강식"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 22,
+    "fields": {
+      "rest_name": "산청(하남)",
+      "ex_name": "한방우불고기",
+      "ex_price": "9,000원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_23.jpg",
+      "ex_info": "연한 소고기 등심에 갖은 양념과 한방재료를 첨가한 맛있는 보양식"
+    }
+  },
+  {
+    "model": "defaults.ExFood",
+    "pk": 23,
+    "fields": {
+      "rest_name": "통도사(부산)",
+      "ex_name": "명품낙지덮밥",
+      "ex_price": "9,500원",
+      "ex_img": "https://www.ex.co.kr/images/site/cmm/contents/2020/CNTTS202002P04_24.jpg",
+      "ex_info": "볶은 낙지와 다양한 재료가 어우러진 웰빙 음식"
+    }
+  }
+]

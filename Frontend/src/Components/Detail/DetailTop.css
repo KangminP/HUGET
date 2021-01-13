@@ -1,0 +1,128 @@
+/* @font-face {
+  font-family: 'Malssami815';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_four@1.0/Malssami815.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+} */
+
+@font-face {
+  font-family: 'Jal_Onuel';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-10-21@1.0/Jal_Onuel.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.post {
+  /* border: 1px solid #8C4DE8; */
+  display: flex;
+  margin-bottom: 10px;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.rank {
+  /* display: inline-block; */
+  font-size: 14px;
+  font-weight: border;
+  color: white;
+  padding: 10px;
+  background: #f19cba;
+  width: 14px;
+  height: 14px;
+  line-height: 18px;
+  text-align: center;
+  border-radius: 50%;
+  margin-right: 8px;
+  margin-left: 50px;
+}
+
+.lowranking .rank {
+  font-size: 20px;
+  padding: 0;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+}
+
+.post-content {
+  display: flex;
+  align-items: center;
+  color: #f19cba;
+  /* color: #ff2965; */
+}
+
+.post-item {
+  display: inline-block;
+}
+
+.category {
+  color: #f19cba;
+  font-weight: bolder;
+  margin-right: 2px;
+
+  font-family: 'Jal_Onuel';
+  font-size: 2vmin;
+}
+
+.corner {
+  float: right;
+  color: #7390b1;
+  padding-right: 15px;
+
+  font-family: 'Jal_Onuel';
+  font-size: 2vmin;
+}
+
+.highranking {
+  background: #f19cba;
+  height: 45px;
+  position: relative;
+}
+
+.highranking .flex {
+  height: 100%;
+}
+
+.highranking .rank {
+  height: 50px;
+  font-size: 43px;
+  line-height: 43px;
+  font-weight: bolder;
+  margin-left: 0;
+  margin-bottom: 0px;
+  background: none;
+}
+
+.highranking .category {
+  color: white;
+  margin-left: 16px;
+}
+
+.highranking .post-content {
+  color: white;
+}
+
+.highranking .corner {
+  color: white;
+}
+
+.first {
+  margin-left: 10px;
+}
+
+.second {
+  margin-left: 25px;
+}
+
+.third {
+  margin-left: 40px;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,206 @@
+@font-face {
+  font-family: 'NanumBarunpen';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NanumBarunpen.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MapoDPPA';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDPPA.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.detail-box-title {
+  font-family: 'MapoDPPA';
+  font-size: 1.3vmax;
+}
+
+.detail-box-subtitle {
+  font-family: 'NanumBarunpen';
+  font-size: 1.2vmax;
+}
+
+.detail-alert {
+  font-family: 'NanumBarunpen';
+  font-size: 1vmax;
+}
+
+/* ////////////////////////////////////////////////// */
+
+.detailbox {
+  /* min-width: 280px; */
+  /* width: 676px; */
+  max-width: 676px;
+
+  /* width: 100%;
+  background-color: #e0dbdb31; */
+
+  /* background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab); */
+  background: linear-gradient(-45deg, #eba7dc, #eed1de, #dae2f8, #abc7e6);
+  background-size: 400% 400%;
+  animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.detail-section {
+  margin: auto;
+  width: 95%;
+
+  padding-bottom: 10px;
+}
+
+.tempBack {
+  float: left;
+  height: 60px;
+
+  display: flex;
+  align-items: center;
+
+  cursor: pointer;
+}
+
+.tempBlankNav {
+  height: 60px;
+}
+
+@media (max-width: 313px) {
+  .tempBlankNav {
+    height: 120px;
+  }
+}
+
+.tempNav {
+  height: 60px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family: 'NanumBarunpen';
+  font-size: 2.1vmin;
+}
+
+/* widget */
+.detailActions .adminActions {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+}
+
+.detailActions .adminButton {
+  height: 60px;
+  width: 60px;
+  background-color: rgba(67, 83, 143, 0.8);
+  border-radius: 50%;
+  display: block;
+  color: #fff;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+.detailActions .adminButton i {
+  font-size: 22px;
+}
+
+.detailActions .adminButtons {
+  position: absolute;
+  width: 100%;
+  bottom: 120%;
+  text-align: center;
+}
+
+.detailActions .adminButtons a {
+  display: block;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  text-decoration: none;
+  margin: 0;
+  line-height: 1.15;
+  color: #fff;
+  opacity: 0;
+  visibility: hidden;
+  position: relative;
+  box-shadow: 0 0 5px 1px rgba(51, 51, 51, 0.3);
+}
+
+.detailActions .adminButtons a:hover {
+  transform: scale(1.05);
+}
+
+.detailActions .adminButtons a:nth-child(1) {
+  background-color: #e637e6;
+  transition: opacity 0.2s ease-in-out 0.3s, transform 0.15s ease-in-out;
+}
+
+.detailActions .adminButtons a:nth-child(2) {
+  background-color: #03a9f4;
+  transition: opacity 0.2s ease-in-out 0.25s, transform 0.15s ease-in-out;
+}
+
+.detailActions .adminButtons a:nth-child(3) {
+  background-color: #4caf50;
+  transition: opacity 0.2s ease-in-out 0.15s, transform 0.15s ease-in-out;
+}
+
+.detailActions .adminButtons a:nth-child(4) {
+  background-color: #f1b036;
+  transition: opacity 0.2s ease-in-out 0.15s, transform 0.15s ease-in-out;
+}
+
+.detailActions .adminActions a i {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.detailActions .adminToggle {
+  -webkit-appearance: none;
+  position: absolute;
+  border-radius: 50%;
+  top: 0;
+  left: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  z-index: 2;
+  transition: box-shadow 0.2s ease-in-out;
+  box-shadow: 0 3px 5px 1px rgba(51, 51, 51, 0.3);
+}
+
+.detailActions .adminToggle:hover {
+  box-shadow: 0 3px 6px 2px rgba(51, 51, 51, 0.3);
+}
+
+.detailActions .adminToggle:checked ~ .adminButtons a {
+  opacity: 1;
+  visibility: visible;
+  height: 45px;
+  margin: 10px auto 0;
+  width: 45px;
+}
+
+.detailActions .gototop-btn {
+  color: #ffffff;
+}

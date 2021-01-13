@@ -1,0 +1,43 @@
+/* @font-face {
+  font-family: '777Newyorkers';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_nine_@1.1/777Newyorkers.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+} */
+
+.form-control {
+  font-size: 0.9em;
+}
+
+.form-control::placeholder {
+  color: rgb(167, 167, 167);
+}
+
+@media (max-width: 768px) {
+  .comment-card {
+    font-family: 'NanumBarunpen';
+    font-size: 2vmax;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1280px) {
+  .comment-card {
+    font-family: 'NanumBarunpen';
+    font-size: 1.5vmax;
+  }
+}
+
+@media (min-width: 1281px) and (max-width: 1600px) {
+  .comment-card {
+    font-family: 'NanumBarunpen';
+    font-size: 1.2vmax;
+  }
+}
+
+@media (min-width: 1601px) {
+  .comment-card {
+    font-family: 'NanumBarunpen';
+    font-size: 1vmax;
+  }
+}

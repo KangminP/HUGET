@@ -1,0 +1,128 @@
+@font-face {
+  font-family: 'BBTreeGR';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_nine_@1.1/BBTreeGR.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.catemenu {
+  background: #8caacf;
+  width: 100%;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  z-index: 5;
+}
+
+@media (max-width: 194px) {
+  .catemenu {
+    background: #8caacf;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    right: 0;
+    z-index: 5;
+  }
+}
+
+.catemenu ul {
+  width: 100%;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: block;
+  zoom: 1;
+
+  font-family: 'BBTreeGR';
+}
+
+.catemenu ul:after {
+  content: ' ';
+  display: block;
+  font-size: 0;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+
+.catemenu ul li {
+  display: inline-block !important;
+  padding: 0;
+  margin: 0;
+  height: 60px;
+  line-height: 30px;
+}
+
+.catemenu ul li button {
+  color: #ffffff;
+  text-decoration: none;
+  display: block;
+  padding: 15px 20px;
+
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 17px;
+  position: relative;
+  -webkit-transition: color 0.25s;
+  -moz-transition: color 0.25s;
+  -ms-transition: color 0.25s;
+  -o-transition: color 0.25s;
+  transition: color 0.25s;
+
+  background-color: #ffffff00;
+  border: 0;
+  outline: 0;
+}
+
+.catemenu ul li button:hover {
+  color: #627188;
+}
+
+.catemenu ul li button:after {
+  content: '';
+  display: block;
+  position: absolute;
+  right: -3px;
+
+  height: 6px;
+  width: 6px;
+  background: #ffffff;
+  opacity: 0.5;
+
+  top: 45%;
+}
+
+.catemenu ul li.last > button:after,
+.catemenu ul li:last-child > button:after {
+  display: none;
+}
+
+@media (max-width: 313px) {
+  .catemenu ul li {
+    height: 40px;
+    line-height: 10px;
+    width: 100%;
+
+    display: flex;
+    justify-content: center;
+  }
+
+  .catemenu ul li button:after {
+    display: none;
+  }
+}
+
+@media (min-width: 314px) and (max-width: 675px) {
+  .catemenu {
+    width: 100%;
+  }
+}
+
+@media (min-width: 676px) {
+  .catemenu {
+    width: 676px;
+  }
+}

@@ -1,0 +1,381 @@
+/* @font-face {
+  font-family: '777Newyorkers';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_nine_@1.1/777Newyorkers.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+} */
+
+.menu-btn {
+  width: 90%;
+  background-color: #59687e;
+  color: #ffffff;
+  border-radius: 3px;
+
+  font-family: 'NanumBarunpen';
+  font-size: 1.2em;
+  height: 45px;
+}
+
+.ant-btn:hover,
+.ant-btn:focus {
+  color: #59687e;
+  background: #fff;
+  border-color: #59687e;
+}
+
+.block {
+  width: 90%;
+  margin: auto;
+  margin-bottom: 20px;
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.2);
+}
+
+.price {
+  float: right;
+  position: relative;
+}
+
+@media (min-width: 377px) and (max-width: 768px) {
+  .ant-modal-title {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #272625;
+    font-size: 2.5vmax !important;
+  }
+
+  .menu-items {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #272625;
+    /* font-weight: 600; */
+    /* font-size: 0.8rem; */
+    font-size: 2.2vmax !important;
+    margin-bottom: 5px;
+  }
+
+  .menu-items-best {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #ffffff;
+    /* font-weight: 600; */
+    /* font-size: 0.8rem; */
+    font-size: 2.2vmax !important;
+    margin-bottom: 5px;
+    background-color: black;
+  }
+
+  .responsive-table .col-a {
+    flex-basis: 20%;
+    font-size: 1.7vmax;
+  }
+
+  .responsive-table .col-b {
+    flex-basis: 30%;
+    font-size: 1.7vmax;
+  }
+
+  .responsive-table .col-c {
+    flex-basis: 50%;
+    font-size: 1.7vmax;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1000px) {
+  .ant-modal-title {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #272625;
+    font-size: 2.3vmax !important;
+  }
+
+  .menu-items {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #272625;
+    /* font-weight: 600; */
+    /* font-size: 0.8rem; */
+    font-size: 2vmax !important;
+    margin-bottom: 5px;
+  }
+
+  .menu-items-best {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #ffffff;
+    /* font-weight: 600; */
+    /* font-size: 0.8rem; */
+    font-size: 2vmax !important;
+    margin-bottom: 5px;
+    background-color: black;
+  }
+
+  .responsive-table .col-a {
+    flex-basis: 20%;
+    font-size: 1.5vmax;
+  }
+
+  .responsive-table .col-b {
+    flex-basis: 30%;
+    font-size: 1.5vmax;
+  }
+
+  .responsive-table .col-c {
+    flex-basis: 50%;
+    font-size: 1.5vmax;
+  }
+}
+
+@media (min-width: 1001px) and (max-width: 1280px) {
+  .ant-modal-title {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #272625;
+    font-size: 2.1vmax !important;
+  }
+
+  .menu-items {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #272625;
+    /* font-weight: 600; */
+    /* font-size: 0.8rem; */
+    font-size: 1.8vmax !important;
+    margin-bottom: 5px;
+  }
+
+  .menu-items-best {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #ffffff;
+    /* font-weight: 600; */
+    /* font-size: 0.8rem; */
+    font-size: 1.8vmax !important;
+    margin-bottom: 5px;
+    background-color: black;
+  }
+
+  .responsive-table .col-a {
+    flex-basis: 20%;
+    font-size: 1.3vmax;
+  }
+
+  .responsive-table .col-b {
+    flex-basis: 30%;
+    font-size: 1.3vmax;
+  }
+
+  .responsive-table .col-c {
+    flex-basis: 50%;
+    font-size: 1.3vmax;
+  }
+}
+
+@media (min-width: 1281px) and (max-width: 1600px) {
+  .ant-modal-title {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #272625;
+    font-size: 1.8vmax !important;
+  }
+
+  .menu-items {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #272625;
+    /* font-weight: 600; */
+    /* font-size: 0.8rem; */
+    font-size: 1.5vmax !important;
+    margin-bottom: 5px;
+  }
+
+  .menu-items-best {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #ffffff;
+    /* font-weight: 600; */
+    /* font-size: 0.8rem; */
+    font-size: 1.5vmax !important;
+    margin-bottom: 5px;
+    background-color: black;
+  }
+
+  .responsive-table .col-a {
+    flex-basis: 20%;
+    font-size: 1.1vmax;
+  }
+
+  .responsive-table .col-b {
+    flex-basis: 30%;
+    font-size: 1.1vmax;
+  }
+
+  .responsive-table .col-c {
+    flex-basis: 50%;
+    font-size: 1.1vmax;
+  }
+}
+
+@media (min-width: 1601px) {
+  .ant-modal-title {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #272625;
+    font-size: 1.5vmax !important;
+  }
+
+  .menu-items {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #272625;
+    /* font-weight: 600; */
+    /* font-size: 0.8rem; */
+    font-size: 1.3vmax !important;
+    margin-bottom: 5px;
+  }
+
+  .menu-items-best {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #ffffff;
+    /* font-weight: 600; */
+    /* font-size: 0.8rem; */
+    font-size: 1.3vmax !important;
+    margin-bottom: 5px;
+    background-color: black;
+  }
+
+  .responsive-table .col-a {
+    flex-basis: 20%;
+    font-size: 0.9vmax;
+  }
+
+  .responsive-table .col-b {
+    flex-basis: 30%;
+    font-size: 0.9vmax;
+  }
+
+  .responsive-table .col-c {
+    flex-basis: 50%;
+    font-size: 0.9vmax;
+  }
+}
+
+.fa-star {
+  color: yellow;
+}
+
+.ant-btn-primary {
+  background-color: black !important;
+  border-color: black !important;
+}
+
+.tablebox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family: 'NanumBarunpen';
+}
+
+.table-header {
+  font-family: 'NanumBarunpen';
+}
+
+.responsive-table {
+  margin: 0;
+  padding: 0;
+  width: 90%;
+}
+
+.responsive-table li {
+  border-radius: 3px;
+  padding: 10px 15px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.responsive-table .table-header {
+  background-color: #59687e;
+  font-size: 14px;
+  /* letter-spacing: 0.03em; */
+  color: #ffffff;
+}
+
+.responsive-table .table-row {
+  background-color: #ffffff;
+  box-shadow: 0px 0px 9px 0px rgba(0, 0, 0, 0.1);
+}
+
+.responsive-table .col-a {
+  flex-basis: 20%;
+  /* font-size: 1.4vmax; */
+}
+
+.responsive-table .col-b {
+  flex-basis: 30%;
+  /* font-size: 1.4vmax; */
+}
+
+.responsive-table .col-c {
+  flex-basis: 50%;
+  /* font-size: 1.4vmax; */
+}
+
+@media (max-width: 376px) {
+  .responsive-table .table-header {
+    display: none;
+  }
+
+  .responsive-table .table-row {
+    display: block;
+  }
+
+  .responsive-table .col {
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    flex-direction: column;
+    padding: 0 0 10px 0;
+
+    /* font-size: 1rem; */
+    font-size: 0.9em;
+  }
+
+  .responsive-table .col:before {
+    color: #6c7a89;
+    /* padding-right: 10px; */
+    content: attr(data-label);
+    /* flex-basis: 50%;
+    text-align: right; */
+  }
+
+  .ant-modal-title {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #272625;
+    font-size: 2.5vmax !important;
+  }
+
+  .menu-items {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #272625;
+    /* font-weight: 600; */
+    /* font-size: 0.8rem; */
+    font-size: 2.2vmax !important;
+    margin-bottom: 5px;
+  }
+
+  .menu-items-best {
+    font-family: 'NanumBarunpen';
+    text-align: left;
+    color: #ffffff;
+    /* font-weight: 600; */
+    /* font-size: 0.8rem; */
+    font-size: 2.2vmax !important;
+    margin-bottom: 5px;
+    background-color: black;
+  }
+}

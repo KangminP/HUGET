@@ -1,0 +1,9452 @@
+[
+  {
+    "model": "defaults.TopItem",
+    "pk": 0,
+    "fields": {
+      "rest_name": "서울만남(부산)",
+      "rank": "1",
+      "top_shop": "말죽거리한식당",
+      "top_item": "말죽거리소고기국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 1,
+    "fields": {
+      "rest_name": "서울만남(부산)",
+      "rank": "2",
+      "top_shop": "탐앤탐스",
+      "top_item": "아이스카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 2,
+    "fields": {
+      "rest_name": "서울만남(부산)",
+      "rank": "3",
+      "top_shop": "호도과자",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 3,
+    "fields": {
+      "rest_name": "서울만남(부산)",
+      "rank": "4",
+      "top_shop": "탐앤탐스",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 4,
+    "fields": {
+      "rest_name": "서울만남(부산)",
+      "rank": "5",
+      "top_shop": "호도과자",
+      "top_item": "매직핫도그(4500)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 5,
+    "fields": {
+      "rest_name": "죽전(서울)",
+      "rank": "1",
+      "top_shop": "호도과자코너",
+      "top_item": "호도호두과자(5000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 6,
+    "fields": {
+      "rest_name": "죽전(서울)",
+      "rank": "2",
+      "top_shop": "자율식당",
+      "top_item": "단배추바지락된장국(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 7,
+    "fields": {
+      "rest_name": "죽전(서울)",
+      "rank": "3",
+      "top_shop": "달달구리(청년창업)",
+      "top_item": "달달구리꽈배기"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 8,
+    "fields": {
+      "rest_name": "죽전(서울)",
+      "rank": "4",
+      "top_shop": "간식코너",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 9,
+    "fields": {
+      "rest_name": "죽전(서울)",
+      "rank": "5",
+      "top_shop": "자율식당",
+      "top_item": "공기밥(자율) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 10,
+    "fields": {
+      "rest_name": "기흥(부산)",
+      "rank": "1",
+      "top_shop": "던킨도너츠",
+      "top_item": "던킨빵음료 3700"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 11,
+    "fields": {
+      "rest_name": "기흥(부산)",
+      "rank": "2",
+      "top_shop": "델리쉐프",
+      "top_item": "저가떡볶이"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 12,
+    "fields": {
+      "rest_name": "기흥(부산)",
+      "rank": "3",
+      "top_shop": "네파",
+      "top_item": "의류(전문매장)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 13,
+    "fields": {
+      "rest_name": "기흥(부산)",
+      "rank": "4",
+      "top_shop": "한식당",
+      "top_item": "소고기국밥(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 14,
+    "fields": {
+      "rest_name": "기흥(부산)",
+      "rank": "5",
+      "top_shop": "던킨도너츠",
+      "top_item": "던킨)먼치킨(4000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 15,
+    "fields": {
+      "rest_name": "안성(서울)",
+      "rank": "1",
+      "top_shop": "1.안성한우국밥곰탕",
+      "top_item": "11.자연마춤한우국밥10.0"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 16,
+    "fields": {
+      "rest_name": "안성(서울)",
+      "rank": "2",
+      "top_shop": "6.핫바(신)",
+      "top_item": "1.소떡소떡3.5(옥두식품/핫바)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 17,
+    "fields": {
+      "rest_name": "안성(서울)",
+      "rank": "3",
+      "top_shop": "6.호두과자(신)",
+      "top_item": "호두과자5.0(봉투)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 18,
+    "fields": {
+      "rest_name": "안성(서울)",
+      "rank": "4",
+      "top_shop": "6.호두과자(신)",
+      "top_item": "호두과자10.0"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 19,
+    "fields": {
+      "rest_name": "안성(서울)",
+      "rank": "5",
+      "top_shop": "5.할리스커피(신)",
+      "top_item": "할리I 4.1"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 20,
+    "fields": {
+      "rest_name": "안성(부산)",
+      "rank": "1",
+      "top_shop": "1.안성국밥/비빔밥",
+      "top_item": "1.안성국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 21,
+    "fields": {
+      "rest_name": "안성(부산)",
+      "rank": "2",
+      "top_shop": "5.열린매장 A",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 22,
+    "fields": {
+      "rest_name": "안성(부산)",
+      "rank": "3",
+      "top_shop": "2.소머리국밥",
+      "top_item": "소머리국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 23,
+    "fields": {
+      "rest_name": "안성(부산)",
+      "rank": "4",
+      "top_shop": "7.마노",
+      "top_item": "멘보샤"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 24,
+    "fields": {
+      "rest_name": "안성(부산)",
+      "rank": "5",
+      "top_shop": "5.열린매장 B",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 25,
+    "fields": {
+      "rest_name": "입장거봉포도(서울)",
+      "rank": "1",
+      "top_shop": "탐앤탐스(커피)",
+      "top_item": "아이스카페아메리카노.[4100]-탐탐-엘로우"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 26,
+    "fields": {
+      "rest_name": "입장거봉포도(서울)",
+      "rank": "2",
+      "top_shop": "호두과자(18년직영)",
+      "top_item": "호두과자10000(케이스)-케이알"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 27,
+    "fields": {
+      "rest_name": "입장거봉포도(서울)",
+      "rank": "3",
+      "top_shop": "호두과자(18년직영)",
+      "top_item": "호두과자5000-케이알"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 28,
+    "fields": {
+      "rest_name": "입장거봉포도(서울)",
+      "rank": "4",
+      "top_shop": "탐앤탐스(커피)",
+      "top_item": "카페아메리카노.[4100]-탐탐-엘로우"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 29,
+    "fields": {
+      "rest_name": "입장거봉포도(서울)",
+      "rank": "5",
+      "top_shop": "신토불이(군밤)",
+      "top_item": "군밤/군고구마[5000]-신토불이"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 30,
+    "fields": {
+      "rest_name": "망향(부산)",
+      "rank": "1",
+      "top_shop": "501_호두과자",
+      "top_item": "호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 31,
+    "fields": {
+      "rest_name": "망향(부산)",
+      "rank": "2",
+      "top_shop": "501_호두과자",
+      "top_item": "3000호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 32,
+    "fields": {
+      "rest_name": "망향(부산)",
+      "rank": "3",
+      "top_shop": "501_호두과자",
+      "top_item": "10000호두과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 33,
+    "fields": {
+      "rest_name": "망향(부산)",
+      "rank": "4",
+      "top_shop": "P01_커피니",
+      "top_item": "아이스아메리카노(커피니) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 34,
+    "fields": {
+      "rest_name": "망향(부산)",
+      "rank": "5",
+      "top_shop": "G_01벤제프",
+      "top_item": "의류(전문매장) 동광의류(100000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 35,
+    "fields": {
+      "rest_name": "천안삼거리(서울)",
+      "rank": "1",
+      "top_shop": "350_호두과자1",
+      "top_item": "명품호두과자(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 36,
+    "fields": {
+      "rest_name": "천안삼거리(서울)",
+      "rank": "2",
+      "top_shop": "350_호두과자1",
+      "top_item": "명품호두과자5000(간식용) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 37,
+    "fields": {
+      "rest_name": "천안삼거리(서울)",
+      "rank": "3",
+      "top_shop": "350_호두과자1",
+      "top_item": "명품호두과자(3000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 38,
+    "fields": {
+      "rest_name": "천안삼거리(서울)",
+      "rank": "4",
+      "top_shop": "120_한식당",
+      "top_item": "돌솥비빔밥(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 39,
+    "fields": {
+      "rest_name": "천안삼거리(서울)",
+      "rank": "5",
+      "top_shop": "450_오징어(직영)",
+      "top_item": "떡햄바"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 40,
+    "fields": {
+      "rest_name": "천안호두(부산)",
+      "rank": "1",
+      "top_shop": "호도과자코너",
+      "top_item": "호두과자(5000) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 41,
+    "fields": {
+      "rest_name": "천안호두(부산)",
+      "rank": "2",
+      "top_shop": "호도과자코너",
+      "top_item": "호두과자(10000) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 42,
+    "fields": {
+      "rest_name": "천안호두(부산)",
+      "rank": "3",
+      "top_shop": "호도과자코너",
+      "top_item": "호두과자(2000) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 43,
+    "fields": {
+      "rest_name": "천안호두(부산)",
+      "rank": "4",
+      "top_shop": "5.한식",
+      "top_item": "우거지사골국밥 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 44,
+    "fields": {
+      "rest_name": "천안호두(부산)",
+      "rank": "5",
+      "top_shop": "탐앤탐스",
+      "top_item": "아이스아메리카노아이스티(복숭아레몬)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 45,
+    "fields": {
+      "rest_name": "옥산(부산)",
+      "rank": "1",
+      "top_shop": "식당(일반)",
+      "top_item": "묵은지꽁치찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 46,
+    "fields": {
+      "rest_name": "옥산(부산)",
+      "rank": "2",
+      "top_shop": "의류매장",
+      "top_item": "클라이머홀릭100000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 47,
+    "fields": {
+      "rest_name": "옥산(부산)",
+      "rank": "3",
+      "top_shop": "놀부부대찌개",
+      "top_item": "놀부부대찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 48,
+    "fields": {
+      "rest_name": "옥산(부산)",
+      "rank": "4",
+      "top_shop": "식당(일반)",
+      "top_item": "소고기국밥 소고기국밥(8000)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 49,
+    "fields": {
+      "rest_name": "옥산(부산)",
+      "rank": "5",
+      "top_shop": "스낵(라면)",
+      "top_item": "(실속)신(辛)라면 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 50,
+    "fields": {
+      "rest_name": "죽암(서울)",
+      "rank": "1",
+      "top_shop": "120_한식당(신규)",
+      "top_item": "해물순두부 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 51,
+    "fields": {
+      "rest_name": "죽암(서울)",
+      "rank": "2",
+      "top_shop": "127_탐앤탐스(직영)",
+      "top_item": "카페아메리카노(탐탐)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 52,
+    "fields": {
+      "rest_name": "죽암(서울)",
+      "rank": "3",
+      "top_shop": "990_EX카페",
+      "top_item": "ex-cafe아메리카노(I)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 53,
+    "fields": {
+      "rest_name": "죽암(서울)",
+      "rank": "4",
+      "top_shop": "127_탐앤탐스(직영)",
+      "top_item": "아이스카페아메리카노(탐탐)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 54,
+    "fields": {
+      "rest_name": "죽암(서울)",
+      "rank": "5",
+      "top_shop": "350_호두과자",
+      "top_item": "명품호두과자5000(간식용) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 55,
+    "fields": {
+      "rest_name": "죽암(부산)",
+      "rank": "1",
+      "top_shop": "호두과자",
+      "top_item": "3.호두과자(5000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 56,
+    "fields": {
+      "rest_name": "죽암(부산)",
+      "rank": "2",
+      "top_shop": "죽암왕갈비탕",
+      "top_item": "보은대추왕갈비탕"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 57,
+    "fields": {
+      "rest_name": "죽암(부산)",
+      "rank": "3",
+      "top_shop": "호두과자",
+      "top_item": "4.호두과자(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 58,
+    "fields": {
+      "rest_name": "죽암(부산)",
+      "rank": "4",
+      "top_shop": "탐앤탐스",
+      "top_item": "92. (아이스)아메리카노아이스티 4100 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 59,
+    "fields": {
+      "rest_name": "죽암(부산)",
+      "rank": "5",
+      "top_shop": "산뜰愛(애)",
+      "top_item": "등심돈가스(9000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 60,
+    "fields": {
+      "rest_name": "신탄진(서울)",
+      "rank": "1",
+      "top_shop": "420_호도과자",
+      "top_item": "3000호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 61,
+    "fields": {
+      "rest_name": "신탄진(서울)",
+      "rank": "2",
+      "top_shop": "550_탐앤탐스",
+      "top_item": "아이스카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 62,
+    "fields": {
+      "rest_name": "신탄진(서울)",
+      "rank": "3",
+      "top_shop": "180_기사전용식당",
+      "top_item": "뚝배기동태탕(기)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 63,
+    "fields": {
+      "rest_name": "신탄진(서울)",
+      "rank": "4",
+      "top_shop": "180_기사전용식당",
+      "top_item": "고추장불고기(기)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 64,
+    "fields": {
+      "rest_name": "신탄진(서울)",
+      "rank": "5",
+      "top_shop": "550_탐앤탐스",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 65,
+    "fields": {
+      "rest_name": "옥천(서울)",
+      "rank": "1",
+      "top_shop": "식당(한식)",
+      "top_item": "한방닭곰탕(9000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 66,
+    "fields": {
+      "rest_name": "옥천(서울)",
+      "rank": "2",
+      "top_shop": "커피(할리스)",
+      "top_item": "[할]ICE아메리카노[빨]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 67,
+    "fields": {
+      "rest_name": "옥천(서울)",
+      "rank": "3",
+      "top_shop": "식당(한식)",
+      "top_item": "순두부찌개(7500)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 68,
+    "fields": {
+      "rest_name": "옥천(서울)",
+      "rank": "4",
+      "top_shop": "식당(한식)",
+      "top_item": "김치찌개(7500)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 69,
+    "fields": {
+      "rest_name": "옥천(서울)",
+      "rank": "5",
+      "top_shop": "커피(할리스)",
+      "top_item": "[할]HOT아메리카노[빨]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 70,
+    "fields": {
+      "rest_name": "금강(부산)",
+      "rank": "1",
+      "top_shop": "본관 의류((미사용)",
+      "top_item": "의류(50000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 71,
+    "fields": {
+      "rest_name": "금강(부산)",
+      "rank": "2",
+      "top_shop": "본관 의류((미사용)",
+      "top_item": "농심유부우동"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 72,
+    "fields": {
+      "rest_name": "금강(부산)",
+      "rank": "3",
+      "top_shop": "탐앤탐스(하행)",
+      "top_item": "(탐스-상)초코라떼-핫초코릿 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 73,
+    "fields": {
+      "rest_name": "금강(부산)",
+      "rank": "4",
+      "top_shop": "탐앤탐스(하행)",
+      "top_item": "(하)카페아메리카노 카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 74,
+    "fields": {
+      "rest_name": "금강(부산)",
+      "rank": "5",
+      "top_shop": "롯데리아",
+      "top_item": "(★롯데리아)불고기버거세트 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 75,
+    "fields": {
+      "rest_name": "황간(부산)",
+      "rank": "1",
+      "top_shop": "맛남의식당",
+      "top_item": "영표국밥(6000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 76,
+    "fields": {
+      "rest_name": "황간(부산)",
+      "rank": "2",
+      "top_shop": "식당(한식)",
+      "top_item": "차돌된장찌개와솥밥 차돌된장찌개(8000)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 77,
+    "fields": {
+      "rest_name": "황간(부산)",
+      "rank": "3",
+      "top_shop": "커피(할리스)",
+      "top_item": "아이스아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 78,
+    "fields": {
+      "rest_name": "황간(부산)",
+      "rank": "4",
+      "top_shop": "커피(할리스)",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 79,
+    "fields": {
+      "rest_name": "황간(부산)",
+      "rank": "5",
+      "top_shop": "코바코돈가스",
+      "top_item": "수제왕돈까스 통등심돈가스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 80,
+    "fields": {
+      "rest_name": "황간(서울)",
+      "rank": "1",
+      "top_shop": "맛남의식당",
+      "top_item": "영표국밥(6000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 81,
+    "fields": {
+      "rest_name": "황간(서울)",
+      "rank": "2",
+      "top_shop": "커피(할리스)",
+      "top_item": "아이스아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 82,
+    "fields": {
+      "rest_name": "황간(서울)",
+      "rank": "3",
+      "top_shop": "식당(한식)",
+      "top_item": "차돌된장찌개와솥밥 차돌된장찌개(8000)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 83,
+    "fields": {
+      "rest_name": "황간(서울)",
+      "rank": "4",
+      "top_shop": "커피(할리스)",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 84,
+    "fields": {
+      "rest_name": "황간(서울)",
+      "rank": "5",
+      "top_shop": "식당(한식)",
+      "top_item": "간큰고등어(9000) 고등어구이신규"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 85,
+    "fields": {
+      "rest_name": "추풍령(부산)",
+      "rank": "1",
+      "top_shop": "칼국수",
+      "top_item": "사골칼제비(7500)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 86,
+    "fields": {
+      "rest_name": "추풍령(부산)",
+      "rank": "2",
+      "top_shop": "지례흑돼지",
+      "top_item": "한돈고추장불고기"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 87,
+    "fields": {
+      "rest_name": "추풍령(부산)",
+      "rank": "3",
+      "top_shop": "전문식당",
+      "top_item": "돌솥비빔밥(7500)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 88,
+    "fields": {
+      "rest_name": "추풍령(부산)",
+      "rank": "4",
+      "top_shop": "할리스",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 89,
+    "fields": {
+      "rest_name": "추풍령(부산)",
+      "rank": "5",
+      "top_shop": "할리스",
+      "top_item": "아이스아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 90,
+    "fields": {
+      "rest_name": "추풍령(서울)",
+      "rank": "1",
+      "top_shop": "스낵(칼국수외)",
+      "top_item": "하노이쌀국수양지"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 91,
+    "fields": {
+      "rest_name": "추풍령(서울)",
+      "rank": "2",
+      "top_shop": "할리스",
+      "top_item": "카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 92,
+    "fields": {
+      "rest_name": "추풍령(서울)",
+      "rank": "3",
+      "top_shop": "식당(한식)",
+      "top_item": "김천지례 흑돼지오삼 석쇠구이 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 93,
+    "fields": {
+      "rest_name": "추풍령(서울)",
+      "rank": "4",
+      "top_shop": "할리스",
+      "top_item": "아이스아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 94,
+    "fields": {
+      "rest_name": "추풍령(서울)",
+      "rank": "5",
+      "top_shop": "식당(한식)",
+      "top_item": "돌솥비빔밥(7500)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 95,
+    "fields": {
+      "rest_name": "칠곡(부산)",
+      "rank": "1",
+      "top_shop": "호도/잡화",
+      "top_item": "호도호두과자(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 96,
+    "fields": {
+      "rest_name": "칠곡(부산)",
+      "rank": "2",
+      "top_shop": "자율식당",
+      "top_item": "공기밥(자율) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 97,
+    "fields": {
+      "rest_name": "칠곡(부산)",
+      "rank": "3",
+      "top_shop": "죠이마트",
+      "top_item": "에쎄엣지  필드 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 98,
+    "fields": {
+      "rest_name": "칠곡(부산)",
+      "rank": "4",
+      "top_shop": "간식코너",
+      "top_item": "부산오뎅"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 99,
+    "fields": {
+      "rest_name": "칠곡(부산)",
+      "rank": "5",
+      "top_shop": "우동김밥전문점",
+      "top_item": "가락속풀이생라면"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 100,
+    "fields": {
+      "rest_name": "칠곡(서울)",
+      "rank": "1",
+      "top_shop": "할리스커피",
+      "top_item": "아이스아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 101,
+    "fields": {
+      "rest_name": "칠곡(서울)",
+      "rank": "2",
+      "top_shop": "자율식당",
+      "top_item": "공기밥(자율) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 102,
+    "fields": {
+      "rest_name": "칠곡(서울)",
+      "rank": "3",
+      "top_shop": "우동/김밥",
+      "top_item": "가락속풀이생라면"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 103,
+    "fields": {
+      "rest_name": "칠곡(서울)",
+      "rank": "4",
+      "top_shop": "탐앤탐스커피",
+      "top_item": "아이스카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 104,
+    "fields": {
+      "rest_name": "칠곡(서울)",
+      "rank": "5",
+      "top_shop": "호도과자",
+      "top_item": "호도호두과자(5000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 105,
+    "fields": {
+      "rest_name": "평사(부산)",
+      "rank": "1",
+      "top_shop": "엔제리너스",
+      "top_item": "아메리카노(I)S"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 106,
+    "fields": {
+      "rest_name": "평사(부산)",
+      "rank": "2",
+      "top_shop": "엔제리너스",
+      "top_item": "아메리카노(H)S"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 107,
+    "fields": {
+      "rest_name": "평사(부산)",
+      "rank": "3",
+      "top_shop": "간식코너",
+      "top_item": "우리쌀고구마소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 108,
+    "fields": {
+      "rest_name": "평사(부산)",
+      "rank": "4",
+      "top_shop": "한식전문점",
+      "top_item": "뽀글이돼지찌개정식"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 109,
+    "fields": {
+      "rest_name": "평사(부산)",
+      "rank": "5",
+      "top_shop": "편의점",
+      "top_item": "에쎄체인지히말라야"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 110,
+    "fields": {
+      "rest_name": "건천(서울)",
+      "rank": "1",
+      "top_shop": "탐앤탐스",
+      "top_item": "I카페아메리카노.[4100]-탐앤탐스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 111,
+    "fields": {
+      "rest_name": "건천(서울)",
+      "rank": "2",
+      "top_shop": "던킨도너츠",
+      "top_item": "ice)아메리카노 - 新던킨"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 112,
+    "fields": {
+      "rest_name": "건천(서울)",
+      "rank": "3",
+      "top_shop": "한식(직영)",
+      "top_item": "돼지고기김치찌개(8500)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 113,
+    "fields": {
+      "rest_name": "건천(서울)",
+      "rank": "4",
+      "top_shop": "한식(직영)",
+      "top_item": "매콤순두부찌개(8500)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 114,
+    "fields": {
+      "rest_name": "건천(서울)",
+      "rank": "5",
+      "top_shop": "한식(직영)",
+      "top_item": "소불고기비빔밥(8500)표준"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 115,
+    "fields": {
+      "rest_name": "건천(부산)",
+      "rank": "1",
+      "top_shop": "엔제리너스",
+      "top_item": "아메리카노(I)S"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 116,
+    "fields": {
+      "rest_name": "건천(부산)",
+      "rank": "2",
+      "top_shop": "엔제리너스",
+      "top_item": "아메리카노(H)S"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 117,
+    "fields": {
+      "rest_name": "건천(부산)",
+      "rank": "3",
+      "top_shop": "간식",
+      "top_item": "우리쌀고구마소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 118,
+    "fields": {
+      "rest_name": "건천(부산)",
+      "rank": "4",
+      "top_shop": "한식전문점",
+      "top_item": "해물순두부(표준레시피)1"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 119,
+    "fields": {
+      "rest_name": "건천(부산)",
+      "rank": "5",
+      "top_shop": "간식",
+      "top_item": "웨스턴핫바"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 120,
+    "fields": {
+      "rest_name": "언양(서울)",
+      "rank": "1",
+      "top_shop": "간식코너",
+      "top_item": "우리쌀고구마소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 121,
+    "fields": {
+      "rest_name": "언양(서울)",
+      "rank": "2",
+      "top_shop": "편의점",
+      "top_item": "에쎄체인지프로즌"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 122,
+    "fields": {
+      "rest_name": "언양(서울)",
+      "rank": "3",
+      "top_shop": "자율식당",
+      "top_item": "공기밥(자율) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 123,
+    "fields": {
+      "rest_name": "언양(서울)",
+      "rank": "4",
+      "top_shop": "자율식당",
+      "top_item": "묵은지김치찌개(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 124,
+    "fields": {
+      "rest_name": "언양(서울)",
+      "rank": "5",
+      "top_shop": "던킨도너츠",
+      "top_item": "아이스아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 125,
+    "fields": {
+      "rest_name": "양산(서울)",
+      "rank": "1",
+      "top_shop": "할리스",
+      "top_item": "아이스아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 126,
+    "fields": {
+      "rest_name": "양산(서울)",
+      "rank": "2",
+      "top_shop": "할리스",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 127,
+    "fields": {
+      "rest_name": "양산(서울)",
+      "rank": "3",
+      "top_shop": "009_스낵코너",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 128,
+    "fields": {
+      "rest_name": "양산(서울)",
+      "rank": "4",
+      "top_shop": "011_한양식당",
+      "top_item": "순두부찌개(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 129,
+    "fields": {
+      "rest_name": "양산(서울)",
+      "rank": "5",
+      "top_shop": "009_스낵코너",
+      "top_item": "프리미엄해물바(순한매운맛)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 130,
+    "fields": {
+      "rest_name": "진영(부산)",
+      "rank": "1",
+      "top_shop": "탐앤탐스(옥외)",
+      "top_item": "아이스카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 131,
+    "fields": {
+      "rest_name": "진영(부산)",
+      "rank": "2",
+      "top_shop": "100_한식당",
+      "top_item": "흑돼지김치찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 132,
+    "fields": {
+      "rest_name": "진영(부산)",
+      "rank": "3",
+      "top_shop": "370_호두과자(외주)",
+      "top_item": "호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 133,
+    "fields": {
+      "rest_name": "진영(부산)",
+      "rank": "4",
+      "top_shop": "350_열린매장",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 134,
+    "fields": {
+      "rest_name": "진영(부산)",
+      "rank": "5",
+      "top_shop": "630_수제달인어묵",
+      "top_item": "달인수제어묵2개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 135,
+    "fields": {
+      "rest_name": "진영(순천)",
+      "rank": "1",
+      "top_shop": "탐앤탐스(옥외)",
+      "top_item": "아이스카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 136,
+    "fields": {
+      "rest_name": "진영(순천)",
+      "rank": "2",
+      "top_shop": "110_한식당",
+      "top_item": "생고기김치찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 137,
+    "fields": {
+      "rest_name": "진영(순천)",
+      "rank": "3",
+      "top_shop": "110_한식당",
+      "top_item": "전통사골육개장"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 138,
+    "fields": {
+      "rest_name": "진영(순천)",
+      "rank": "4",
+      "top_shop": "330_호두과자(직영)",
+      "top_item": "호도호두과자(5000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 139,
+    "fields": {
+      "rest_name": "진영(순천)",
+      "rank": "5",
+      "top_shop": "로띠번",
+      "top_item": "로띠번"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 140,
+    "fields": {
+      "rest_name": "문산(순천)",
+      "rank": "1",
+      "top_shop": "고운동커피2",
+      "top_item": "H-1아메리카노(3800)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 141,
+    "fields": {
+      "rest_name": "문산(순천)",
+      "rank": "2",
+      "top_shop": "의류매장(그린조이)",
+      "top_item": "의류(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 142,
+    "fields": {
+      "rest_name": "문산(순천)",
+      "rank": "3",
+      "top_shop": "의류매장(그린조이)",
+      "top_item": "의류(100000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 143,
+    "fields": {
+      "rest_name": "문산(순천)",
+      "rank": "4",
+      "top_shop": "고운동커피2",
+      "top_item": "I-1아메리카노(3800)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 144,
+    "fields": {
+      "rest_name": "문산(순천)",
+      "rank": "5",
+      "top_shop": "케셔(좌)",
+      "top_item": "1.엄마손된장찌개(8500)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 145,
+    "fields": {
+      "rest_name": "사천(부산)",
+      "rank": "1",
+      "top_shop": "할리스커피",
+      "top_item": "아이스아메리카노 [할]ICE아메리카노[빨]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 146,
+    "fields": {
+      "rest_name": "사천(부산)",
+      "rank": "2",
+      "top_shop": "한식전문점",
+      "top_item": "옛날제육덮밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 147,
+    "fields": {
+      "rest_name": "사천(부산)",
+      "rank": "3",
+      "top_shop": "할리스커피",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 148,
+    "fields": {
+      "rest_name": "사천(부산)",
+      "rank": "4",
+      "top_shop": "즉석코너",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 149,
+    "fields": {
+      "rest_name": "사천(부산)",
+      "rank": "5",
+      "top_shop": "즉석코너",
+      "top_item": "옛날핫도그"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 150,
+    "fields": {
+      "rest_name": "사천(순천)",
+      "rank": "1",
+      "top_shop": "할리스커피",
+      "top_item": "아이스아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 151,
+    "fields": {
+      "rest_name": "사천(순천)",
+      "rank": "2",
+      "top_shop": "할리스커피",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 152,
+    "fields": {
+      "rest_name": "사천(순천)",
+      "rank": "3",
+      "top_shop": "즉석코너",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 153,
+    "fields": {
+      "rest_name": "사천(순천)",
+      "rank": "4",
+      "top_shop": "한식전문점",
+      "top_item": "제육덮밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 154,
+    "fields": {
+      "rest_name": "사천(순천)",
+      "rank": "5",
+      "top_shop": "즉석코너",
+      "top_item": "옛날핫도그(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 155,
+    "fields": {
+      "rest_name": "섬진강(부산)",
+      "rank": "1",
+      "top_shop": "커피전문점",
+      "top_item": "아이스아메리카노(딜/신/3800)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 156,
+    "fields": {
+      "rest_name": "섬진강(부산)",
+      "rank": "2",
+      "top_shop": "커피전문점",
+      "top_item": "아메리카노(딜/신/3800)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 157,
+    "fields": {
+      "rest_name": "섬진강(부산)",
+      "rank": "3",
+      "top_shop": "즉석케셔",
+      "top_item": "소떡소떡(3500)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 158,
+    "fields": {
+      "rest_name": "섬진강(부산)",
+      "rank": "4",
+      "top_shop": "1층한식당우동2",
+      "top_item": "얼큰순두부찌개(8000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 159,
+    "fields": {
+      "rest_name": "섬진강(부산)",
+      "rank": "5",
+      "top_shop": "의류매장",
+      "top_item": "의류(100000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 160,
+    "fields": {
+      "rest_name": "섬진강(순천)",
+      "rank": "1",
+      "top_shop": "의류",
+      "top_item": "의류(100000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 161,
+    "fields": {
+      "rest_name": "섬진강(순천)",
+      "rank": "2",
+      "top_shop": "의류",
+      "top_item": "의류(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 162,
+    "fields": {
+      "rest_name": "섬진강(순천)",
+      "rank": "3",
+      "top_shop": "커피딜라이트",
+      "top_item": "아메리카노(딜/신/3800)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 163,
+    "fields": {
+      "rest_name": "섬진강(순천)",
+      "rank": "4",
+      "top_shop": "한식/우동/코바코",
+      "top_item": "재첩국(7500)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 164,
+    "fields": {
+      "rest_name": "섬진강(순천)",
+      "rank": "5",
+      "top_shop": "한식/우동/코바코",
+      "top_item": "얼큰순두부찌개(8000) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 165,
+    "fields": {
+      "rest_name": "거창(대구)",
+      "rank": "1",
+      "top_shop": "할리스(상)",
+      "top_item": "아이스아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 166,
+    "fields": {
+      "rest_name": "거창(대구)",
+      "rank": "2",
+      "top_shop": "할리스(상)",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 167,
+    "fields": {
+      "rest_name": "거창(대구)",
+      "rank": "3",
+      "top_shop": "100_스낵코너(상)",
+      "top_item": "모듬꼬치(소떡소떡)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 168,
+    "fields": {
+      "rest_name": "거창(대구)",
+      "rank": "4",
+      "top_shop": "100_스낵코너(상)",
+      "top_item": "호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 169,
+    "fields": {
+      "rest_name": "거창(대구)",
+      "rank": "5",
+      "top_shop": "020_한식우동코너(상)",
+      "top_item": "얼큰돼지김치찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 170,
+    "fields": {
+      "rest_name": "거창(광주)",
+      "rank": "1",
+      "top_shop": "할리스(하)",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 171,
+    "fields": {
+      "rest_name": "거창(광주)",
+      "rank": "2",
+      "top_shop": "할리스(하)",
+      "top_item": "아이스아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 172,
+    "fields": {
+      "rest_name": "거창(광주)",
+      "rank": "3",
+      "top_shop": "100_스낵코너(하)",
+      "top_item": "모둠꼬치"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 173,
+    "fields": {
+      "rest_name": "거창(광주)",
+      "rank": "4",
+      "top_shop": "020_한식우동코너(하)",
+      "top_item": "얼큰돼지김치찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 174,
+    "fields": {
+      "rest_name": "거창(광주)",
+      "rank": "5",
+      "top_shop": "100_스낵코너(하)",
+      "top_item": "불갈비맛소세지"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 175,
+    "fields": {
+      "rest_name": "지리산(대구)",
+      "rank": "1",
+      "top_shop": "식당(일반)",
+      "top_item": "흑돼지김치찌개7500(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 176,
+    "fields": {
+      "rest_name": "지리산(대구)",
+      "rank": "2",
+      "top_shop": "식당(일반)",
+      "top_item": "춘향남원추어탕"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 177,
+    "fields": {
+      "rest_name": "지리산(대구)",
+      "rank": "3",
+      "top_shop": "식당(일반)",
+      "top_item": "지리산산채비빔밥(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 178,
+    "fields": {
+      "rest_name": "지리산(대구)",
+      "rank": "4",
+      "top_shop": "의류매장",
+      "top_item": "클라이머(100000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 179,
+    "fields": {
+      "rest_name": "지리산(대구)",
+      "rank": "5",
+      "top_shop": "던킨도너츠",
+      "top_item": "아이스아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 180,
+    "fields": {
+      "rest_name": "지리산(광주)",
+      "rank": "1",
+      "top_shop": "식당(일반)",
+      "top_item": "춘향남원추어탕"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 181,
+    "fields": {
+      "rest_name": "지리산(광주)",
+      "rank": "2",
+      "top_shop": "외부매장(직영)",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 182,
+    "fields": {
+      "rest_name": "지리산(광주)",
+      "rank": "3",
+      "top_shop": "던킨도너츠",
+      "top_item": "카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 183,
+    "fields": {
+      "rest_name": "지리산(광주)",
+      "rank": "4",
+      "top_shop": "할리스",
+      "top_item": "HOT카페아메리카노[빨]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 184,
+    "fields": {
+      "rest_name": "지리산(광주)",
+      "rank": "5",
+      "top_shop": "의류매장",
+      "top_item": "클라이머홀릭(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 185,
+    "fields": {
+      "rest_name": "화성(서울)",
+      "rank": "1",
+      "top_shop": "할리스0083",
+      "top_item": "ICE아메리카노[빨]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 186,
+    "fields": {
+      "rest_name": "화성(서울)",
+      "rank": "2",
+      "top_shop": "외부매장(호두과자)",
+      "top_item": "3000호두과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 187,
+    "fields": {
+      "rest_name": "화성(서울)",
+      "rank": "3",
+      "top_shop": "외부매장(꽈베기)",
+      "top_item": "못난이찹쌀꽈배기"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 188,
+    "fields": {
+      "rest_name": "화성(서울)",
+      "rank": "4",
+      "top_shop": "외부매장(꽈베기)",
+      "top_item": "꽈배기(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 189,
+    "fields": {
+      "rest_name": "화성(서울)",
+      "rank": "5",
+      "top_shop": "외부매장(호두과자)",
+      "top_item": "5000호두과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 190,
+    "fields": {
+      "rest_name": "화성(목포)",
+      "rank": "1",
+      "top_shop": "외부매장(호두과자)",
+      "top_item": "3000호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 191,
+    "fields": {
+      "rest_name": "화성(목포)",
+      "rank": "2",
+      "top_shop": "의류매장",
+      "top_item": "의류(전문매장) JDX골프(100000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 192,
+    "fields": {
+      "rest_name": "화성(목포)",
+      "rank": "3",
+      "top_shop": "커피(할리스)",
+      "top_item": "[할]ICE아메리카노[빨]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 193,
+    "fields": {
+      "rest_name": "화성(목포)",
+      "rank": "4",
+      "top_shop": "식당(한식)",
+      "top_item": "화성궁중비빔밥(8000)표준"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 194,
+    "fields": {
+      "rest_name": "화성(목포)",
+      "rank": "5",
+      "top_shop": "직영매장(어묵핫바)",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 195,
+    "fields": {
+      "rest_name": "서산(목포)",
+      "rank": "1",
+      "top_shop": "냉면코너",
+      "top_item": "조지아오리지널 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 196,
+    "fields": {
+      "rest_name": "서산(목포)",
+      "rank": "2",
+      "top_shop": "네파",
+      "top_item": "의류(전문매장) 캠핑(용품)행사(100000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 197,
+    "fields": {
+      "rest_name": "서산(목포)",
+      "rank": "3",
+      "top_shop": "냉면코너",
+      "top_item": "단호박칩"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 198,
+    "fields": {
+      "rest_name": "서산(목포)",
+      "rank": "4",
+      "top_shop": "네파",
+      "top_item": "의류(전문매장) 의류(전문매장)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 199,
+    "fields": {
+      "rest_name": "서산(목포)",
+      "rank": "5",
+      "top_shop": "네파",
+      "top_item": "의류(200000) 의류(200000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 200,
+    "fields": {
+      "rest_name": "서산(서울)",
+      "rank": "1",
+      "top_shop": "탐앤탐스",
+      "top_item": "아이스카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 201,
+    "fields": {
+      "rest_name": "서산(서울)",
+      "rank": "2",
+      "top_shop": "호두스낵코너(최신)",
+      "top_item": "허브통살꼬치"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 202,
+    "fields": {
+      "rest_name": "서산(서울)",
+      "rank": "3",
+      "top_shop": "탐앤탐스",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 203,
+    "fields": {
+      "rest_name": "서산(서울)",
+      "rank": "4",
+      "top_shop": "호두스낵코너(최신)",
+      "top_item": "의류(전문매장) 포나인"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 204,
+    "fields": {
+      "rest_name": "서산(서울)",
+      "rank": "5",
+      "top_shop": "호두스낵코너(최신)",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 205,
+    "fields": {
+      "rest_name": "대천(서울)",
+      "rank": "1",
+      "top_shop": "오징어토스트",
+      "top_item": "153아메리카노(ice)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 206,
+    "fields": {
+      "rest_name": "대천(서울)",
+      "rank": "2",
+      "top_shop": "드롭탑(커피)",
+      "top_item": "아메리카노/드롭탑"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 207,
+    "fields": {
+      "rest_name": "대천(서울)",
+      "rank": "3",
+      "top_shop": "멕스웰하우스",
+      "top_item": "153아메리카노(hot)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 208,
+    "fields": {
+      "rest_name": "대천(서울)",
+      "rank": "4",
+      "top_shop": "오징어토스트",
+      "top_item": "춤추는오짱(대) 춤추는오짱(대)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 209,
+    "fields": {
+      "rest_name": "대천(서울)",
+      "rank": "5",
+      "top_shop": "국수매장",
+      "top_item": "떡라면"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 210,
+    "fields": {
+      "rest_name": "대천(목포)",
+      "rank": "1",
+      "top_shop": "의류매장(임시)",
+      "top_item": "클라이머홀릭(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 211,
+    "fields": {
+      "rest_name": "대천(목포)",
+      "rank": "2",
+      "top_shop": "커피(드롭탑)",
+      "top_item": "아메리카노/드롭탑"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 212,
+    "fields": {
+      "rest_name": "대천(목포)",
+      "rank": "3",
+      "top_shop": "커피(드롭탑)",
+      "top_item": "ICE아메리카노/드롭탑"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 213,
+    "fields": {
+      "rest_name": "대천(목포)",
+      "rank": "4",
+      "top_shop": "한식당",
+      "top_item": "우리콩순두부찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 214,
+    "fields": {
+      "rest_name": "대천(목포)",
+      "rank": "5",
+      "top_shop": "한식당",
+      "top_item": "제육돌솥비빔밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 215,
+    "fields": {
+      "rest_name": "군산(서울)",
+      "rank": "1",
+      "top_shop": "의류매장",
+      "top_item": "의류(전문매장) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 216,
+    "fields": {
+      "rest_name": "군산(서울)",
+      "rank": "2",
+      "top_shop": "동빵",
+      "top_item": "동빵(5000) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 217,
+    "fields": {
+      "rest_name": "군산(서울)",
+      "rank": "3",
+      "top_shop": "동빵",
+      "top_item": "동빵(10000) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 218,
+    "fields": {
+      "rest_name": "군산(서울)",
+      "rank": "4",
+      "top_shop": "카페베네(연동)",
+      "top_item": "아이스아메리카노(R)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 219,
+    "fields": {
+      "rest_name": "군산(서울)",
+      "rank": "5",
+      "top_shop": "무인식권발매기",
+      "top_item": "공기밥(부페) 공기밥(1000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 220,
+    "fields": {
+      "rest_name": "군산(목포)",
+      "rank": "1",
+      "top_shop": "020_한식양식",
+      "top_item": "라면정식 라면정식"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 221,
+    "fields": {
+      "rest_name": "군산(목포)",
+      "rank": "2",
+      "top_shop": "열린매장",
+      "top_item": "웨스턴핫바(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 222,
+    "fields": {
+      "rest_name": "군산(목포)",
+      "rank": "3",
+      "top_shop": "열린매장",
+      "top_item": "즉석호두과자"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 223,
+    "fields": {
+      "rest_name": "군산(목포)",
+      "rank": "4",
+      "top_shop": "020_한식양식",
+      "top_item": "옥구우거지국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 224,
+    "fields": {
+      "rest_name": "군산(목포)",
+      "rank": "5",
+      "top_shop": "010_편의점",
+      "top_item": "황룡당만주 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 225,
+    "fields": {
+      "rest_name": "고창고인돌(목포)",
+      "rank": "1",
+      "top_shop": "한양식전문점",
+      "top_item": "돌솥비빔밥(8000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 226,
+    "fields": {
+      "rest_name": "고창고인돌(목포)",
+      "rank": "2",
+      "top_shop": "드롭탑",
+      "top_item": "아메리카노/드롭탑"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 227,
+    "fields": {
+      "rest_name": "고창고인돌(목포)",
+      "rank": "3",
+      "top_shop": "의류매장",
+      "top_item": "의류(전문매장) 의류(전문매장)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 228,
+    "fields": {
+      "rest_name": "고창고인돌(목포)",
+      "rank": "4",
+      "top_shop": "한양식전문점",
+      "top_item": "김치두부찌개(8000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 229,
+    "fields": {
+      "rest_name": "고창고인돌(목포)",
+      "rank": "5",
+      "top_shop": "호떡오징어매장",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 230,
+    "fields": {
+      "rest_name": "고창고인돌(서울)",
+      "rank": "1",
+      "top_shop": "드롭탑",
+      "top_item": "아메리카노/드롭탑"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 231,
+    "fields": {
+      "rest_name": "고창고인돌(서울)",
+      "rank": "2",
+      "top_shop": "드롭탑",
+      "top_item": "아메리카노(L)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 232,
+    "fields": {
+      "rest_name": "고창고인돌(서울)",
+      "rank": "3",
+      "top_shop": "한식전문점",
+      "top_item": "해물순두부(한식)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 233,
+    "fields": {
+      "rest_name": "고창고인돌(서울)",
+      "rank": "4",
+      "top_shop": "한식전문점",
+      "top_item": "돌솥비빔밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 234,
+    "fields": {
+      "rest_name": "고창고인돌(서울)",
+      "rank": "5",
+      "top_shop": "커피전문점",
+      "top_item": "아이스(아메리카노티)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 235,
+    "fields": {
+      "rest_name": "함평천지(서울)",
+      "rank": "1",
+      "top_shop": "032_탐앤탐스",
+      "top_item": "탐)아이스카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 236,
+    "fields": {
+      "rest_name": "함평천지(서울)",
+      "rank": "2",
+      "top_shop": "022_그린웰",
+      "top_item": "소고기장터국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 237,
+    "fields": {
+      "rest_name": "함평천지(서울)",
+      "rank": "3",
+      "top_shop": "032_탐앤탐스",
+      "top_item": "탐)카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 238,
+    "fields": {
+      "rest_name": "함평천지(서울)",
+      "rank": "4",
+      "top_shop": "022_그린웰",
+      "top_item": "옛날돼지고기김치찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 239,
+    "fields": {
+      "rest_name": "함평천지(서울)",
+      "rank": "5",
+      "top_shop": "022_그린웰",
+      "top_item": "한우소머리곰탕"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 240,
+    "fields": {
+      "rest_name": "함평천지(목포)",
+      "rank": "1",
+      "top_shop": "함A-01한식양식(무진)",
+      "top_item": "바우네맑은나주곰탕"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 241,
+    "fields": {
+      "rest_name": "함평천지(목포)",
+      "rank": "2",
+      "top_shop": "함B-1옥외매장",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 242,
+    "fields": {
+      "rest_name": "함평천지(목포)",
+      "rank": "3",
+      "top_shop": "로띠번",
+      "top_item": "아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 243,
+    "fields": {
+      "rest_name": "함평천지(목포)",
+      "rank": "4",
+      "top_shop": "함C-01하이샵",
+      "top_item": "하이숍(잡화10000) 하이숍(잡화10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 244,
+    "fields": {
+      "rest_name": "함평천지(목포)",
+      "rank": "5",
+      "top_shop": "로띠번",
+      "top_item": "아메리카노(I)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 245,
+    "fields": {
+      "rest_name": "정읍녹두장군(천안)",
+      "rank": "1",
+      "top_shop": "탐앤탐스",
+      "top_item": "ic아메리카노4100원"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 246,
+    "fields": {
+      "rest_name": "정읍녹두장군(천안)",
+      "rank": "2",
+      "top_shop": "탐앤탐스",
+      "top_item": "H카페아메리카노4100원 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 247,
+    "fields": {
+      "rest_name": "정읍녹두장군(천안)",
+      "rank": "3",
+      "top_shop": "한식",
+      "top_item": "제육덮밥8500원"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 248,
+    "fields": {
+      "rest_name": "정읍녹두장군(천안)",
+      "rank": "4",
+      "top_shop": "토스트/스넥",
+      "top_item": "[푸드]알프스소세지"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 249,
+    "fields": {
+      "rest_name": "정읍녹두장군(천안)",
+      "rank": "5",
+      "top_shop": "호두과자",
+      "top_item": "호도과자[5000] "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 250,
+    "fields": {
+      "rest_name": "정읍녹두장군(순천)",
+      "rank": "1",
+      "top_shop": "[커피]탐앤탐스",
+      "top_item": "[탐I]아메리카노ICE티(4100) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 251,
+    "fields": {
+      "rest_name": "정읍녹두장군(순천)",
+      "rank": "2",
+      "top_shop": "[의류]파사디",
+      "top_item": "파사디100000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 252,
+    "fields": {
+      "rest_name": "정읍녹두장군(순천)",
+      "rank": "3",
+      "top_shop": "[커피]탐앤탐스",
+      "top_item": "[탐H]아메리카노(4100)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 253,
+    "fields": {
+      "rest_name": "정읍녹두장군(순천)",
+      "rank": "4",
+      "top_shop": "[가판]호두델리",
+      "top_item": "[호두]5000호두과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 254,
+    "fields": {
+      "rest_name": "정읍녹두장군(순천)",
+      "rank": "5",
+      "top_shop": "[식당가]한식",
+      "top_item": "[한식]해물순두부찌개(표준)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 255,
+    "fields": {
+      "rest_name": "백양사(천안)",
+      "rank": "1",
+      "top_shop": "탐앤탐스",
+      "top_item": "아이스카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 256,
+    "fields": {
+      "rest_name": "백양사(천안)",
+      "rank": "2",
+      "top_shop": "한식코너",
+      "top_item": "삼채애호박찌개(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 257,
+    "fields": {
+      "rest_name": "백양사(천안)",
+      "rank": "3",
+      "top_shop": "탐앤탐스",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 258,
+    "fields": {
+      "rest_name": "백양사(천안)",
+      "rank": "4",
+      "top_shop": "드롭탑",
+      "top_item": "아이스아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 259,
+    "fields": {
+      "rest_name": "백양사(천안)",
+      "rank": "5",
+      "top_shop": "한식코너",
+      "top_item": "삼채비빕밥(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 260,
+    "fields": {
+      "rest_name": "곡성(천안)",
+      "rank": "1",
+      "top_shop": "080_가판(호도)",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 261,
+    "fields": {
+      "rest_name": "곡성(천안)",
+      "rank": "2",
+      "top_shop": "130_커피2(엔제리너스)",
+      "top_item": "아이스 아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 262,
+    "fields": {
+      "rest_name": "곡성(천안)",
+      "rank": "3",
+      "top_shop": "임실치즈",
+      "top_item": "구워먹는 치즈"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 263,
+    "fields": {
+      "rest_name": "곡성(천안)",
+      "rank": "4",
+      "top_shop": "130_커피2(엔제리너스)",
+      "top_item": "핫 아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 264,
+    "fields": {
+      "rest_name": "곡성(천안)",
+      "rank": "5",
+      "top_shop": "020_한식당",
+      "top_item": "제육덮밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 265,
+    "fields": {
+      "rest_name": "곡성(순천)",
+      "rank": "1",
+      "top_shop": "탐앤탐스(직영)",
+      "top_item": "아이스카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 266,
+    "fields": {
+      "rest_name": "곡성(순천)",
+      "rank": "2",
+      "top_shop": "001_한식코너",
+      "top_item": "흑돼지김치찌개 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 267,
+    "fields": {
+      "rest_name": "곡성(순천)",
+      "rank": "3",
+      "top_shop": "탐앤탐스(직영)",
+      "top_item": "카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 268,
+    "fields": {
+      "rest_name": "곡성(순천)",
+      "rank": "4",
+      "top_shop": "열린매장(직영)",
+      "top_item": "호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 269,
+    "fields": {
+      "rest_name": "곡성(순천)",
+      "rank": "5",
+      "top_shop": "열린매장2(직영)",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 270,
+    "fields": {
+      "rest_name": "이천(하남)",
+      "rank": "1",
+      "top_shop": "호두과자",
+      "top_item": "우리밀천안호두과자(5000) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 271,
+    "fields": {
+      "rest_name": "이천(하남)",
+      "rank": "2",
+      "top_shop": "호두과자",
+      "top_item": "우리밀천안호두과자(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 272,
+    "fields": {
+      "rest_name": "이천(하남)",
+      "rank": "3",
+      "top_shop": "호두과자",
+      "top_item": "우리밀천안호도과자(3000) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 273,
+    "fields": {
+      "rest_name": "이천(하남)",
+      "rank": "4",
+      "top_shop": "소시지",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 274,
+    "fields": {
+      "rest_name": "이천(하남)",
+      "rank": "5",
+      "top_shop": "소시지",
+      "top_item": "부산오뎅(3000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 275,
+    "fields": {
+      "rest_name": "이천(남이)",
+      "rank": "1",
+      "top_shop": "카페드롭탑",
+      "top_item": "ICE아메리카노/드롭탑"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 276,
+    "fields": {
+      "rest_name": "이천(남이)",
+      "rank": "2",
+      "top_shop": "카페드롭탑",
+      "top_item": "아메리카노/드롭탑"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 277,
+    "fields": {
+      "rest_name": "이천(남이)",
+      "rank": "3",
+      "top_shop": "델리쉐프(1)",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 278,
+    "fields": {
+      "rest_name": "이천(남이)",
+      "rank": "4",
+      "top_shop": "한식매장",
+      "top_item": "해물순두부(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 279,
+    "fields": {
+      "rest_name": "이천(남이)",
+      "rank": "5",
+      "top_shop": "한식매장",
+      "top_item": "비빔밥(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 280,
+    "fields": {
+      "rest_name": "음성(하남)",
+      "rank": "1",
+      "top_shop": "(신)호두과자/오징어",
+      "top_item": "10000호두과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 281,
+    "fields": {
+      "rest_name": "음성(하남)",
+      "rank": "2",
+      "top_shop": "(신)엔제리너스",
+      "top_item": "아메리카노(I) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 282,
+    "fields": {
+      "rest_name": "음성(하남)",
+      "rank": "3",
+      "top_shop": "(신)호두과자/오징어",
+      "top_item": "즉석호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 283,
+    "fields": {
+      "rest_name": "음성(하남)",
+      "rank": "4",
+      "top_shop": "(신)간식(중앙)",
+      "top_item": "떡햄바"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 284,
+    "fields": {
+      "rest_name": "음성(하남)",
+      "rank": "5",
+      "top_shop": "(신)엔제리너스",
+      "top_item": "아메리카노(H) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 285,
+    "fields": {
+      "rest_name": "음성(남이)",
+      "rank": "1",
+      "top_shop": "(신)탐앤탐스",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 286,
+    "fields": {
+      "rest_name": "음성(남이)",
+      "rank": "2",
+      "top_shop": "(신)탐앤탐스",
+      "top_item": "아이스카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 287,
+    "fields": {
+      "rest_name": "음성(남이)",
+      "rank": "3",
+      "top_shop": "(신)양식전문점",
+      "top_item": "수제돈가스(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 288,
+    "fields": {
+      "rest_name": "음성(남이)",
+      "rank": "4",
+      "top_shop": "(신)한식전문점",
+      "top_item": "동의)김치사골국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 289,
+    "fields": {
+      "rest_name": "음성(남이)",
+      "rank": "5",
+      "top_shop": "(신)호두과자/오징어",
+      "top_item": "즉석호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 290,
+    "fields": {
+      "rest_name": "오창(하남)",
+      "rank": "1",
+      "top_shop": "소미미",
+      "top_item": "소미미2500빵"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 291,
+    "fields": {
+      "rest_name": "오창(하남)",
+      "rank": "2",
+      "top_shop": "라면/김밥",
+      "top_item": "충무김밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 292,
+    "fields": {
+      "rest_name": "오창(하남)",
+      "rank": "3",
+      "top_shop": "소미미",
+      "top_item": "소미미2000빵"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 293,
+    "fields": {
+      "rest_name": "오창(하남)",
+      "rank": "4",
+      "top_shop": "양식당",
+      "top_item": "⑨등심돈가스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 294,
+    "fields": {
+      "rest_name": "오창(하남)",
+      "rank": "5",
+      "top_shop": "라면/김밥",
+      "top_item": "떡만두라면정식"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 295,
+    "fields": {
+      "rest_name": "금산인삼랜드(대전)",
+      "rank": "1",
+      "top_shop": "인삼반상(18.12.1직영)",
+      "top_item": "31.인삼갈비탕[10000]한식"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 296,
+    "fields": {
+      "rest_name": "금산인삼랜드(대전)",
+      "rank": "2",
+      "top_shop": "호도과자1",
+      "top_item": "5000호두과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 297,
+    "fields": {
+      "rest_name": "금산인삼랜드(대전)",
+      "rank": "3",
+      "top_shop": "호도과자1",
+      "top_item": "3000호두과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 298,
+    "fields": {
+      "rest_name": "금산인삼랜드(대전)",
+      "rank": "4",
+      "top_shop": "핫바(12월직영)",
+      "top_item": "소떡소떡[3500]핫바"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 299,
+    "fields": {
+      "rest_name": "금산인삼랜드(대전)",
+      "rank": "5",
+      "top_shop": "인삼반상(18.12.1직영)",
+      "top_item": "해물순두부(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 300,
+    "fields": {
+      "rest_name": "금산인삼랜드(통영)",
+      "rank": "1",
+      "top_shop": "400_휴대폰충전기",
+      "top_item": "전자카드충전(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 301,
+    "fields": {
+      "rest_name": "금산인삼랜드(통영)",
+      "rank": "2",
+      "top_shop": "100_한식당1",
+      "top_item": "흑돼지김치찌개_표준레시피"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 302,
+    "fields": {
+      "rest_name": "금산인삼랜드(통영)",
+      "rank": "3",
+      "top_shop": "510_호도과자",
+      "top_item": "참호두과자(3000) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 303,
+    "fields": {
+      "rest_name": "금산인삼랜드(통영)",
+      "rank": "4",
+      "top_shop": "560_소떡소떡",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 304,
+    "fields": {
+      "rest_name": "금산인삼랜드(통영)",
+      "rank": "5",
+      "top_shop": "450_옥외가판(커피)",
+      "top_item": "아메리카노(H)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 305,
+    "fields": {
+      "rest_name": "덕유산(대전)",
+      "rank": "1",
+      "top_shop": "팬텀(의류)",
+      "top_item": "팬텀의류(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 306,
+    "fields": {
+      "rest_name": "덕유산(대전)",
+      "rank": "2",
+      "top_shop": "팬텀(의류)",
+      "top_item": "팬텀의류(100000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 307,
+    "fields": {
+      "rest_name": "덕유산(대전)",
+      "rank": "3",
+      "top_shop": "탐엔탐스",
+      "top_item": "(탐탐)카페아메리카노4.1(연동)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 308,
+    "fields": {
+      "rest_name": "덕유산(대전)",
+      "rank": "4",
+      "top_shop": "링스",
+      "top_item": "의류100000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 309,
+    "fields": {
+      "rest_name": "덕유산(대전)",
+      "rank": "5",
+      "top_shop": "링스",
+      "top_item": "의류10000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 310,
+    "fields": {
+      "rest_name": "덕유산(통영)",
+      "rank": "1",
+      "top_shop": "팬텀",
+      "top_item": "4의류 100000(팬텀)(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 311,
+    "fields": {
+      "rest_name": "덕유산(통영)",
+      "rank": "2",
+      "top_shop": "덕유반상",
+      "top_item": "한우국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 312,
+    "fields": {
+      "rest_name": "덕유산(통영)",
+      "rank": "3",
+      "top_shop": "팬텀",
+      "top_item": "3의류 10000(팬텀)(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 313,
+    "fields": {
+      "rest_name": "덕유산(통영)",
+      "rank": "4",
+      "top_shop": "링스",
+      "top_item": "링스(100000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 314,
+    "fields": {
+      "rest_name": "덕유산(통영)",
+      "rank": "5",
+      "top_shop": "탐앤탐스",
+      "top_item": "핫아메리카노(새미래)41"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 315,
+    "fields": {
+      "rest_name": "산청(대전)",
+      "rank": "1",
+      "top_shop": "탐앤탐스",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 316,
+    "fields": {
+      "rest_name": "산청(대전)",
+      "rank": "2",
+      "top_shop": "탐앤탐스",
+      "top_item": "아이스카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 317,
+    "fields": {
+      "rest_name": "산청(대전)",
+      "rank": "3",
+      "top_shop": "즉석",
+      "top_item": "호두과자(3000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 318,
+    "fields": {
+      "rest_name": "산청(대전)",
+      "rank": "4",
+      "top_shop": "한식당",
+      "top_item": "7.순두부찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 319,
+    "fields": {
+      "rest_name": "산청(대전)",
+      "rank": "5",
+      "top_shop": "델리시아",
+      "top_item": "소떡소떡(4000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 320,
+    "fields": {
+      "rest_name": "산청(통영)",
+      "rank": "1",
+      "top_shop": "탐앤탐스",
+      "top_item": "아이스아메리카노(I) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 321,
+    "fields": {
+      "rest_name": "산청(통영)",
+      "rank": "1",
+      "top_shop": "탐앤탐스",
+      "top_item": "아이스아메리카노(I) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 322,
+    "fields": {
+      "rest_name": "산청(통영)",
+      "rank": "2",
+      "top_shop": "탐앤탐스",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 323,
+    "fields": {
+      "rest_name": "산청(통영)",
+      "rank": "2",
+      "top_shop": "탐앤탐스",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 324,
+    "fields": {
+      "rest_name": "산청(통영)",
+      "rank": "3",
+      "top_shop": "델리시아",
+      "top_item": "소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 325,
+    "fields": {
+      "rest_name": "산청(통영)",
+      "rank": "3",
+      "top_shop": "델리시아",
+      "top_item": "소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 326,
+    "fields": {
+      "rest_name": "산청(통영)",
+      "rank": "4",
+      "top_shop": "한식당",
+      "top_item": "등심돈가스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 327,
+    "fields": {
+      "rest_name": "산청(통영)",
+      "rank": "4",
+      "top_shop": "한식당",
+      "top_item": "등심돈가스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 328,
+    "fields": {
+      "rest_name": "산청(통영)",
+      "rank": "5",
+      "top_shop": "즉석코너",
+      "top_item": "3.호두과자(3000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 329,
+    "fields": {
+      "rest_name": "산청(통영)",
+      "rank": "5",
+      "top_shop": "즉석코너",
+      "top_item": "3.호두과자(3000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 330,
+    "fields": {
+      "rest_name": "선산(양평)",
+      "rank": "1",
+      "top_shop": "카페드롭탑",
+      "top_item": "ICE아메리카노/드롭탑"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 331,
+    "fields": {
+      "rest_name": "선산(양평)",
+      "rank": "2",
+      "top_shop": "가판매장(A)",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 332,
+    "fields": {
+      "rest_name": "선산(양평)",
+      "rank": "3",
+      "top_shop": "한식당",
+      "top_item": "해물순두부"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 333,
+    "fields": {
+      "rest_name": "선산(양평)",
+      "rank": "4",
+      "top_shop": "한식당",
+      "top_item": "뚝배기불고기 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 334,
+    "fields": {
+      "rest_name": "선산(양평)",
+      "rank": "5",
+      "top_shop": "의류매장",
+      "top_item": "의류(전문매장) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 335,
+    "fields": {
+      "rest_name": "선산(창원)",
+      "rank": "1",
+      "top_shop": "의류매장",
+      "top_item": "의류(전문매장) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 336,
+    "fields": {
+      "rest_name": "선산(창원)",
+      "rank": "2",
+      "top_shop": "의류매장",
+      "top_item": "의류(전문매장) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 337,
+    "fields": {
+      "rest_name": "선산(창원)",
+      "rank": "3",
+      "top_shop": "가판매장(A)",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 338,
+    "fields": {
+      "rest_name": "선산(창원)",
+      "rank": "4",
+      "top_shop": "한식당",
+      "top_item": "해물순두부"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 339,
+    "fields": {
+      "rest_name": "선산(창원)",
+      "rank": "5",
+      "top_shop": "가판매장(C)",
+      "top_item": "호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 340,
+    "fields": {
+      "rest_name": "영산(창원)",
+      "rank": "1",
+      "top_shop": "723_탐앤탐스[직영]",
+      "top_item": "ICE아메리카노[탐] "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 341,
+    "fields": {
+      "rest_name": "영산(창원)",
+      "rank": "2",
+      "top_shop": "723_탐앤탐스[직영]",
+      "top_item": "아메리카노[탐] "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 342,
+    "fields": {
+      "rest_name": "영산(창원)",
+      "rank": "3",
+      "top_shop": "610_풍경마루",
+      "top_item": "소고기장터국밥[풍경마루]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 343,
+    "fields": {
+      "rest_name": "영산(창원)",
+      "rank": "4",
+      "top_shop": "631_열린매장1",
+      "top_item": "소떡소떡[직영열린]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 344,
+    "fields": {
+      "rest_name": "영산(창원)",
+      "rank": "5",
+      "top_shop": "610_풍경마루",
+      "top_item": "해물순두부(한식)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 345,
+    "fields": {
+      "rest_name": "칠서(양평)",
+      "rank": "1",
+      "top_shop": "040_한식",
+      "top_item": "얼큰돼지김치찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 346,
+    "fields": {
+      "rest_name": "칠서(양평)",
+      "rank": "2",
+      "top_shop": "040_한식",
+      "top_item": "나물비빔밥과된장찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 347,
+    "fields": {
+      "rest_name": "칠서(양평)",
+      "rank": "3",
+      "top_shop": "040_한식",
+      "top_item": "장터국밥(한식)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 348,
+    "fields": {
+      "rest_name": "칠서(양평)",
+      "rank": "4",
+      "top_shop": "엔젤리너스",
+      "top_item": "아메리카노(I)R"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 349,
+    "fields": {
+      "rest_name": "칠서(양평)",
+      "rank": "5",
+      "top_shop": "엔젤리너스",
+      "top_item": "아메리카노(H)S"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 350,
+    "fields": {
+      "rest_name": "횡성(인천)",
+      "rank": "1",
+      "top_shop": "한식(신)(O)",
+      "top_item": "한우국밥-한식"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 351,
+    "fields": {
+      "rest_name": "횡성(인천)",
+      "rank": "2",
+      "top_shop": "탐앤탐스(O)",
+      "top_item": "ICE_4100-탐앤탐스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 352,
+    "fields": {
+      "rest_name": "횡성(인천)",
+      "rank": "3",
+      "top_shop": "탐앤탐스(O)",
+      "top_item": "HOT_4100-탐앤탐스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 353,
+    "fields": {
+      "rest_name": "횡성(인천)",
+      "rank": "4",
+      "top_shop": "호도과자(가)(O)",
+      "top_item": "5000호도과자-웰빙 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 354,
+    "fields": {
+      "rest_name": "횡성(인천)",
+      "rank": "5",
+      "top_shop": "육대장(O)",
+      "top_item": "육개장-육대장"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 355,
+    "fields": {
+      "rest_name": "문막(강릉)",
+      "rank": "1",
+      "top_shop": "별미우동",
+      "top_item": "내촌한우국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 356,
+    "fields": {
+      "rest_name": "문막(강릉)",
+      "rank": "2",
+      "top_shop": "던킨도너츠",
+      "top_item": "던킨)먼치킨(4000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 357,
+    "fields": {
+      "rest_name": "문막(강릉)",
+      "rank": "3",
+      "top_shop": "한과",
+      "top_item": "통호두호두과자"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 358,
+    "fields": {
+      "rest_name": "문막(강릉)",
+      "rank": "4",
+      "top_shop": "롯데리아",
+      "top_item": "한우불고기버거세트"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 359,
+    "fields": {
+      "rest_name": "문막(강릉)",
+      "rank": "5",
+      "top_shop": "임시매장",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 360,
+    "fields": {
+      "rest_name": "여주(강릉)",
+      "rank": "1",
+      "top_shop": "(신)여흥옥",
+      "top_item": "여흥옥설렁탕"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 361,
+    "fields": {
+      "rest_name": "여주(강릉)",
+      "rank": "2",
+      "top_shop": "진어전(제조)",
+      "top_item": "가마보꼬즉석어묵"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 362,
+    "fields": {
+      "rest_name": "여주(강릉)",
+      "rank": "3",
+      "top_shop": "진어전(제조)",
+      "top_item": "꼬치국물어묵(대봉)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 363,
+    "fields": {
+      "rest_name": "여주(강릉)",
+      "rank": "4",
+      "top_shop": "(신)(신관)간식(군밤",
+      "top_item": "군밤(구관)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 364,
+    "fields": {
+      "rest_name": "여주(강릉)",
+      "rank": "5",
+      "top_shop": "희망상회(닭강정)",
+      "top_item": "닭강정(청년)1000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 365,
+    "fields": {
+      "rest_name": "여주(인천)",
+      "rank": "1",
+      "top_shop": "호도과자코너",
+      "top_item": "(4)10000호도과자(너섬식품) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 366,
+    "fields": {
+      "rest_name": "여주(인천)",
+      "rank": "2",
+      "top_shop": "호도과자코너",
+      "top_item": "(3)5000호도과자(너섬식품) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 367,
+    "fields": {
+      "rest_name": "여주(인천)",
+      "rank": "3",
+      "top_shop": "한식당",
+      "top_item": "(1)한우국밥(한식)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 368,
+    "fields": {
+      "rest_name": "여주(인천)",
+      "rank": "4",
+      "top_shop": "떡볶이.오징어",
+      "top_item": "소떡소떡/직영"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 369,
+    "fields": {
+      "rest_name": "여주(인천)",
+      "rank": "5",
+      "top_shop": "양식당",
+      "top_item": "(11)등심돈가스(양식)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 370,
+    "fields": {
+      "rest_name": "용인(강릉)",
+      "rank": "1",
+      "top_shop": "맥도날드",
+      "top_item": "후렌치후라이-M "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 371,
+    "fields": {
+      "rest_name": "용인(강릉)",
+      "rank": "2",
+      "top_shop": "한식전문점(1번코너)",
+      "top_item": "소고기등심국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 372,
+    "fields": {
+      "rest_name": "용인(강릉)",
+      "rank": "3",
+      "top_shop": "통감자",
+      "top_item": "소떡소떡3500"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 373,
+    "fields": {
+      "rest_name": "용인(강릉)",
+      "rank": "4",
+      "top_shop": "드롭탑",
+      "top_item": "ICE아메리카노/드롭탑"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 374,
+    "fields": {
+      "rest_name": "용인(강릉)",
+      "rank": "5",
+      "top_shop": "양식덮밥(2번코너)",
+      "top_item": "떡만두라면"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 375,
+    "fields": {
+      "rest_name": "용인(인천)",
+      "rank": "1",
+      "top_shop": "가판1(호도과자)",
+      "top_item": "9.5000호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 376,
+    "fields": {
+      "rest_name": "용인(인천)",
+      "rank": "2",
+      "top_shop": "드롭탑",
+      "top_item": "ICE아메리카노/드롭탑"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 377,
+    "fields": {
+      "rest_name": "용인(인천)",
+      "rank": "3",
+      "top_shop": "한식당",
+      "top_item": "소고기등심국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 378,
+    "fields": {
+      "rest_name": "용인(인천)",
+      "rank": "4",
+      "top_shop": "가판3(핫바)",
+      "top_item": "12.소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 379,
+    "fields": {
+      "rest_name": "용인(인천)",
+      "rank": "5",
+      "top_shop": "가판1(호도과자)",
+      "top_item": "8.3000호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 380,
+    "fields": {
+      "rest_name": "춘천(부산)",
+      "rank": "1",
+      "top_shop": "커피매장",
+      "top_item": "아이스아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 381,
+    "fields": {
+      "rest_name": "춘천(부산)",
+      "rank": "2",
+      "top_shop": "커피매장",
+      "top_item": "아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 382,
+    "fields": {
+      "rest_name": "춘천(부산)",
+      "rank": "3",
+      "top_shop": "시즌푸드코트",
+      "top_item": "꼬마김밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 383,
+    "fields": {
+      "rest_name": "춘천(부산)",
+      "rank": "4",
+      "top_shop": "한식당",
+      "top_item": "순두부찌개(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 384,
+    "fields": {
+      "rest_name": "춘천(부산)",
+      "rank": "5",
+      "top_shop": "호두과자",
+      "top_item": "호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 385,
+    "fields": {
+      "rest_name": "홍천강(춘천)",
+      "rank": "1",
+      "top_shop": "까페베네",
+      "top_item": "아메리카노(I) H아메리카노(카페베네)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 386,
+    "fields": {
+      "rest_name": "홍천강(춘천)",
+      "rank": "2",
+      "top_shop": "까페베네",
+      "top_item": "아메리카노(I) 아이스아메리카노(카페베네)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 387,
+    "fields": {
+      "rest_name": "홍천강(춘천)",
+      "rank": "3",
+      "top_shop": "까페베네",
+      "top_item": "샷추가(500)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 388,
+    "fields": {
+      "rest_name": "홍천강(춘천)",
+      "rank": "4",
+      "top_shop": "050_열린매장",
+      "top_item": "소떡소떡(소)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 389,
+    "fields": {
+      "rest_name": "홍천강(춘천)",
+      "rank": "5",
+      "top_shop": "050_열린매장",
+      "top_item": "치즈팡팡소세지"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 390,
+    "fields": {
+      "rest_name": "치악(부산)",
+      "rank": "1",
+      "top_shop": "029_의류매장",
+      "top_item": "의류(전문매장/100000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 391,
+    "fields": {
+      "rest_name": "치악(부산)",
+      "rank": "2",
+      "top_shop": "029_의류매장",
+      "top_item": "의류(전문매장) 의류(전문매장)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 392,
+    "fields": {
+      "rest_name": "치악(부산)",
+      "rank": "3",
+      "top_shop": "028_망고식스(소미미)",
+      "top_item": "소미미단팥빵"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 393,
+    "fields": {
+      "rest_name": "치악(부산)",
+      "rank": "4",
+      "top_shop": "019_할리스커피",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 394,
+    "fields": {
+      "rest_name": "치악(부산)",
+      "rank": "5",
+      "top_shop": "029_의류매장",
+      "top_item": "의류(쿨핑)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 395,
+    "fields": {
+      "rest_name": "치악(춘천)",
+      "rank": "1",
+      "top_shop": "130_할리스커피",
+      "top_item": "아이스아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 396,
+    "fields": {
+      "rest_name": "치악(춘천)",
+      "rank": "2",
+      "top_shop": "130_할리스커피",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 397,
+    "fields": {
+      "rest_name": "치악(춘천)",
+      "rank": "3",
+      "top_shop": "의류매장",
+      "top_item": "의류(전문매장) 의류(전문매장)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 398,
+    "fields": {
+      "rest_name": "치악(춘천)",
+      "rank": "4",
+      "top_shop": "170_만쥬리아코너",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 399,
+    "fields": {
+      "rest_name": "치악(춘천)",
+      "rank": "5",
+      "top_shop": "080_호도과자",
+      "top_item": "호/호두과자(5000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 400,
+    "fields": {
+      "rest_name": "단양팔경(춘천)",
+      "rank": "1",
+      "top_shop": "커피매장",
+      "top_item": "아이스아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 401,
+    "fields": {
+      "rest_name": "단양팔경(춘천)",
+      "rank": "2",
+      "top_shop": "커피매장",
+      "top_item": "아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 402,
+    "fields": {
+      "rest_name": "단양팔경(춘천)",
+      "rank": "3",
+      "top_shop": "400_옥외매장",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 403,
+    "fields": {
+      "rest_name": "단양팔경(춘천)",
+      "rank": "4",
+      "top_shop": "020_한식/양식",
+      "top_item": "육개장"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 404,
+    "fields": {
+      "rest_name": "단양팔경(춘천)",
+      "rank": "5",
+      "top_shop": "양식코너",
+      "top_item": "마늘왕돈가스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 405,
+    "fields": {
+      "rest_name": "단양팔경(부산)",
+      "rank": "1",
+      "top_shop": "할리스",
+      "top_item": "[할]HOT아메리카노[빨]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 406,
+    "fields": {
+      "rest_name": "단양팔경(부산)",
+      "rank": "2",
+      "top_shop": "할리스",
+      "top_item": "[할]ICE아메리카노[빨]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 407,
+    "fields": {
+      "rest_name": "단양팔경(부산)",
+      "rank": "3",
+      "top_shop": "식당(한식/양식)",
+      "top_item": "소고기국밥(8000)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 408,
+    "fields": {
+      "rest_name": "단양팔경(부산)",
+      "rank": "4",
+      "top_shop": "외부매장(직영)",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 409,
+    "fields": {
+      "rest_name": "단양팔경(부산)",
+      "rank": "5",
+      "top_shop": "식당(한식/양식)",
+      "top_item": "차돌된장찌개(7500)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 410,
+    "fields": {
+      "rest_name": "안동(부산)",
+      "rank": "1",
+      "top_shop": "한식당",
+      "top_item": "이동삼안동간고등어구이 이동삼안동간고등어구이"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 411,
+    "fields": {
+      "rest_name": "안동(부산)",
+      "rank": "2",
+      "top_shop": "300_엔제리너스",
+      "top_item": "아메리카노(I)S"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 412,
+    "fields": {
+      "rest_name": "안동(부산)",
+      "rank": "3",
+      "top_shop": "300_엔제리너스",
+      "top_item": "아메리카노(H)S"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 413,
+    "fields": {
+      "rest_name": "안동(부산)",
+      "rank": "4",
+      "top_shop": "200_옥외매장",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 414,
+    "fields": {
+      "rest_name": "안동(부산)",
+      "rank": "5",
+      "top_shop": "210_호두과자",
+      "top_item": "호도호두과자(5000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 415,
+    "fields": {
+      "rest_name": "안동(춘천)",
+      "rank": "1",
+      "top_shop": "한식당",
+      "top_item": "이동삼안동간고등어구이 이동삼안동간고등어구이"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 416,
+    "fields": {
+      "rest_name": "안동(춘천)",
+      "rank": "2",
+      "top_shop": "엔젤리너스",
+      "top_item": "아메리카노(H)S"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 417,
+    "fields": {
+      "rest_name": "안동(춘천)",
+      "rank": "3",
+      "top_shop": "210_병과",
+      "top_item": "호도호두과자(5000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 418,
+    "fields": {
+      "rest_name": "안동(춘천)",
+      "rank": "4",
+      "top_shop": "한식당",
+      "top_item": "소고기국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 419,
+    "fields": {
+      "rest_name": "안동(춘천)",
+      "rank": "5",
+      "top_shop": "김밥라면",
+      "top_item": "김치라면 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 420,
+    "fields": {
+      "rest_name": "군위(부산)",
+      "rank": "1",
+      "top_shop": "할리스커피",
+      "top_item": "I)아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 421,
+    "fields": {
+      "rest_name": "군위(부산)",
+      "rank": "2",
+      "top_shop": "할리스커피",
+      "top_item": "H)아메/에스프레소 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 422,
+    "fields": {
+      "rest_name": "군위(부산)",
+      "rank": "3",
+      "top_shop": "가판2",
+      "top_item": "소떡소떡 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 423,
+    "fields": {
+      "rest_name": "군위(부산)",
+      "rank": "4",
+      "top_shop": "가판2",
+      "top_item": "가마보꼬(3500)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 424,
+    "fields": {
+      "rest_name": "군위(부산)",
+      "rank": "5",
+      "top_shop": "가판2",
+      "top_item": "웨스턴핫바"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 425,
+    "fields": {
+      "rest_name": "군위(춘천)",
+      "rank": "1",
+      "top_shop": "할리스커피",
+      "top_item": "S)에스프레소꼰빠냐"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 426,
+    "fields": {
+      "rest_name": "군위(춘천)",
+      "rank": "2",
+      "top_shop": "할리스커피",
+      "top_item": "I)아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 427,
+    "fields": {
+      "rest_name": "군위(춘천)",
+      "rank": "3",
+      "top_shop": "계절상품코너",
+      "top_item": "소떡소떡 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 428,
+    "fields": {
+      "rest_name": "군위(춘천)",
+      "rank": "4",
+      "top_shop": "계절상품코너",
+      "top_item": "웨스턴핫바"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 429,
+    "fields": {
+      "rest_name": "군위(춘천)",
+      "rank": "5",
+      "top_shop": "멀티샵",
+      "top_item": "멀티샵(100000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 430,
+    "fields": {
+      "rest_name": "동해(삼척)",
+      "rank": "1",
+      "top_shop": "바우드코리아",
+      "top_item": "의류(전문매장) 바우드코리아(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 431,
+    "fields": {
+      "rest_name": "동해(삼척)",
+      "rank": "2",
+      "top_shop": "도이터 매장",
+      "top_item": "의류(전문매장) 블랙야크<10000>"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 432,
+    "fields": {
+      "rest_name": "동해(삼척)",
+      "rank": "3",
+      "top_shop": "도이터 매장",
+      "top_item": "의류(전문매장) 나이키"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 433,
+    "fields": {
+      "rest_name": "동해(삼척)",
+      "rank": "4",
+      "top_shop": "바우드코리아",
+      "top_item": "의류(전문매장) 바우드코리아(100000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 434,
+    "fields": {
+      "rest_name": "동해(삼척)",
+      "rank": "5",
+      "top_shop": "드롭탑",
+      "top_item": "ice아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 435,
+    "fields": {
+      "rest_name": "장유(서부산)",
+      "rank": "1",
+      "top_shop": "한식",
+      "top_item": "9) 코바코등심돈가스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 436,
+    "fields": {
+      "rest_name": "장유(서부산)",
+      "rank": "2",
+      "top_shop": "한식",
+      "top_item": "5) 통영해물순두부찌개(8000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 437,
+    "fields": {
+      "rest_name": "장유(서부산)",
+      "rank": "3",
+      "top_shop": "엔젤리너스",
+      "top_item": "아이스아메리카노(엔젤)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 438,
+    "fields": {
+      "rest_name": "장유(서부산)",
+      "rank": "4",
+      "top_shop": "스낵",
+      "top_item": "호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 439,
+    "fields": {
+      "rest_name": "장유(서부산)",
+      "rank": "5",
+      "top_shop": "한식",
+      "top_item": "2) 콩나물해장국밥 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 440,
+    "fields": {
+      "rest_name": "벌곡(대전)",
+      "rank": "1",
+      "top_shop": "2-1 한식(편의점)",
+      "top_item": "고불소고기비빔밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 441,
+    "fields": {
+      "rest_name": "벌곡(대전)",
+      "rank": "2",
+      "top_shop": "2-1 한식(편의점)",
+      "top_item": "해물순두부(한식)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 442,
+    "fields": {
+      "rest_name": "벌곡(대전)",
+      "rank": "3",
+      "top_shop": "옥외매장",
+      "top_item": "통호두호두과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 443,
+    "fields": {
+      "rest_name": "벌곡(대전)",
+      "rank": "4",
+      "top_shop": "딜라이트",
+      "top_item": "딜)아메리카노HOT"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 444,
+    "fields": {
+      "rest_name": "벌곡(대전)",
+      "rank": "5",
+      "top_shop": "옥외매장",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 445,
+    "fields": {
+      "rest_name": "벌곡(논산)",
+      "rank": "1",
+      "top_shop": "식당",
+      "top_item": "수제등심돈가스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 446,
+    "fields": {
+      "rest_name": "벌곡(논산)",
+      "rank": "2",
+      "top_shop": "탐앤탐스",
+      "top_item": "I)아메/아이스티4100 탐탐 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 447,
+    "fields": {
+      "rest_name": "벌곡(논산)",
+      "rank": "3",
+      "top_shop": "통감자",
+      "top_item": "소떡소떡3500 열린매장"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 448,
+    "fields": {
+      "rest_name": "벌곡(논산)",
+      "rank": "4",
+      "top_shop": "통감자",
+      "top_item": "5000호도과자 열린매장"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 449,
+    "fields": {
+      "rest_name": "벌곡(논산)",
+      "rank": "5",
+      "top_shop": "식당",
+      "top_item": "떡라면5.0"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 450,
+    "fields": {
+      "rest_name": "문경(양평)",
+      "rank": "1",
+      "top_shop": "편의점",
+      "top_item": "건어물8종"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 451,
+    "fields": {
+      "rest_name": "문경(양평)",
+      "rank": "2",
+      "top_shop": "의류",
+      "top_item": "의류(50000) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 452,
+    "fields": {
+      "rest_name": "문경(양평)",
+      "rank": "3",
+      "top_shop": "의류",
+      "top_item": "의류(100000) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 453,
+    "fields": {
+      "rest_name": "문경(양평)",
+      "rank": "4",
+      "top_shop": "의류",
+      "top_item": "의류(20000) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 454,
+    "fields": {
+      "rest_name": "문경(양평)",
+      "rank": "5",
+      "top_shop": "편의점",
+      "top_item": "웰빙칩스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 455,
+    "fields": {
+      "rest_name": "함평나비(광주)",
+      "rank": "1",
+      "top_shop": "탐앤탐스커피매장",
+      "top_item": "IC아메리카노(신) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 456,
+    "fields": {
+      "rest_name": "함평나비(광주)",
+      "rank": "2",
+      "top_shop": "탐앤탐스커피매장",
+      "top_item": "아메리카노(신) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 457,
+    "fields": {
+      "rest_name": "함평나비(광주)",
+      "rank": "3",
+      "top_shop": "열린매장",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 458,
+    "fields": {
+      "rest_name": "함평나비(광주)",
+      "rank": "4",
+      "top_shop": "식당",
+      "top_item": "돈가스(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 459,
+    "fields": {
+      "rest_name": "함평나비(광주)",
+      "rank": "5",
+      "top_shop": "로띠번빵매장",
+      "top_item": "로띠번"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 460,
+    "fields": {
+      "rest_name": "함평나비(무안)",
+      "rank": "1",
+      "top_shop": "탐앤탐스커피매장",
+      "top_item": "IC아메리카노(신) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 461,
+    "fields": {
+      "rest_name": "함평나비(무안)",
+      "rank": "2",
+      "top_shop": "탐앤탐스커피매장",
+      "top_item": "아메리카노(신) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 462,
+    "fields": {
+      "rest_name": "함평나비(무안)",
+      "rank": "3",
+      "top_shop": "열린매장",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 463,
+    "fields": {
+      "rest_name": "함평나비(무안)",
+      "rank": "4",
+      "top_shop": "열린매장",
+      "top_item": "수제어묵바 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 464,
+    "fields": {
+      "rest_name": "함평나비(무안)",
+      "rank": "5",
+      "top_shop": "로띠번빵매장",
+      "top_item": "로띠번"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 465,
+    "fields": {
+      "rest_name": "문경(창원)",
+      "rank": "1",
+      "top_shop": "252_의류전문매장",
+      "top_item": "의류(전문매장) 의류(전문매장)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 466,
+    "fields": {
+      "rest_name": "문경(창원)",
+      "rank": "2",
+      "top_shop": "252_의류전문매장",
+      "top_item": "의류(전문매장) 의류(전문매장)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 467,
+    "fields": {
+      "rest_name": "문경(창원)",
+      "rank": "3",
+      "top_shop": "100_한식당",
+      "top_item": "문경소고기국밥(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 468,
+    "fields": {
+      "rest_name": "문경(창원)",
+      "rank": "4",
+      "top_shop": "100_한식당",
+      "top_item": "문경해물순두부(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 469,
+    "fields": {
+      "rest_name": "문경(창원)",
+      "rank": "5",
+      "top_shop": "101_기사식당",
+      "top_item": "제육덮밥 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 470,
+    "fields": {
+      "rest_name": "구정(속초)",
+      "rank": "1",
+      "top_shop": "070_로띠번",
+      "top_item": "아이스카페라떼 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 471,
+    "fields": {
+      "rest_name": "구정(속초)",
+      "rank": "2",
+      "top_shop": "070_로띠번",
+      "top_item": "카페라떼 카페라떼"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 472,
+    "fields": {
+      "rest_name": "구정(속초)",
+      "rank": "3",
+      "top_shop": "060_한식당",
+      "top_item": "화촌버섯육개장"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 473,
+    "fields": {
+      "rest_name": "구정(속초)",
+      "rank": "4",
+      "top_shop": "080_스낵매장",
+      "top_item": "뚝불고기"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 474,
+    "fields": {
+      "rest_name": "구정(속초)",
+      "rank": "5",
+      "top_shop": "050_코바코",
+      "top_item": "코바코떡만두라면"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 475,
+    "fields": {
+      "rest_name": "남성주참외(창원)",
+      "rank": "1",
+      "top_shop": "놀부부대찌개(유명)",
+      "top_item": "(놀부)놀부부대찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 476,
+    "fields": {
+      "rest_name": "남성주참외(창원)",
+      "rank": "2",
+      "top_shop": "쌈지(잡화)",
+      "top_item": "의류(전문매장) 외부행사"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 477,
+    "fields": {
+      "rest_name": "남성주참외(창원)",
+      "rank": "3",
+      "top_shop": "할리스",
+      "top_item": "할리스 ICE아메리카노(빨)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 478,
+    "fields": {
+      "rest_name": "남성주참외(창원)",
+      "rank": "4",
+      "top_shop": "식당(한식)",
+      "top_item": "바글바글김치찌개 김치찌개(7500)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 479,
+    "fields": {
+      "rest_name": "남성주참외(창원)",
+      "rank": "5",
+      "top_shop": "식당(한식)",
+      "top_item": "고등어구이신규"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 480,
+    "fields": {
+      "rest_name": "남성주참외(양평)",
+      "rank": "1",
+      "top_shop": "의류매장(클라이머홀릭)",
+      "top_item": "의류(전문매장)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 481,
+    "fields": {
+      "rest_name": "남성주참외(양평)",
+      "rank": "2",
+      "top_shop": "토스트&와플",
+      "top_item": "토스트세트(불갈비베이컨)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 482,
+    "fields": {
+      "rest_name": "남성주참외(양평)",
+      "rank": "3",
+      "top_shop": "할리스",
+      "top_item": "아이스아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 483,
+    "fields": {
+      "rest_name": "남성주참외(양평)",
+      "rank": "4",
+      "top_shop": "할리스",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 484,
+    "fields": {
+      "rest_name": "남성주참외(양평)",
+      "rank": "5",
+      "top_shop": "한식당",
+      "top_item": "바글바글김치찌개 김치찌개(7500)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 485,
+    "fields": {
+      "rest_name": "화서(영덕)",
+      "rank": "1",
+      "top_shop": "탐앤탐스",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 486,
+    "fields": {
+      "rest_name": "화서(영덕)",
+      "rank": "2",
+      "top_shop": "100_한식당",
+      "top_item": "등심돈가스(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 487,
+    "fields": {
+      "rest_name": "화서(영덕)",
+      "rank": "3",
+      "top_shop": "미도어묵",
+      "top_item": "미도어묵핫바"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 488,
+    "fields": {
+      "rest_name": "화서(영덕)",
+      "rank": "4",
+      "top_shop": "탐앤탐스",
+      "top_item": "(I)아메리카노아이스티 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 489,
+    "fields": {
+      "rest_name": "화서(영덕)",
+      "rank": "5",
+      "top_shop": "미도어묵",
+      "top_item": "프리미엄오징어어니언바(매운맛)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 490,
+    "fields": {
+      "rest_name": "진안마이산(장수)",
+      "rank": "1",
+      "top_shop": "100_한식당",
+      "top_item": "제육덮밥정식"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 491,
+    "fields": {
+      "rest_name": "진안마이산(장수)",
+      "rank": "2",
+      "top_shop": "100_한식당",
+      "top_item": "해물부대찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 492,
+    "fields": {
+      "rest_name": "진안마이산(장수)",
+      "rank": "3",
+      "top_shop": "망고식스",
+      "top_item": "아메리카노(ICE)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 493,
+    "fields": {
+      "rest_name": "진안마이산(장수)",
+      "rank": "4",
+      "top_shop": "망고식스",
+      "top_item": "아메리카노(HOT)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 494,
+    "fields": {
+      "rest_name": "진안마이산(장수)",
+      "rank": "5",
+      "top_shop": "100_한식당",
+      "top_item": "해물순두부"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 495,
+    "fields": {
+      "rest_name": "고성공룡나라(통영)",
+      "rank": "1",
+      "top_shop": "엔제리너스(직영)",
+      "top_item": "아메리카노(I)S"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 496,
+    "fields": {
+      "rest_name": "고성공룡나라(통영)",
+      "rank": "2",
+      "top_shop": "엔제리너스(직영)",
+      "top_item": "아메리카노(H)S"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 497,
+    "fields": {
+      "rest_name": "고성공룡나라(통영)",
+      "rank": "3",
+      "top_shop": "옥외매장(직영)",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 498,
+    "fields": {
+      "rest_name": "고성공룡나라(통영)",
+      "rank": "4",
+      "top_shop": "한식당",
+      "top_item": "흑돼지김치찌개 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 499,
+    "fields": {
+      "rest_name": "고성공룡나라(통영)",
+      "rank": "5",
+      "top_shop": "옥외매장(직영)",
+      "top_item": "문어야채바 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 500,
+    "fields": {
+      "rest_name": "고성공룡나라(대전)",
+      "rank": "1",
+      "top_shop": "엔제리너스",
+      "top_item": "아메리카노(H)S"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 501,
+    "fields": {
+      "rest_name": "고성공룡나라(대전)",
+      "rank": "2",
+      "top_shop": "한식당",
+      "top_item": "흑돼지김치찌개 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 502,
+    "fields": {
+      "rest_name": "고성공룡나라(대전)",
+      "rank": "3",
+      "top_shop": "한식당",
+      "top_item": "장터국밥(한식)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 503,
+    "fields": {
+      "rest_name": "고성공룡나라(대전)",
+      "rank": "4",
+      "top_shop": "옥외매장",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 504,
+    "fields": {
+      "rest_name": "고성공룡나라(대전)",
+      "rank": "5",
+      "top_shop": "망고식스",
+      "top_item": "아메리카노(ICE) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 505,
+    "fields": {
+      "rest_name": "덕평",
+      "rank": "1",
+      "top_shop": "블랙야크행사",
+      "top_item": "블랙야크행사(1000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 506,
+    "fields": {
+      "rest_name": "덕평",
+      "rank": "1",
+      "top_shop": "블랙야크행사",
+      "top_item": "블랙야크행사(1000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 507,
+    "fields": {
+      "rest_name": "덕평",
+      "rank": "2",
+      "top_shop": "까스텔바작",
+      "top_item": "의류(10000) 로베르따(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 508,
+    "fields": {
+      "rest_name": "덕평",
+      "rank": "2",
+      "top_shop": "까스텔바작",
+      "top_item": "의류(10000) 로베르따(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 509,
+    "fields": {
+      "rest_name": "덕평",
+      "rank": "3",
+      "top_shop": "1한식",
+      "top_item": "덕평소고기국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 510,
+    "fields": {
+      "rest_name": "덕평",
+      "rank": "3",
+      "top_shop": "1한식",
+      "top_item": "덕평소고기국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 511,
+    "fields": {
+      "rest_name": "덕평",
+      "rank": "4",
+      "top_shop": "K2행사",
+      "top_item": "K2행사(1000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 512,
+    "fields": {
+      "rest_name": "덕평",
+      "rank": "4",
+      "top_shop": "K2행사",
+      "top_item": "K2행사(1000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 513,
+    "fields": {
+      "rest_name": "덕평",
+      "rank": "5",
+      "top_shop": "잭니클라우스",
+      "top_item": "잭니클라우스(1000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 514,
+    "fields": {
+      "rest_name": "덕평",
+      "rank": "5",
+      "top_shop": "잭니클라우스",
+      "top_item": "잭니클라우스(1000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 515,
+    "fields": {
+      "rest_name": "청통(대구)",
+      "rank": "1",
+      "top_shop": "091_엔제리너스",
+      "top_item": "시즌아메리카노(ICE)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 516,
+    "fields": {
+      "rest_name": "청통(대구)",
+      "rank": "2",
+      "top_shop": "091_엔제리너스",
+      "top_item": "시즌아메리카노(HOT)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 517,
+    "fields": {
+      "rest_name": "청통(대구)",
+      "rank": "3",
+      "top_shop": "060_옥외매장",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 518,
+    "fields": {
+      "rest_name": "청통(대구)",
+      "rank": "4",
+      "top_shop": "060_옥외매장",
+      "top_item": "호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 519,
+    "fields": {
+      "rest_name": "청통(대구)",
+      "rank": "5",
+      "top_shop": "020_한식코너",
+      "top_item": "한)얼큰해물순두부"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 520,
+    "fields": {
+      "rest_name": "와촌(포항)",
+      "rank": "1",
+      "top_shop": "브라더꽈배기",
+      "top_item": "PB일반빵"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 521,
+    "fields": {
+      "rest_name": "와촌(포항)",
+      "rank": "2",
+      "top_shop": "망고식스",
+      "top_item": "ICE아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 522,
+    "fields": {
+      "rest_name": "와촌(포항)",
+      "rank": "3",
+      "top_shop": "망고식스",
+      "top_item": "HOT아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 523,
+    "fields": {
+      "rest_name": "와촌(포항)",
+      "rank": "4",
+      "top_shop": "020_한식코너",
+      "top_item": "순두부찌개(표준 레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 524,
+    "fields": {
+      "rest_name": "와촌(포항)",
+      "rank": "5",
+      "top_shop": "080_옥외매장",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 525,
+    "fields": {
+      "rest_name": "괴산(양평)",
+      "rank": "1",
+      "top_shop": "한식당(직영)",
+      "top_item": "흑돼지김치찌개(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 526,
+    "fields": {
+      "rest_name": "괴산(양평)",
+      "rank": "2",
+      "top_shop": "한식당(직영)",
+      "top_item": "얼큰해물순두부찌개(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 527,
+    "fields": {
+      "rest_name": "괴산(양평)",
+      "rank": "3",
+      "top_shop": "달인 수제 어묵",
+      "top_item": "고추어묵 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 528,
+    "fields": {
+      "rest_name": "괴산(양평)",
+      "rank": "4",
+      "top_shop": "크리스피크림",
+      "top_item": "크리스피아메리카노ICE "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 529,
+    "fields": {
+      "rest_name": "괴산(양평)",
+      "rank": "5",
+      "top_shop": "간식탐구(직영)",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 530,
+    "fields": {
+      "rest_name": "괴산(창원)",
+      "rank": "1",
+      "top_shop": "식당(일반)",
+      "top_item": "괴산소고기국밥(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 531,
+    "fields": {
+      "rest_name": "괴산(창원)",
+      "rank": "2",
+      "top_shop": "식당(일반)",
+      "top_item": "순두부찌개(7000)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 532,
+    "fields": {
+      "rest_name": "괴산(창원)",
+      "rank": "3",
+      "top_shop": "할리스커피",
+      "top_item": "카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 533,
+    "fields": {
+      "rest_name": "괴산(창원)",
+      "rank": "4",
+      "top_shop": "식당(일반)",
+      "top_item": "김치찌개(8000)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 534,
+    "fields": {
+      "rest_name": "괴산(창원)",
+      "rank": "5",
+      "top_shop": "할리스커피",
+      "top_item": "아이스아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 535,
+    "fields": {
+      "rest_name": "김천(서울)",
+      "rank": "1",
+      "top_shop": "13파스쿠찌",
+      "top_item": "핫 아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 536,
+    "fields": {
+      "rest_name": "김천(서울)",
+      "rank": "2",
+      "top_shop": "03한식전문점",
+      "top_item": "제육정식(한식당)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 537,
+    "fields": {
+      "rest_name": "김천(서울)",
+      "rank": "3",
+      "top_shop": "13파스쿠찌",
+      "top_item": "아이스녹차(커피니)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 538,
+    "fields": {
+      "rest_name": "김천(서울)",
+      "rank": "4",
+      "top_shop": "03한식전문점",
+      "top_item": "단양마늘 돌솥 비빔밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 539,
+    "fields": {
+      "rest_name": "김천(서울)",
+      "rank": "5",
+      "top_shop": "13파스쿠찌",
+      "top_item": "아이스 아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 540,
+    "fields": {
+      "rest_name": "공주(대전)",
+      "rank": "1",
+      "top_shop": "공주밤나무",
+      "top_item": "공주알밤빵(대) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 541,
+    "fields": {
+      "rest_name": "공주(대전)",
+      "rank": "2",
+      "top_shop": "카페베네",
+      "top_item": "아이스아메리카노(카페베네)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 542,
+    "fields": {
+      "rest_name": "공주(대전)",
+      "rank": "3",
+      "top_shop": "공주밤나무",
+      "top_item": "공주알밤빵(선물용) 공주알밤빵(선물용)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 543,
+    "fields": {
+      "rest_name": "공주(대전)",
+      "rank": "4",
+      "top_shop": "공주밤나무",
+      "top_item": "공주군밤 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 544,
+    "fields": {
+      "rest_name": "공주(대전)",
+      "rank": "5",
+      "top_shop": "카페베네",
+      "top_item": "H아메리카노(카페베네)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 545,
+    "fields": {
+      "rest_name": "부여백제(공주)",
+      "rank": "1",
+      "top_shop": "카페베네",
+      "top_item": "아이스아메리카노(카페베네)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 546,
+    "fields": {
+      "rest_name": "부여백제(공주)",
+      "rank": "2",
+      "top_shop": "카페베네",
+      "top_item": "H아메리카노(카페베네)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 547,
+    "fields": {
+      "rest_name": "부여백제(공주)",
+      "rank": "3",
+      "top_shop": "가판",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 548,
+    "fields": {
+      "rest_name": "부여백제(공주)",
+      "rank": "4",
+      "top_shop": "가판",
+      "top_item": "호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 549,
+    "fields": {
+      "rest_name": "부여백제(공주)",
+      "rank": "5",
+      "top_shop": "가판",
+      "top_item": "수제어묵바"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 550,
+    "fields": {
+      "rest_name": "부여백제(서천)",
+      "rank": "1",
+      "top_shop": "카페베네",
+      "top_item": "아이스아메리카노(카페베네)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 551,
+    "fields": {
+      "rest_name": "부여백제(서천)",
+      "rank": "2",
+      "top_shop": "카페베네",
+      "top_item": "H아메리카노(카페베네)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 552,
+    "fields": {
+      "rest_name": "부여백제(서천)",
+      "rank": "3",
+      "top_shop": "20.가판",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 553,
+    "fields": {
+      "rest_name": "부여백제(서천)",
+      "rank": "4",
+      "top_shop": "20.가판",
+      "top_item": "호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 554,
+    "fields": {
+      "rest_name": "부여백제(서천)",
+      "rank": "5",
+      "top_shop": "20.가판",
+      "top_item": "수제어묵바 수제어묵바"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 555,
+    "fields": {
+      "rest_name": "공주(당진)",
+      "rank": "1",
+      "top_shop": "공차",
+      "top_item": "크리스피아메리카노HOT"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 556,
+    "fields": {
+      "rest_name": "공주(당진)",
+      "rank": "2",
+      "top_shop": "공차",
+      "top_item": "그린 밀크티 (L) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 557,
+    "fields": {
+      "rest_name": "공주(당진)",
+      "rank": "3",
+      "top_shop": "공주밤나무",
+      "top_item": "공주알밤빵(대) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 558,
+    "fields": {
+      "rest_name": "공주(당진)",
+      "rank": "4",
+      "top_shop": "400_가판",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 559,
+    "fields": {
+      "rest_name": "공주(당진)",
+      "rank": "5",
+      "top_shop": "400_가판",
+      "top_item": "허브통살꼬치"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 560,
+    "fields": {
+      "rest_name": "목감(서울)",
+      "rank": "1",
+      "top_shop": "우동코너[건영]",
+      "top_item": "통밀유부초밥우동정식"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 561,
+    "fields": {
+      "rest_name": "목감(서울)",
+      "rank": "2",
+      "top_shop": "우동코너[건영]",
+      "top_item": "라면정식"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 562,
+    "fields": {
+      "rest_name": "목감(서울)",
+      "rank": "3",
+      "top_shop": "탐앤탐스",
+      "top_item": "아이스카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 563,
+    "fields": {
+      "rest_name": "목감(서울)",
+      "rank": "4",
+      "top_shop": "우동코너[건영]",
+      "top_item": "통밀부산어묵우동"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 564,
+    "fields": {
+      "rest_name": "목감(서울)",
+      "rank": "5",
+      "top_shop": "우동코너[건영]",
+      "top_item": "떡라면"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 565,
+    "fields": {
+      "rest_name": "안성맞춤(평택)",
+      "rank": "1",
+      "top_shop": "020_한식당",
+      "top_item": "안성국밥(8000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 566,
+    "fields": {
+      "rest_name": "안성맞춤(평택)",
+      "rank": "2",
+      "top_shop": "로띠번",
+      "top_item": "로띠번"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 567,
+    "fields": {
+      "rest_name": "안성맞춤(평택)",
+      "rank": "3",
+      "top_shop": "205_할리스",
+      "top_item": "아이스아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 568,
+    "fields": {
+      "rest_name": "안성맞춤(평택)",
+      "rank": "4",
+      "top_shop": "050_가판",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 569,
+    "fields": {
+      "rest_name": "안성맞춤(평택)",
+      "rank": "5",
+      "top_shop": "205_할리스",
+      "top_item": "아메리카노/에소 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 570,
+    "fields": {
+      "rest_name": "안성맞춤(제천)",
+      "rank": "1",
+      "top_shop": "020_한식당",
+      "top_item": "안성국밥(8000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 571,
+    "fields": {
+      "rest_name": "안성맞춤(제천)",
+      "rank": "2",
+      "top_shop": "로띠번",
+      "top_item": "로띠번"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 572,
+    "fields": {
+      "rest_name": "안성맞춤(제천)",
+      "rank": "3",
+      "top_shop": "050_가판",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 573,
+    "fields": {
+      "rest_name": "안성맞춤(제천)",
+      "rank": "4",
+      "top_shop": "205_할리스",
+      "top_item": "아이스아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 574,
+    "fields": {
+      "rest_name": "안성맞춤(제천)",
+      "rank": "5",
+      "top_shop": "020_한식당",
+      "top_item": "수제등심돈가스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 575,
+    "fields": {
+      "rest_name": "김천(부산)",
+      "rank": "1",
+      "top_shop": "015_한식당",
+      "top_item": "웰빙제육비빔밥 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 576,
+    "fields": {
+      "rest_name": "김천(부산)",
+      "rank": "2",
+      "top_shop": "015_한식당",
+      "top_item": "얼큰돼지김치찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 577,
+    "fields": {
+      "rest_name": "김천(부산)",
+      "rank": "3",
+      "top_shop": "(직)파스쿠찌",
+      "top_item": "아이스 아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 578,
+    "fields": {
+      "rest_name": "김천(부산)",
+      "rank": "4",
+      "top_shop": "015_한식당",
+      "top_item": "한우불고기비빔밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 579,
+    "fields": {
+      "rest_name": "김천(부산)",
+      "rank": "5",
+      "top_shop": "005_수라방수제돈가스",
+      "top_item": "수제왕돈까스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 580,
+    "fields": {
+      "rest_name": "진주(부산)",
+      "rank": "1",
+      "top_shop": "한식당",
+      "top_item": "육전비빔밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 581,
+    "fields": {
+      "rest_name": "진주(부산)",
+      "rank": "2",
+      "top_shop": "파스쿠찌",
+      "top_item": "아이스아메리카노R"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 582,
+    "fields": {
+      "rest_name": "진주(부산)",
+      "rank": "3",
+      "top_shop": "한식당",
+      "top_item": "제육덮밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 583,
+    "fields": {
+      "rest_name": "진주(부산)",
+      "rank": "4",
+      "top_shop": "한식당",
+      "top_item": "묵은지김치찌개(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 584,
+    "fields": {
+      "rest_name": "진주(부산)",
+      "rank": "5",
+      "top_shop": "파스쿠찌",
+      "top_item": "아메리카노L"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 585,
+    "fields": {
+      "rest_name": "서여주(양평)",
+      "rank": "1",
+      "top_shop": "탐앤탐스",
+      "top_item": "아이스카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 586,
+    "fields": {
+      "rest_name": "서여주(양평)",
+      "rank": "2",
+      "top_shop": "한식코너",
+      "top_item": "등심돈가스(8500)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 587,
+    "fields": {
+      "rest_name": "서여주(양평)",
+      "rank": "3",
+      "top_shop": "탐앤탐스",
+      "top_item": "카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 588,
+    "fields": {
+      "rest_name": "서여주(양평)",
+      "rank": "4",
+      "top_shop": "로띠번",
+      "top_item": "로띠번"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 589,
+    "fields": {
+      "rest_name": "서여주(양평)",
+      "rank": "5",
+      "top_shop": "라면코너",
+      "top_item": "떡라면"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 590,
+    "fields": {
+      "rest_name": "서여주(창원)",
+      "rank": "1",
+      "top_shop": "탐앤탐스",
+      "top_item": "아이스카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 591,
+    "fields": {
+      "rest_name": "서여주(창원)",
+      "rank": "2",
+      "top_shop": "탐앤탐스",
+      "top_item": "카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 592,
+    "fields": {
+      "rest_name": "서여주(창원)",
+      "rank": "3",
+      "top_shop": "한식코너",
+      "top_item": "등심돈가스(8500)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 593,
+    "fields": {
+      "rest_name": "서여주(창원)",
+      "rank": "4",
+      "top_shop": "라면코너",
+      "top_item": "떡라면"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 594,
+    "fields": {
+      "rest_name": "서여주(창원)",
+      "rank": "5",
+      "top_shop": "로띠번",
+      "top_item": "로띠번"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 595,
+    "fields": {
+      "rest_name": "이서(순천)",
+      "rank": "1",
+      "top_shop": "360_의류",
+      "top_item": "의류(전문매장) 의류(전문매장)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 596,
+    "fields": {
+      "rest_name": "이서(순천)",
+      "rank": "2",
+      "top_shop": "360_의류",
+      "top_item": "의류(전문매장) 의류(전문매장)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 597,
+    "fields": {
+      "rest_name": "이서(순천)",
+      "rank": "3",
+      "top_shop": "200_전주비빔밥전문점",
+      "top_item": "옛날돼지고기김치찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 598,
+    "fields": {
+      "rest_name": "이서(순천)",
+      "rank": "4",
+      "top_shop": "360_의류",
+      "top_item": "의류(전문매장) 의류(전문매장)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 599,
+    "fields": {
+      "rest_name": "이서(순천)",
+      "rank": "5",
+      "top_shop": "530_탐앤탐스",
+      "top_item": "아이스카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 600,
+    "fields": {
+      "rest_name": "이서(천안)",
+      "rank": "1",
+      "top_shop": "750_의류",
+      "top_item": "의류(전문매장) 의류(전문매장)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 601,
+    "fields": {
+      "rest_name": "이서(천안)",
+      "rank": "2",
+      "top_shop": "012_탐앤탐스",
+      "top_item": "아이스카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 602,
+    "fields": {
+      "rest_name": "이서(천안)",
+      "rank": "3",
+      "top_shop": "750_의류",
+      "top_item": "의류(전문매장) 의류(전문매장)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 603,
+    "fields": {
+      "rest_name": "이서(천안)",
+      "rank": "4",
+      "top_shop": "012_탐앤탐스",
+      "top_item": "카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 604,
+    "fields": {
+      "rest_name": "이서(천안)",
+      "rank": "5",
+      "top_shop": "200_한식",
+      "top_item": "사태김치찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 605,
+    "fields": {
+      "rest_name": "오수(완주)",
+      "rank": "1",
+      "top_shop": "탐앤탐",
+      "top_item": "아이스카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 606,
+    "fields": {
+      "rest_name": "오수(완주)",
+      "rank": "2",
+      "top_shop": "탐앤탐",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 607,
+    "fields": {
+      "rest_name": "오수(완주)",
+      "rank": "3",
+      "top_shop": "한식",
+      "top_item": "옛날돼지고기김치찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 608,
+    "fields": {
+      "rest_name": "오수(완주)",
+      "rank": "4",
+      "top_shop": "의류",
+      "top_item": "의류(전문매장) 의류(전문매장)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 609,
+    "fields": {
+      "rest_name": "오수(완주)",
+      "rank": "5",
+      "top_shop": "호도과자",
+      "top_item": "호도과자 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 610,
+    "fields": {
+      "rest_name": "오수(순천)",
+      "rank": "1",
+      "top_shop": "탐앤탐",
+      "top_item": "아이스카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 611,
+    "fields": {
+      "rest_name": "오수(순천)",
+      "rank": "2",
+      "top_shop": "탐앤탐",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 612,
+    "fields": {
+      "rest_name": "오수(순천)",
+      "rank": "3",
+      "top_shop": "임실유산균",
+      "top_item": "구워치즈3500"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 613,
+    "fields": {
+      "rest_name": "오수(순천)",
+      "rank": "4",
+      "top_shop": "한식",
+      "top_item": "양갑조)소고기국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 614,
+    "fields": {
+      "rest_name": "오수(순천)",
+      "rank": "5",
+      "top_shop": "한식",
+      "top_item": "옛날돼지고기김치찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 615,
+    "fields": {
+      "rest_name": "황전(순천)",
+      "rank": "1",
+      "top_shop": "100_한식당",
+      "top_item": "삼채돌솥비빔밥(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 616,
+    "fields": {
+      "rest_name": "황전(순천)",
+      "rank": "2",
+      "top_shop": "300_열린매장",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 617,
+    "fields": {
+      "rest_name": "황전(순천)",
+      "rank": "3",
+      "top_shop": "300_열린매장",
+      "top_item": "골든수제어묵바(순한맛)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 618,
+    "fields": {
+      "rest_name": "황전(순천)",
+      "rank": "4",
+      "top_shop": "100_한식당",
+      "top_item": "김치찌개(7000)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 619,
+    "fields": {
+      "rest_name": "황전(순천)",
+      "rank": "5",
+      "top_shop": "파스쿠찌",
+      "top_item": "아메리카노L"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 620,
+    "fields": {
+      "rest_name": "황전(완주)",
+      "rank": "1",
+      "top_shop": "40_파스쿠찌",
+      "top_item": "아이스아메리카노R"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 621,
+    "fields": {
+      "rest_name": "황전(완주)",
+      "rank": "2",
+      "top_shop": "40_파스쿠찌",
+      "top_item": "아메리카노L"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 622,
+    "fields": {
+      "rest_name": "황전(완주)",
+      "rank": "3",
+      "top_shop": "10_한식당",
+      "top_item": "웰빙제육비빔밥 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 623,
+    "fields": {
+      "rest_name": "황전(완주)",
+      "rank": "4",
+      "top_shop": "30_열린매장",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 624,
+    "fields": {
+      "rest_name": "황전(완주)",
+      "rank": "5",
+      "top_shop": "10_한식당",
+      "top_item": "즉석 국산콩 해물 순두부 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 625,
+    "fields": {
+      "rest_name": "통도사(부산)",
+      "rank": "1",
+      "top_shop": "호두코너",
+      "top_item": "즉석호두과자(5000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 626,
+    "fields": {
+      "rest_name": "통도사(부산)",
+      "rank": "2",
+      "top_shop": "커피딜라이트",
+      "top_item": "ICE 아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 627,
+    "fields": {
+      "rest_name": "통도사(부산)",
+      "rank": "3",
+      "top_shop": "즉석간식2",
+      "top_item": "10 소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 628,
+    "fields": {
+      "rest_name": "통도사(부산)",
+      "rank": "4",
+      "top_shop": "호두코너",
+      "top_item": "즉석호두과자(3000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 629,
+    "fields": {
+      "rest_name": "통도사(부산)",
+      "rank": "5",
+      "top_shop": "한식코너",
+      "top_item": "1 명품낙지덮밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 630,
+    "fields": {
+      "rest_name": "금왕(평택)",
+      "rank": "1",
+      "top_shop": "217_브라더꽈배기",
+      "top_item": "브라더찹쌀(5000원)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 631,
+    "fields": {
+      "rest_name": "금왕(평택)",
+      "rank": "2",
+      "top_shop": "217_브라더꽈배기",
+      "top_item": "브라더꽈배기(9개)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 632,
+    "fields": {
+      "rest_name": "금왕(평택)",
+      "rank": "3",
+      "top_shop": "213_엔젤리너스",
+      "top_item": "엔젤)아메리카노(I)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 633,
+    "fields": {
+      "rest_name": "금왕(평택)",
+      "rank": "4",
+      "top_shop": "214_엔조잇",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 634,
+    "fields": {
+      "rest_name": "금왕(평택)",
+      "rank": "5",
+      "top_shop": "213_엔젤리너스",
+      "top_item": "엔젤)아메리카노(H)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 635,
+    "fields": {
+      "rest_name": "금왕(제천)",
+      "rank": "1",
+      "top_shop": "150_브라더꽈배기",
+      "top_item": "브라더찹쌀(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 636,
+    "fields": {
+      "rest_name": "금왕(제천)",
+      "rank": "2",
+      "top_shop": "150_브라더꽈배기",
+      "top_item": "브라더꽈배기(5000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 637,
+    "fields": {
+      "rest_name": "금왕(제천)",
+      "rank": "3",
+      "top_shop": "131_엔제리너스",
+      "top_item": "엔젤)아메리카노(H)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 638,
+    "fields": {
+      "rest_name": "금왕(제천)",
+      "rank": "4",
+      "top_shop": "210_델리쉐프",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 639,
+    "fields": {
+      "rest_name": "금왕(제천)",
+      "rank": "5",
+      "top_shop": "100_한식",
+      "top_item": "말죽거리소고기국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 640,
+    "fields": {
+      "rest_name": "옥천(부산)",
+      "rank": "1",
+      "top_shop": "놀부부대찌개",
+      "top_item": "놀부부대찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 641,
+    "fields": {
+      "rest_name": "옥천(부산)",
+      "rank": "2",
+      "top_shop": "할리스커피",
+      "top_item": "아이스아메리카노 [할]ICE아메리카노[빨]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 642,
+    "fields": {
+      "rest_name": "옥천(부산)",
+      "rank": "3",
+      "top_shop": "할리스커피",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 643,
+    "fields": {
+      "rest_name": "옥천(부산)",
+      "rank": "4",
+      "top_shop": "놀부부대찌개",
+      "top_item": "숯불고기비빔밥(한식)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 644,
+    "fields": {
+      "rest_name": "옥천(부산)",
+      "rank": "5",
+      "top_shop": "놀부부대찌개",
+      "top_item": "제육정식(전) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 645,
+    "fields": {
+      "rest_name": "원주(춘천)",
+      "rank": "1",
+      "top_shop": "할리스커피",
+      "top_item": "카페아메리카노[할리스] "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 646,
+    "fields": {
+      "rest_name": "원주(춘천)",
+      "rank": "2",
+      "top_shop": "할리스커피",
+      "top_item": "(ICE)아메리카노[할리스] "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 647,
+    "fields": {
+      "rest_name": "원주(춘천)",
+      "rank": "3",
+      "top_shop": "가판매장",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 648,
+    "fields": {
+      "rest_name": "원주(춘천)",
+      "rank": "4",
+      "top_shop": "가판매장",
+      "top_item": "웨스턴핫바(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 649,
+    "fields": {
+      "rest_name": "원주(춘천)",
+      "rank": "5",
+      "top_shop": "가판매장",
+      "top_item": "케이크소세지"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 650,
+    "fields": {
+      "rest_name": "원주(부산)",
+      "rank": "1",
+      "top_shop": "할리스커피",
+      "top_item": "(ICE)아메리카노[할리스]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 651,
+    "fields": {
+      "rest_name": "원주(부산)",
+      "rank": "2",
+      "top_shop": "할리스커피",
+      "top_item": "카페아메리카노[할리스] "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 652,
+    "fields": {
+      "rest_name": "원주(부산)",
+      "rank": "3",
+      "top_shop": "가판대",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 653,
+    "fields": {
+      "rest_name": "원주(부산)",
+      "rank": "4",
+      "top_shop": "한식당",
+      "top_item": "한우소고기국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 654,
+    "fields": {
+      "rest_name": "원주(부산)",
+      "rank": "5",
+      "top_shop": "가판대",
+      "top_item": "웨스턴핫바(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 655,
+    "fields": {
+      "rest_name": "경산(서울)",
+      "rank": "1",
+      "top_shop": "할리스",
+      "top_item": "아이스아메리카노(할리스) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 656,
+    "fields": {
+      "rest_name": "경산(서울)",
+      "rank": "2",
+      "top_shop": "스팍스",
+      "top_item": "의류(전문매장)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 657,
+    "fields": {
+      "rest_name": "경산(서울)",
+      "rank": "3",
+      "top_shop": "할리스",
+      "top_item": "카페아메리카노(할리스) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 658,
+    "fields": {
+      "rest_name": "경산(서울)",
+      "rank": "4",
+      "top_shop": "스팍스",
+      "top_item": "의류(전문매장) FILA"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 659,
+    "fields": {
+      "rest_name": "경산(서울)",
+      "rank": "5",
+      "top_shop": "식당가KIOSK",
+      "top_item": "두촌)돼지갈비정식"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 660,
+    "fields": {
+      "rest_name": "보성녹차(영암)",
+      "rank": "1",
+      "top_shop": "커피(할리스)",
+      "top_item": "[할]ICE아메리카노[빨]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 661,
+    "fields": {
+      "rest_name": "보성녹차(영암)",
+      "rank": "2",
+      "top_shop": "커피(할리스)",
+      "top_item": "[할]HOT아메리카노[빨]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 662,
+    "fields": {
+      "rest_name": "보성녹차(영암)",
+      "rank": "3",
+      "top_shop": "한식당",
+      "top_item": "청매실꼬막비빔밥 보성꼬막비빔밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 663,
+    "fields": {
+      "rest_name": "보성녹차(영암)",
+      "rank": "4",
+      "top_shop": "청년창업(미스터톡톡)",
+      "top_item": "마지막약속핫도그(청년창업)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 664,
+    "fields": {
+      "rest_name": "보성녹차(영암)",
+      "rank": "5",
+      "top_shop": "한식당",
+      "top_item": "순두부찌개(7500)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 665,
+    "fields": {
+      "rest_name": "보성녹차(순천)",
+      "rank": "1",
+      "top_shop": "할리스",
+      "top_item": "[할]ICE아메리카노[빨]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 666,
+    "fields": {
+      "rest_name": "보성녹차(순천)",
+      "rank": "2",
+      "top_shop": "한식당",
+      "top_item": "보성꼬막비빔밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 667,
+    "fields": {
+      "rest_name": "보성녹차(순천)",
+      "rank": "3",
+      "top_shop": "할리스",
+      "top_item": "[할]HOT아메리카노[빨]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 668,
+    "fields": {
+      "rest_name": "보성녹차(순천)",
+      "rank": "4",
+      "top_shop": "미스터톡톡",
+      "top_item": "순희치즈핫도그 마지막약속핫도그(톡톡)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 669,
+    "fields": {
+      "rest_name": "보성녹차(순천)",
+      "rank": "5",
+      "top_shop": "한식당",
+      "top_item": "순두부찌개(7500)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 670,
+    "fields": {
+      "rest_name": "행담도",
+      "rank": "1",
+      "top_shop": "의류행사",
+      "top_item": "의류(50000) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 671,
+    "fields": {
+      "rest_name": "행담도",
+      "rank": "1",
+      "top_shop": "의류행사",
+      "top_item": "의류(50000) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 672,
+    "fields": {
+      "rest_name": "행담도",
+      "rank": "2",
+      "top_shop": "호두과자(1)",
+      "top_item": "가판하)즉석호두과자"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 673,
+    "fields": {
+      "rest_name": "행담도",
+      "rank": "2",
+      "top_shop": "호두과자(1)",
+      "top_item": "가판하)즉석호두과자"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 674,
+    "fields": {
+      "rest_name": "행담도",
+      "rank": "3",
+      "top_shop": "의류행사",
+      "top_item": "의류(10000) 의류(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 675,
+    "fields": {
+      "rest_name": "행담도",
+      "rank": "3",
+      "top_shop": "의류행사",
+      "top_item": "의류(10000) 의류(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 676,
+    "fields": {
+      "rest_name": "행담도",
+      "rank": "4",
+      "top_shop": "가판상행",
+      "top_item": "가판상)맥반석오징어"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 677,
+    "fields": {
+      "rest_name": "행담도",
+      "rank": "4",
+      "top_shop": "가판상행",
+      "top_item": "가판상)맥반석오징어"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 678,
+    "fields": {
+      "rest_name": "행담도",
+      "rank": "5",
+      "top_shop": "중앙가판",
+      "top_item": "가판중)부산오뎅"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 679,
+    "fields": {
+      "rest_name": "행담도",
+      "rank": "5",
+      "top_shop": "중앙가판",
+      "top_item": "가판중)부산오뎅"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 680,
+    "fields": {
+      "rest_name": "강천산(대구)",
+      "rank": "1",
+      "top_shop": "리던커피",
+      "top_item": "아메리카노(HOT) 아메리카노(HOT)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 681,
+    "fields": {
+      "rest_name": "강천산(대구)",
+      "rank": "2",
+      "top_shop": "리던커피",
+      "top_item": "아메리카노(ICE) 아메리카노(ICE)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 682,
+    "fields": {
+      "rest_name": "강천산(대구)",
+      "rank": "3",
+      "top_shop": "한식",
+      "top_item": "솥뚜껑 비빔밥 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 683,
+    "fields": {
+      "rest_name": "강천산(대구)",
+      "rank": "4",
+      "top_shop": "로띠번",
+      "top_item": "로띠번"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 684,
+    "fields": {
+      "rest_name": "강천산(대구)",
+      "rank": "5",
+      "top_shop": "열린매장",
+      "top_item": "소떡소떡 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 685,
+    "fields": {
+      "rest_name": "천등산(제천)",
+      "rank": "1",
+      "top_shop": "파스쿠치",
+      "top_item": "아메리카노L"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 686,
+    "fields": {
+      "rest_name": "천등산(제천)",
+      "rank": "2",
+      "top_shop": "한식",
+      "top_item": "사골우거지국밥 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 687,
+    "fields": {
+      "rest_name": "천등산(제천)",
+      "rank": "3",
+      "top_shop": "파스쿠치",
+      "top_item": "아이스아메리카노R"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 688,
+    "fields": {
+      "rest_name": "천등산(제천)",
+      "rank": "4",
+      "top_shop": "한식",
+      "top_item": "제육돌솥비빔밥 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 689,
+    "fields": {
+      "rest_name": "천등산(제천)",
+      "rank": "5",
+      "top_shop": "허니박스",
+      "top_item": "야채크레페(소시지)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 690,
+    "fields": {
+      "rest_name": "천등산(평택)",
+      "rank": "1",
+      "top_shop": "파스쿠치",
+      "top_item": "ICE-얼그레이"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 691,
+    "fields": {
+      "rest_name": "천등산(평택)",
+      "rank": "2",
+      "top_shop": "파스쿠치",
+      "top_item": "ICE 코코아"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 692,
+    "fields": {
+      "rest_name": "천등산(평택)",
+      "rank": "3",
+      "top_shop": "한식",
+      "top_item": "제육돌솥비빔밥 제육돌솥비빔밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 693,
+    "fields": {
+      "rest_name": "천등산(평택)",
+      "rank": "4",
+      "top_shop": "허니박스",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 694,
+    "fields": {
+      "rest_name": "천등산(평택)",
+      "rank": "5",
+      "top_shop": "파스쿠치",
+      "top_item": "아이스녹차(커피니)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 695,
+    "fields": {
+      "rest_name": "충주(창원)",
+      "rank": "1",
+      "top_shop": "의류매장(신선)",
+      "top_item": "의류(전문매장)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 696,
+    "fields": {
+      "rest_name": "충주(창원)",
+      "rank": "2",
+      "top_shop": "의류매장(신선)",
+      "top_item": "의류(전문매장)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 697,
+    "fields": {
+      "rest_name": "충주(창원)",
+      "rank": "3",
+      "top_shop": "의류매장(신선)",
+      "top_item": "벤제프골프의류 10000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 698,
+    "fields": {
+      "rest_name": "충주(창원)",
+      "rank": "4",
+      "top_shop": "한식당",
+      "top_item": "해물순두부 해물순두부"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 699,
+    "fields": {
+      "rest_name": "충주(창원)",
+      "rank": "5",
+      "top_shop": "한식당",
+      "top_item": "경산소고기국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 700,
+    "fields": {
+      "rest_name": "주암(천안)",
+      "rank": "1",
+      "top_shop": "탐앤탐스",
+      "top_item": "(탐)아이스카페아메리카노4.1"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 701,
+    "fields": {
+      "rest_name": "주암(천안)",
+      "rank": "2",
+      "top_shop": "탐앤탐스",
+      "top_item": "(탐)카페아메리카노4.1"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 702,
+    "fields": {
+      "rest_name": "주암(천안)",
+      "rank": "3",
+      "top_shop": "열린매장",
+      "top_item": "(열린)소떡소떡3.5"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 703,
+    "fields": {
+      "rest_name": "주암(천안)",
+      "rank": "4",
+      "top_shop": "한식당",
+      "top_item": "(한식)김치돼지찌개8.5"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 704,
+    "fields": {
+      "rest_name": "주암(천안)",
+      "rank": "5",
+      "top_shop": "열린매장",
+      "top_item": "(열린)케네디소세지3.5"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 705,
+    "fields": {
+      "rest_name": "주암(순천)",
+      "rank": "1",
+      "top_shop": "탐앤탐스",
+      "top_item": "(탐)카페아메리카노4.1"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 706,
+    "fields": {
+      "rest_name": "주암(순천)",
+      "rank": "2",
+      "top_shop": "탐앤탐스",
+      "top_item": "(탐)아이스카페아메리카노4.1"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 707,
+    "fields": {
+      "rest_name": "주암(순천)",
+      "rank": "3",
+      "top_shop": "가판(토스트)",
+      "top_item": "(열린)소떡소떡3.5"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 708,
+    "fields": {
+      "rest_name": "주암(순천)",
+      "rank": "4",
+      "top_shop": "가판(토스트)",
+      "top_item": "(열린)웨스턴핫바3.5"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 709,
+    "fields": {
+      "rest_name": "주암(순천)",
+      "rank": "5",
+      "top_shop": "한식",
+      "top_item": "(한식)버섯뚝배기불고기8.0"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 710,
+    "fields": {
+      "rest_name": "순천(순천)",
+      "rank": "1",
+      "top_shop": "핫",
+      "top_item": "아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 711,
+    "fields": {
+      "rest_name": "순천(순천)",
+      "rank": "2",
+      "top_shop": "우동",
+      "top_item": "꼬치어묵우동(5500)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 712,
+    "fields": {
+      "rest_name": "순천(순천)",
+      "rank": "3",
+      "top_shop": "아이스",
+      "top_item": "ice아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 713,
+    "fields": {
+      "rest_name": "순천(순천)",
+      "rank": "4",
+      "top_shop": "한식당",
+      "top_item": "육개장7500(중원)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 714,
+    "fields": {
+      "rest_name": "순천(순천)",
+      "rank": "5",
+      "top_shop": "한식당",
+      "top_item": "갈비탕(중원) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 715,
+    "fields": {
+      "rest_name": "횡성(강릉)",
+      "rank": "1",
+      "top_shop": "②횡성반상",
+      "top_item": "횡성한우국밥[9500]①"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 716,
+    "fields": {
+      "rest_name": "횡성(강릉)",
+      "rank": "2",
+      "top_shop": "①횡성한우떡더덕스테이크",
+      "top_item": "신)횡성한우더덕스테이크[15000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 717,
+    "fields": {
+      "rest_name": "횡성(강릉)",
+      "rank": "3",
+      "top_shop": "탐엔탐스-외부",
+      "top_item": "카페아메리카노[4100]탐탐"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 718,
+    "fields": {
+      "rest_name": "횡성(강릉)",
+      "rank": "4",
+      "top_shop": "의류매장-도이터",
+      "top_item": "100000원의류-디케이[100000]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 719,
+    "fields": {
+      "rest_name": "횡성(강릉)",
+      "rank": "5",
+      "top_shop": "의류매장-도이터",
+      "top_item": "10000원의류-디케이[10000]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 720,
+    "fields": {
+      "rest_name": "평창(강릉)",
+      "rank": "1",
+      "top_shop": "강정류(중앙팝업)",
+      "top_item": "강정류(10000) - 미림농산"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 721,
+    "fields": {
+      "rest_name": "평창(강릉)",
+      "rank": "2",
+      "top_shop": "직영가판-핫바",
+      "top_item": "직영핫)소떡소떡(3500)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 722,
+    "fields": {
+      "rest_name": "평창(강릉)",
+      "rank": "3",
+      "top_shop": "평창반상",
+      "top_item": "소고기국밥(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 723,
+    "fields": {
+      "rest_name": "평창(강릉)",
+      "rank": "4",
+      "top_shop": "직영-탐앤탐스",
+      "top_item": "4100아메리카노 - 탐탐"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 724,
+    "fields": {
+      "rest_name": "평창(강릉)",
+      "rank": "5",
+      "top_shop": "직영가판-호두",
+      "top_item": "직영)호두과자5000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 725,
+    "fields": {
+      "rest_name": "구정(삼척)",
+      "rank": "1",
+      "top_shop": "한식당우동라면",
+      "top_item": "통등심돈가스_CJ"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 726,
+    "fields": {
+      "rest_name": "구정(삼척)",
+      "rank": "2",
+      "top_shop": "탐앤탐스",
+      "top_item": "아메리카노 - 탐탐(4100) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 727,
+    "fields": {
+      "rest_name": "구정(삼척)",
+      "rank": "3",
+      "top_shop": "탐앤탐스",
+      "top_item": "ICE아메리카노 - 탐탐(4100)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 728,
+    "fields": {
+      "rest_name": "구정(삼척)",
+      "rank": "4",
+      "top_shop": "한식당우동라면",
+      "top_item": "신계란떡라면_CJ"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 729,
+    "fields": {
+      "rest_name": "구정(삼척)",
+      "rank": "5",
+      "top_shop": "한식당우동라면",
+      "top_item": "육개장-CJ"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 730,
+    "fields": {
+      "rest_name": "평창(인천)",
+      "rank": "1",
+      "top_shop": "외부패션행사",
+      "top_item": "의류(129000) 네파행사(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 731,
+    "fields": {
+      "rest_name": "평창(인천)",
+      "rank": "2",
+      "top_shop": "천안명물호두과자",
+      "top_item": "통호두호두과자 통호두호두과자"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 732,
+    "fields": {
+      "rest_name": "평창(인천)",
+      "rank": "3",
+      "top_shop": "외부패션행사",
+      "top_item": "의류(129000) 네파(100000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 733,
+    "fields": {
+      "rest_name": "평창(인천)",
+      "rank": "4",
+      "top_shop": "건어물",
+      "top_item": "농특산물 과일10000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 734,
+    "fields": {
+      "rest_name": "평창(인천)",
+      "rank": "5",
+      "top_shop": "한식",
+      "top_item": "서동한우국밥 서동한우국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 735,
+    "fields": {
+      "rest_name": "충주(양평)",
+      "rank": "1",
+      "top_shop": "한식돈가스",
+      "top_item": "얼큰새뱅이해물순두부"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 736,
+    "fields": {
+      "rest_name": "충주(양평)",
+      "rank": "2",
+      "top_shop": "한식돈가스",
+      "top_item": "사과돈가스(표준)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 737,
+    "fields": {
+      "rest_name": "충주(양평)",
+      "rank": "3",
+      "top_shop": "탐앤탐스",
+      "top_item": "ICE아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 738,
+    "fields": {
+      "rest_name": "충주(양평)",
+      "rank": "4",
+      "top_shop": "한식돈가스",
+      "top_item": "소고기국밥(표준)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 739,
+    "fields": {
+      "rest_name": "충주(양평)",
+      "rank": "5",
+      "top_shop": "탐앤탐스",
+      "top_item": "H아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 740,
+    "fields": {
+      "rest_name": "강천산(광주)",
+      "rank": "1",
+      "top_shop": "리던",
+      "top_item": "아이스아메리카노 아이스아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 741,
+    "fields": {
+      "rest_name": "강천산(광주)",
+      "rank": "2",
+      "top_shop": "한식",
+      "top_item": "차돌박이된장찌게(표준레시비)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 742,
+    "fields": {
+      "rest_name": "강천산(광주)",
+      "rank": "3",
+      "top_shop": "한식",
+      "top_item": "순창고추장돌솥비빔밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 743,
+    "fields": {
+      "rest_name": "강천산(광주)",
+      "rank": "4",
+      "top_shop": "리던",
+      "top_item": "아메리카노커피 아메리카노커피"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 744,
+    "fields": {
+      "rest_name": "강천산(광주)",
+      "rank": "5",
+      "top_shop": "로띠번",
+      "top_item": "로띠번"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 745,
+    "fields": {
+      "rest_name": "외동(포항)",
+      "rank": "1",
+      "top_shop": "할리스",
+      "top_item": "HOT카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 746,
+    "fields": {
+      "rest_name": "외동(포항)",
+      "rank": "2",
+      "top_shop": "할리스",
+      "top_item": "ICE카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 747,
+    "fields": {
+      "rest_name": "외동(포항)",
+      "rank": "3",
+      "top_shop": "가판대",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 748,
+    "fields": {
+      "rest_name": "외동(포항)",
+      "rank": "4",
+      "top_shop": "가판대",
+      "top_item": "프리미엄우리밀핫도그"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 749,
+    "fields": {
+      "rest_name": "외동(포항)",
+      "rank": "5",
+      "top_shop": "한식",
+      "top_item": "흑돼지김치찌개(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 750,
+    "fields": {
+      "rest_name": "강릉(인천)",
+      "rank": "1",
+      "top_shop": "027_탐앤탐스",
+      "top_item": "I아메"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 751,
+    "fields": {
+      "rest_name": "강릉(인천)",
+      "rank": "2",
+      "top_shop": "027_탐앤탐스",
+      "top_item": "H아메 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 752,
+    "fields": {
+      "rest_name": "강릉(인천)",
+      "rank": "3",
+      "top_shop": "할리스전문점",
+      "top_item": "할I아메"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 753,
+    "fields": {
+      "rest_name": "강릉(인천)",
+      "rank": "4",
+      "top_shop": "코바코돈가스",
+      "top_item": "김치제육덮밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 754,
+    "fields": {
+      "rest_name": "강릉(인천)",
+      "rank": "5",
+      "top_shop": "030_호도과자오징어",
+      "top_item": "호도과자(5000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 755,
+    "fields": {
+      "rest_name": "강릉(강릉)",
+      "rank": "1",
+      "top_shop": "엔제리너스",
+      "top_item": "아메리카노(H)S"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 756,
+    "fields": {
+      "rest_name": "강릉(강릉)",
+      "rank": "2",
+      "top_shop": "102_한식당",
+      "top_item": "소고기국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 757,
+    "fields": {
+      "rest_name": "강릉(강릉)",
+      "rank": "3",
+      "top_shop": "102_한식당",
+      "top_item": "초당두부황태해장국"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 758,
+    "fields": {
+      "rest_name": "강릉(강릉)",
+      "rank": "4",
+      "top_shop": "110_핫바디핀다트",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 759,
+    "fields": {
+      "rest_name": "강릉(강릉)",
+      "rank": "5",
+      "top_shop": "102_한식당",
+      "top_item": "해물순두부찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 760,
+    "fields": {
+      "rest_name": "영천(포항)",
+      "rank": "1",
+      "top_shop": "(신)열린매장(직영)",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 761,
+    "fields": {
+      "rest_name": "영천(포항)",
+      "rank": "2",
+      "top_shop": "(신)한식",
+      "top_item": "된장찌개 된장찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 762,
+    "fields": {
+      "rest_name": "영천(포항)",
+      "rank": "3",
+      "top_shop": "(신)탐앤탐스(직영)",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 763,
+    "fields": {
+      "rest_name": "영천(포항)",
+      "rank": "4",
+      "top_shop": "(신)열린매장(직영)",
+      "top_item": "케네디소세지"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 764,
+    "fields": {
+      "rest_name": "영천(포항)",
+      "rank": "5",
+      "top_shop": "(신)라면/우동",
+      "top_item": "떡만두라면정식 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 765,
+    "fields": {
+      "rest_name": "영천(대구)",
+      "rank": "1",
+      "top_shop": "(신)탐앤탐스(외주)",
+      "top_item": "아이스카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 766,
+    "fields": {
+      "rest_name": "영천(대구)",
+      "rank": "2",
+      "top_shop": "(신)탐앤탐스(외주)",
+      "top_item": "카페아메리카노 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 767,
+    "fields": {
+      "rest_name": "영천(대구)",
+      "rank": "3",
+      "top_shop": "(신)열린매장(외주)",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 768,
+    "fields": {
+      "rest_name": "영천(대구)",
+      "rank": "4",
+      "top_shop": "(신)한식(직영)",
+      "top_item": "제육덮밥정식"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 769,
+    "fields": {
+      "rest_name": "영천(대구)",
+      "rank": "5",
+      "top_shop": "(신)한식(직영)",
+      "top_item": "코바코 수제등심돈가스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 770,
+    "fields": {
+      "rest_name": "옥계(속초)",
+      "rank": "1",
+      "top_shop": "드롭탑(커피)",
+      "top_item": "아이스아메리카노(카페베네)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 771,
+    "fields": {
+      "rest_name": "옥계(속초)",
+      "rank": "2",
+      "top_shop": "드롭탑(커피)",
+      "top_item": "아메리카노(H)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 772,
+    "fields": {
+      "rest_name": "옥계(속초)",
+      "rank": "3",
+      "top_shop": "06_델리쉐프",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 773,
+    "fields": {
+      "rest_name": "옥계(속초)",
+      "rank": "4",
+      "top_shop": "07_한식당",
+      "top_item": "버섯제육덮밥 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 774,
+    "fields": {
+      "rest_name": "옥계(속초)",
+      "rank": "5",
+      "top_shop": "06_델리쉐프",
+      "top_item": "우리밀천안호두과자5000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 775,
+    "fields": {
+      "rest_name": "구리(일산)",
+      "rank": "1",
+      "top_shop": "드롭탑",
+      "top_item": "레몬티/드롭탑"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 776,
+    "fields": {
+      "rest_name": "구리(일산)",
+      "rank": "2",
+      "top_shop": "드롭탑",
+      "top_item": "아메리카노/드롭탑"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 777,
+    "fields": {
+      "rest_name": "구리(일산)",
+      "rank": "3",
+      "top_shop": "델리쉐프",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 778,
+    "fields": {
+      "rest_name": "구리(일산)",
+      "rank": "4",
+      "top_shop": "만쥬리아",
+      "top_item": "만쥬리아"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 779,
+    "fields": {
+      "rest_name": "구리(일산)",
+      "rank": "5",
+      "top_shop": "델리쉐프",
+      "top_item": "옛날핫도그"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 780,
+    "fields": {
+      "rest_name": "백양사(순천)",
+      "rank": "1",
+      "top_shop": "식당(일반)",
+      "top_item": "제육돌솥비빔밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 781,
+    "fields": {
+      "rest_name": "백양사(순천)",
+      "rank": "2",
+      "top_shop": "식당(일반)",
+      "top_item": "순두부찌개(7500)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 782,
+    "fields": {
+      "rest_name": "백양사(순천)",
+      "rank": "3",
+      "top_shop": "식당(일반)",
+      "top_item": "김치찌개(7500)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 783,
+    "fields": {
+      "rest_name": "백양사(순천)",
+      "rank": "4",
+      "top_shop": "식당(일반)",
+      "top_item": "삼채계절비빔밥7500(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 784,
+    "fields": {
+      "rest_name": "백양사(순천)",
+      "rank": "5",
+      "top_shop": "의류매장",
+      "top_item": "의류(전문매장) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 785,
+    "fields": {
+      "rest_name": "오창(남이)",
+      "rank": "1",
+      "top_shop": "식당(한식)",
+      "top_item": "해물순두부찌개(8000)(표준)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 786,
+    "fields": {
+      "rest_name": "오창(남이)",
+      "rank": "2",
+      "top_shop": "할리스",
+      "top_item": "아이스아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 787,
+    "fields": {
+      "rest_name": "오창(남이)",
+      "rank": "3",
+      "top_shop": "식당(한식)",
+      "top_item": "돼지고기김치찌개(8000)(표준)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 788,
+    "fields": {
+      "rest_name": "오창(남이)",
+      "rank": "4",
+      "top_shop": "할리스",
+      "top_item": "카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 789,
+    "fields": {
+      "rest_name": "오창(남이)",
+      "rank": "5",
+      "top_shop": "외부매장(임시)",
+      "top_item": "와플&커피"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 790,
+    "fields": {
+      "rest_name": "의성(청주)",
+      "rank": "1",
+      "top_shop": "커피(엔젤)",
+      "top_item": "아메리카노(I)S"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 791,
+    "fields": {
+      "rest_name": "의성(청주)",
+      "rank": "2",
+      "top_shop": "커피(엔젤)",
+      "top_item": "아메리카노(H)S"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 792,
+    "fields": {
+      "rest_name": "의성(청주)",
+      "rank": "3",
+      "top_shop": "식당(밥이당)",
+      "top_item": "돈까스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 793,
+    "fields": {
+      "rest_name": "의성(청주)",
+      "rank": "4",
+      "top_shop": "외부매장(와작)",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 794,
+    "fields": {
+      "rest_name": "의성(청주)",
+      "rank": "5",
+      "top_shop": "식당(밥이당)",
+      "top_item": "소고기육개장."
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 795,
+    "fields": {
+      "rest_name": "의성(영덕)",
+      "rank": "1",
+      "top_shop": "커피(엔젤)",
+      "top_item": "아메리카노(H)S"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 796,
+    "fields": {
+      "rest_name": "의성(영덕)",
+      "rank": "2",
+      "top_shop": "커피(엔젤)",
+      "top_item": "아메리카노(I)S"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 797,
+    "fields": {
+      "rest_name": "의성(영덕)",
+      "rank": "3",
+      "top_shop": "외부매장(와작)",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 798,
+    "fields": {
+      "rest_name": "의성(영덕)",
+      "rank": "4",
+      "top_shop": "식당(밥이랑)",
+      "top_item": "돈까스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 799,
+    "fields": {
+      "rest_name": "의성(영덕)",
+      "rank": "5",
+      "top_shop": "식당(밥이랑)",
+      "top_item": "소고기육개장."
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 800,
+    "fields": {
+      "rest_name": "청송(청주)",
+      "rank": "1",
+      "top_shop": "편의점",
+      "top_item": "졸음NO껌 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 801,
+    "fields": {
+      "rest_name": "청송(청주)",
+      "rank": "2",
+      "top_shop": "달콤커피",
+      "top_item": "아메리카노 ICE "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 802,
+    "fields": {
+      "rest_name": "청송(청주)",
+      "rank": "3",
+      "top_shop": "한식",
+      "top_item": "특판사과(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 803,
+    "fields": {
+      "rest_name": "청송(청주)",
+      "rank": "4",
+      "top_shop": "크리스피크림",
+      "top_item": "크리스피아메리카노ICE "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 804,
+    "fields": {
+      "rest_name": "청송(청주)",
+      "rank": "5",
+      "top_shop": "호두과자",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 805,
+    "fields": {
+      "rest_name": "청송(영덕)",
+      "rank": "1",
+      "top_shop": "크리스피크림",
+      "top_item": "크리스피아메리카노HOT "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 806,
+    "fields": {
+      "rest_name": "청송(영덕)",
+      "rank": "2",
+      "top_shop": "호두과자",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 807,
+    "fields": {
+      "rest_name": "청송(영덕)",
+      "rank": "3",
+      "top_shop": "한식",
+      "top_item": "과일(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 808,
+    "fields": {
+      "rest_name": "청송(영덕)",
+      "rank": "4",
+      "top_shop": "크리스피크림",
+      "top_item": "크리스피더블초코 신크리스피오리지널"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 809,
+    "fields": {
+      "rest_name": "청송(영덕)",
+      "rank": "5",
+      "top_shop": "한식",
+      "top_item": "왕돈가스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 810,
+    "fields": {
+      "rest_name": "홍천(서울)",
+      "rank": "1",
+      "top_shop": "250_호두과자",
+      "top_item": "호두과자5000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 811,
+    "fields": {
+      "rest_name": "홍천(서울)",
+      "rank": "2",
+      "top_shop": "엔제리너스1",
+      "top_item": "시즌아메리카노(ICE)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 812,
+    "fields": {
+      "rest_name": "홍천(서울)",
+      "rank": "3",
+      "top_shop": "오잉오잉",
+      "top_item": "소떡소떡-[3500]오잉"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 813,
+    "fields": {
+      "rest_name": "홍천(서울)",
+      "rank": "4",
+      "top_shop": "210_탐앤탐스",
+      "top_item": "아이스아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 814,
+    "fields": {
+      "rest_name": "홍천(서울)",
+      "rank": "5",
+      "top_shop": "엔제리너스1",
+      "top_item": "시즌아메리카노(HOT)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 815,
+    "fields": {
+      "rest_name": "홍천(양양)",
+      "rank": "1",
+      "top_shop": "할리스",
+      "top_item": "아메리카노(H)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 816,
+    "fields": {
+      "rest_name": "홍천(양양)",
+      "rank": "2",
+      "top_shop": "230_뽀끼뽀끼 ",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 817,
+    "fields": {
+      "rest_name": "홍천(양양)",
+      "rank": "3",
+      "top_shop": "할리스",
+      "top_item": "아메리카노(I)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 818,
+    "fields": {
+      "rest_name": "홍천(양양)",
+      "rank": "4",
+      "top_shop": "호두과자",
+      "top_item": "즉석호두과자"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 819,
+    "fields": {
+      "rest_name": "홍천(양양)",
+      "rank": "5",
+      "top_shop": "호두과자",
+      "top_item": "즉석호두과자"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 820,
+    "fields": {
+      "rest_name": "내린천",
+      "rank": "1",
+      "top_shop": "바른김밥김선생",
+      "top_item": "바른김밥(바)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 821,
+    "fields": {
+      "rest_name": "내린천",
+      "rank": "1",
+      "top_shop": "바른김밥김선생",
+      "top_item": "바른김밥(바)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 822,
+    "fields": {
+      "rest_name": "내린천",
+      "rank": "2",
+      "top_shop": "내린천한식",
+      "top_item": "흑돼지김치제육덮밥(한)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 823,
+    "fields": {
+      "rest_name": "내린천",
+      "rank": "2",
+      "top_shop": "내린천한식",
+      "top_item": "흑돼지김치제육덮밥(한)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 824,
+    "fields": {
+      "rest_name": "내린천",
+      "rank": "3",
+      "top_shop": "내린천한식",
+      "top_item": "시래기국밥(한)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 825,
+    "fields": {
+      "rest_name": "내린천",
+      "rank": "3",
+      "top_shop": "내린천한식",
+      "top_item": "시래기국밥(한)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 826,
+    "fields": {
+      "rest_name": "내린천",
+      "rank": "4",
+      "top_shop": "탐앤탐스_4F",
+      "top_item": "(탐)I.아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 827,
+    "fields": {
+      "rest_name": "내린천",
+      "rank": "4",
+      "top_shop": "탐앤탐스_4F",
+      "top_item": "(탐)I.아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 828,
+    "fields": {
+      "rest_name": "내린천",
+      "rank": "5",
+      "top_shop": "의류매장(엘르)",
+      "top_item": "E.의류(100000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 829,
+    "fields": {
+      "rest_name": "내린천",
+      "rank": "5",
+      "top_shop": "의류매장(엘르)",
+      "top_item": "E.의류(100000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 830,
+    "fields": {
+      "rest_name": "시흥하늘",
+      "rank": "1",
+      "top_shop": "213_파리바게트",
+      "top_item": "완제음료"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 831,
+    "fields": {
+      "rest_name": "시흥하늘",
+      "rank": "2",
+      "top_shop": "찹쌀닭강정",
+      "top_item": "닭강정_10000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 832,
+    "fields": {
+      "rest_name": "시흥하늘",
+      "rank": "3",
+      "top_shop": "신서방왕만두",
+      "top_item": "만두(8개)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 833,
+    "fields": {
+      "rest_name": "시흥하늘",
+      "rank": "4",
+      "top_shop": "214_던킨도너츠",
+      "top_item": "도너츠 3000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 834,
+    "fields": {
+      "rest_name": "시흥하늘",
+      "rank": "5",
+      "top_shop": "212_CU슈퍼",
+      "top_item": "야채청과(10000원)_마트"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 835,
+    "fields": {
+      "rest_name": "속리산(청주)",
+      "rank": "1",
+      "top_shop": "시루봉(한식)",
+      "top_item": "짜글짜글김치찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 836,
+    "fields": {
+      "rest_name": "속리산(청주)",
+      "rank": "2",
+      "top_shop": "열린매장(핫바)",
+      "top_item": "소떡소떡"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 837,
+    "fields": {
+      "rest_name": "속리산(청주)",
+      "rank": "3",
+      "top_shop": "탐엔탐스 커피",
+      "top_item": "카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 838,
+    "fields": {
+      "rest_name": "속리산(청주)",
+      "rank": "4",
+      "top_shop": "시루봉(한식)",
+      "top_item": "돌솥버섯불고기비빔밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 839,
+    "fields": {
+      "rest_name": "속리산(청주)",
+      "rank": "5",
+      "top_shop": "식사류전문매장",
+      "top_item": "흑돼지돈가스9000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 840,
+    "fields": {
+      "rest_name": "여산(천안)",
+      "rank": "1",
+      "top_shop": "(03)호두과자_신",
+      "top_item": "호두과자_(5000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 841,
+    "fields": {
+      "rest_name": "여산(천안)",
+      "rank": "2",
+      "top_shop": "011_로띠번매장",
+      "top_item": "I아메리카노(로띠)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 842,
+    "fields": {
+      "rest_name": "여산(천안)",
+      "rank": "3",
+      "top_shop": "018_엔제리너스",
+      "top_item": "아메리카노(I)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 843,
+    "fields": {
+      "rest_name": "여산(천안)",
+      "rank": "4",
+      "top_shop": "011_로띠번매장",
+      "top_item": "로띠번"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 844,
+    "fields": {
+      "rest_name": "여산(천안)",
+      "rank": "5",
+      "top_shop": "한남상사 직영 한식",
+      "top_item": "전주비빔밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 845,
+    "fields": {
+      "rest_name": "여산(순천)",
+      "rank": "1",
+      "top_shop": "(03)호두과자_신",
+      "top_item": "호두과자_(5000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 846,
+    "fields": {
+      "rest_name": "여산(순천)",
+      "rank": "2",
+      "top_shop": "024-드롭탑",
+      "top_item": "아이스아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 847,
+    "fields": {
+      "rest_name": "여산(순천)",
+      "rank": "3",
+      "top_shop": "커피(온전히)",
+      "top_item": "아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 848,
+    "fields": {
+      "rest_name": "여산(순천)",
+      "rank": "4",
+      "top_shop": "024-드롭탑",
+      "top_item": "아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 849,
+    "fields": {
+      "rest_name": "여산(순천)",
+      "rank": "5",
+      "top_shop": "한남상사 직영 한식",
+      "top_item": "돼지고기김치찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 850,
+    "fields": {
+      "rest_name": "성주(양평)",
+      "rank": "1",
+      "top_shop": "050_별고을",
+      "top_item": "조기구이정식"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 851,
+    "fields": {
+      "rest_name": "성주(양평)",
+      "rank": "2",
+      "top_shop": "050_별고을",
+      "top_item": "얼큰돼지김치찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 852,
+    "fields": {
+      "rest_name": "성주(양평)",
+      "rank": "3",
+      "top_shop": "050_별고을",
+      "top_item": "속풀이동태매운탕"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 853,
+    "fields": {
+      "rest_name": "성주(양평)",
+      "rank": "4",
+      "top_shop": "050_별고을",
+      "top_item": "콩나물국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 854,
+    "fields": {
+      "rest_name": "성주(양평)",
+      "rank": "5",
+      "top_shop": "140_딜라이트",
+      "top_item": "HOT아메리카노(M)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 855,
+    "fields": {
+      "rest_name": "성주(창원)",
+      "rank": "1",
+      "top_shop": "050_별고을",
+      "top_item": "제육덮밥정식"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 856,
+    "fields": {
+      "rest_name": "성주(창원)",
+      "rank": "2",
+      "top_shop": "050_별고을",
+      "top_item": "돈육김치찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 857,
+    "fields": {
+      "rest_name": "성주(창원)",
+      "rank": "3",
+      "top_shop": "050_별고을",
+      "top_item": "우렁된장찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 858,
+    "fields": {
+      "rest_name": "성주(창원)",
+      "rank": "4",
+      "top_shop": "050_별고을",
+      "top_item": "완산골 떡갈비정식"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 859,
+    "fields": {
+      "rest_name": "성주(창원)",
+      "rank": "5",
+      "top_shop": "080_라면",
+      "top_item": "떡만두라면정식"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 860,
+    "fields": {
+      "rest_name": "현풍(대구)",
+      "rank": "1",
+      "top_shop": "풍경마루",
+      "top_item": "진영단감왕갈비찜"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 861,
+    "fields": {
+      "rest_name": "현풍(대구)",
+      "rank": "2",
+      "top_shop": "탐앤탐스",
+      "top_item": "ice아메리카노[탐]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 862,
+    "fields": {
+      "rest_name": "현풍(대구)",
+      "rank": "3",
+      "top_shop": "탐앤탐스",
+      "top_item": "아메리카노[탐]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 863,
+    "fields": {
+      "rest_name": "현풍(대구)",
+      "rank": "4",
+      "top_shop": "풍경마루",
+      "top_item": "충청도식돼지짜글이비빔밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 864,
+    "fields": {
+      "rest_name": "현풍(대구)",
+      "rank": "5",
+      "top_shop": "풍경마루",
+      "top_item": "해물순두부찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 865,
+    "fields": {
+      "rest_name": "현풍(창원)",
+      "rank": "1",
+      "top_shop": "풍경마루",
+      "top_item": "양갑조)소고기국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 866,
+    "fields": {
+      "rest_name": "현풍(창원)",
+      "rank": "2",
+      "top_shop": "탐앤탐스",
+      "top_item": "G(ice)아메[탐]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 867,
+    "fields": {
+      "rest_name": "현풍(창원)",
+      "rank": "3",
+      "top_shop": "탐앤탐스",
+      "top_item": "아메리카노[탐]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 868,
+    "fields": {
+      "rest_name": "현풍(창원)",
+      "rank": "4",
+      "top_shop": "탐앤탐스",
+      "top_item": "ice아메리카노[탐]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 869,
+    "fields": {
+      "rest_name": "현풍(창원)",
+      "rank": "5",
+      "top_shop": "스쿨펜(직영)",
+      "top_item": "웨스턴핫바(참조은)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 870,
+    "fields": {
+      "rest_name": "외동(부산)",
+      "rank": "1",
+      "top_shop": "050_할리스",
+      "top_item": "ICE카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 871,
+    "fields": {
+      "rest_name": "외동(부산)",
+      "rank": "2",
+      "top_shop": "050_할리스",
+      "top_item": "HOT카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 872,
+    "fields": {
+      "rest_name": "외동(부산)",
+      "rank": "3",
+      "top_shop": "08_스넥[직영]",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 873,
+    "fields": {
+      "rest_name": "외동(부산)",
+      "rank": "4",
+      "top_shop": "081_호도과자[직영]",
+      "top_item": "호두과자5000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 874,
+    "fields": {
+      "rest_name": "외동(부산)",
+      "rank": "5",
+      "top_shop": "020_풍경마루",
+      "top_item": "흑돼지김치찌개(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 875,
+    "fields": {
+      "rest_name": "청주(서울)",
+      "rank": "1",
+      "top_shop": "014_한식",
+      "top_item": "장터국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 876,
+    "fields": {
+      "rest_name": "청주(서울)",
+      "rank": "2",
+      "top_shop": "035_호두과자",
+      "top_item": "호두과자(하)5000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 877,
+    "fields": {
+      "rest_name": "청주(서울)",
+      "rank": "3",
+      "top_shop": "018_나주곰탕",
+      "top_item": "제육정식"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 878,
+    "fields": {
+      "rest_name": "청주(서울)",
+      "rank": "4",
+      "top_shop": "014_한식",
+      "top_item": "김치찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 879,
+    "fields": {
+      "rest_name": "청주(서울)",
+      "rank": "5",
+      "top_shop": "015_양식",
+      "top_item": "돼지돈가스[8000]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 880,
+    "fields": {
+      "rest_name": "진안마이산(익산)",
+      "rank": "1",
+      "top_shop": "커피블로썸",
+      "top_item": "아메리카노(H)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 881,
+    "fields": {
+      "rest_name": "진안마이산(익산)",
+      "rank": "2",
+      "top_shop": "커피블로썸",
+      "top_item": "아메리카노(I)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 882,
+    "fields": {
+      "rest_name": "진안마이산(익산)",
+      "rank": "3",
+      "top_shop": "100_한식당",
+      "top_item": "(신)흑돼지제육덮밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 883,
+    "fields": {
+      "rest_name": "진안마이산(익산)",
+      "rank": "4",
+      "top_shop": "100_한식당",
+      "top_item": "해물순두부찌개"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 884,
+    "fields": {
+      "rest_name": "진안마이산(익산)",
+      "rank": "5",
+      "top_shop": "100_한식당",
+      "top_item": "차돌된장찌개(표준레시피)케이알"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 885,
+    "fields": {
+      "rest_name": "예산(당진)",
+      "rank": "1",
+      "top_shop": "식당(일반)",
+      "top_item": "애플수제등심돈가스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 886,
+    "fields": {
+      "rest_name": "예산(당진)",
+      "rank": "2",
+      "top_shop": "할리스",
+      "top_item": "아이스아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 887,
+    "fields": {
+      "rest_name": "예산(당진)",
+      "rank": "3",
+      "top_shop": "할리스",
+      "top_item": "카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 888,
+    "fields": {
+      "rest_name": "예산(당진)",
+      "rank": "4",
+      "top_shop": "의류매장01",
+      "top_item": "의류10000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 889,
+    "fields": {
+      "rest_name": "예산(당진)",
+      "rank": "5",
+      "top_shop": "식당(일반)",
+      "top_item": "순두부찌개(8000)(표준레시피)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 890,
+    "fields": {
+      "rest_name": "경주(부산)",
+      "rank": "1",
+      "top_shop": "경주빵찰보리빵",
+      "top_item": "찰보리빵 16000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 891,
+    "fields": {
+      "rest_name": "경주(부산)",
+      "rank": "2",
+      "top_shop": "경주빵찰보리빵",
+      "top_item": "찰보리/경주빵SET"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 892,
+    "fields": {
+      "rest_name": "경주(부산)",
+      "rank": "3",
+      "top_shop": "경주빵찰보리빵",
+      "top_item": "경주빵 16000"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 893,
+    "fields": {
+      "rest_name": "경주(부산)",
+      "rank": "4",
+      "top_shop": "KR한식",
+      "top_item": "한식/돼지고기김치찌개 8500"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 894,
+    "fields": {
+      "rest_name": "경주(부산)",
+      "rank": "5",
+      "top_shop": "KR한식",
+      "top_item": "한식/속 시원한 동태탕 8500"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 895,
+    "fields": {
+      "rest_name": "함양(통영)",
+      "rank": "1",
+      "top_shop": "의류매장",
+      "top_item": "의류(100000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 896,
+    "fields": {
+      "rest_name": "함양(통영)",
+      "rank": "2",
+      "top_shop": "303커피",
+      "top_item": "아메리카노(H)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 897,
+    "fields": {
+      "rest_name": "함양(통영)",
+      "rank": "3",
+      "top_shop": "303커피",
+      "top_item": "아메리카노(I)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 898,
+    "fields": {
+      "rest_name": "함양(통영)",
+      "rank": "4",
+      "top_shop": "한식",
+      "top_item": "소고기국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 899,
+    "fields": {
+      "rest_name": "함양(통영)",
+      "rank": "5",
+      "top_shop": "의류매장",
+      "top_item": "용품(10000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 900,
+    "fields": {
+      "rest_name": "동명(부산)",
+      "rank": "1",
+      "top_shop": "호두코너",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 901,
+    "fields": {
+      "rest_name": "동명(부산)",
+      "rank": "2",
+      "top_shop": "호두코너",
+      "top_item": "수제어묵바(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 902,
+    "fields": {
+      "rest_name": "동명(부산)",
+      "rank": "3",
+      "top_shop": "엔젤리너스",
+      "top_item": "시즌아메리카노(ICE)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 903,
+    "fields": {
+      "rest_name": "동명(부산)",
+      "rank": "4",
+      "top_shop": "망고식스",
+      "top_item": "아메리카노(ICE) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 904,
+    "fields": {
+      "rest_name": "동명(부산)",
+      "rank": "5",
+      "top_shop": "양식전문점",
+      "top_item": "짬뽕돈가스덮밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 905,
+    "fields": {
+      "rest_name": "동명(춘천)",
+      "rank": "1",
+      "top_shop": "의류매장",
+      "top_item": "의류(전문매장) 팜스프링(1000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 906,
+    "fields": {
+      "rest_name": "동명(춘천)",
+      "rank": "2",
+      "top_shop": "호도핫바",
+      "top_item": "소떡소떡(신)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 907,
+    "fields": {
+      "rest_name": "동명(춘천)",
+      "rank": "3",
+      "top_shop": "망고식스",
+      "top_item": "아메리카노(HOT) "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 908,
+    "fields": {
+      "rest_name": "동명(춘천)",
+      "rank": "4",
+      "top_shop": "엔제리너스",
+      "top_item": "시즌아메리카노(ICE)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 909,
+    "fields": {
+      "rest_name": "동명(춘천)",
+      "rank": "5",
+      "top_shop": "한식당",
+      "top_item": "돈까스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 910,
+    "fields": {
+      "rest_name": "홍성(서울)",
+      "rank": "1",
+      "top_shop": "홍성반상(직)",
+      "top_item": "한식)홍성한우국밥[9000]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 911,
+    "fields": {
+      "rest_name": "홍성(서울)",
+      "rank": "2",
+      "top_shop": "커피전문점[탐앤탐스]",
+      "top_item": "아이스카페아메리카노.[4100]-탐앤탐스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 912,
+    "fields": {
+      "rest_name": "홍성(서울)",
+      "rank": "3",
+      "top_shop": "(직)호두과자",
+      "top_item": "호도과자[5000]피스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 913,
+    "fields": {
+      "rest_name": "홍성(서울)",
+      "rank": "4",
+      "top_shop": "커피전문점[탐앤탐스]",
+      "top_item": "카페아메리카노.[4100]-탐앤탐스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 914,
+    "fields": {
+      "rest_name": "홍성(서울)",
+      "rank": "5",
+      "top_shop": "(직)통감자",
+      "top_item": "소떡소떡[3500]감자"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 915,
+    "fields": {
+      "rest_name": "홍성(목포)",
+      "rank": "1",
+      "top_shop": "홍성반상",
+      "top_item": "한식)홍성한우국밥[9000]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 916,
+    "fields": {
+      "rest_name": "홍성(목포)",
+      "rank": "2",
+      "top_shop": "호두N",
+      "top_item": "호도)호도과자[5000]신명"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 917,
+    "fields": {
+      "rest_name": "홍성(목포)",
+      "rank": "3",
+      "top_shop": "핫도그N",
+      "top_item": "핫도그)소떡소떡[3500]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 918,
+    "fields": {
+      "rest_name": "홍성(목포)",
+      "rank": "4",
+      "top_shop": "핫도그N",
+      "top_item": "핫도그)해물바2종[3500]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 919,
+    "fields": {
+      "rest_name": "홍성(목포)",
+      "rank": "5",
+      "top_shop": "탐앤탐스",
+      "top_item": "카페아메리카노.[4100]-탐앤탐스 "
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 920,
+    "fields": {
+      "rest_name": "서천(목포)",
+      "rank": "1",
+      "top_shop": "커피(할리스)",
+      "top_item": "[할]ICE아메리카노[빨]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 921,
+    "fields": {
+      "rest_name": "서천(목포)",
+      "rank": "2",
+      "top_shop": "외부매장(고수록떡)사회적",
+      "top_item": "모시떡(사회적기업)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 922,
+    "fields": {
+      "rest_name": "서천(목포)",
+      "rank": "3",
+      "top_shop": "커피(할리스)",
+      "top_item": "[할]HOT아메리카노[빨]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 923,
+    "fields": {
+      "rest_name": "서천(목포)",
+      "rank": "4",
+      "top_shop": "외부매장(호두과자)",
+      "top_item": "호두과자(5000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 924,
+    "fields": {
+      "rest_name": "서천(목포)",
+      "rank": "5",
+      "top_shop": "외부매장(호두과자)",
+      "top_item": "호두과자(3000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 925,
+    "fields": {
+      "rest_name": "서천(서울)",
+      "rank": "1",
+      "top_shop": "호두과자",
+      "top_item": "호두과자(5000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 926,
+    "fields": {
+      "rest_name": "서천(서울)",
+      "rank": "2",
+      "top_shop": "탐앤탐스",
+      "top_item": "[할]HOT아메리카노[빨]"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 927,
+    "fields": {
+      "rest_name": "서천(서울)",
+      "rank": "3",
+      "top_shop": "탐앤탐스",
+      "top_item": "카페아메리카노 카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 928,
+    "fields": {
+      "rest_name": "서천(서울)",
+      "rank": "4",
+      "top_shop": "스낵",
+      "top_item": "소떡소떡(3500)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 929,
+    "fields": {
+      "rest_name": "서천(서울)",
+      "rank": "5",
+      "top_shop": "탐앤탐스",
+      "top_item": "아메리카노Grande(ice) 아메리카노Grande(ice)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 930,
+    "fields": {
+      "rest_name": "함안(부산)",
+      "rank": "1",
+      "top_shop": "탐앤탐스",
+      "top_item": "아이스카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 931,
+    "fields": {
+      "rest_name": "함안(부산)",
+      "rank": "2",
+      "top_shop": "탐앤탐스",
+      "top_item": "카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 932,
+    "fields": {
+      "rest_name": "함안(부산)",
+      "rank": "3",
+      "top_shop": "호두과자",
+      "top_item": "호도과자(5000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 933,
+    "fields": {
+      "rest_name": "함안(부산)",
+      "rank": "4",
+      "top_shop": "엔제리너스",
+      "top_item": "아메리카노S(엔)ICE"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 934,
+    "fields": {
+      "rest_name": "함안(부산)",
+      "rank": "5",
+      "top_shop": "탕/비빔밥",
+      "top_item": "장터국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 935,
+    "fields": {
+      "rest_name": "함안(순천)",
+      "rank": "1",
+      "top_shop": "탐앤탐스",
+      "top_item": "아이스카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 936,
+    "fields": {
+      "rest_name": "함안(순천)",
+      "rank": "2",
+      "top_shop": "탐앤탐스",
+      "top_item": "카페아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 937,
+    "fields": {
+      "rest_name": "함안(순천)",
+      "rank": "3",
+      "top_shop": "풍미당",
+      "top_item": "10000원세트(풍미당)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 938,
+    "fields": {
+      "rest_name": "함안(순천)",
+      "rank": "4",
+      "top_shop": "탕/비빔밥",
+      "top_item": "장터국밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 939,
+    "fields": {
+      "rest_name": "함안(순천)",
+      "rank": "5",
+      "top_shop": "호두과자",
+      "top_item": "호도과자(5000)"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 940,
+    "fields": {
+      "rest_name": "예산(대전)",
+      "rank": "1",
+      "top_shop": "한식/양식",
+      "top_item": "왕돈가스"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 941,
+    "fields": {
+      "rest_name": "예산(대전)",
+      "rank": "2",
+      "top_shop": "로띠번",
+      "top_item": "(로)로띠번N"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 942,
+    "fields": {
+      "rest_name": "예산(대전)",
+      "rank": "3",
+      "top_shop": "탐앤탐스",
+      "top_item": "(탐)I아메리카노"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 943,
+    "fields": {
+      "rest_name": "예산(대전)",
+      "rank": "4",
+      "top_shop": "한식/양식",
+      "top_item": "5.제육덮밥"
+    }
+  },
+  {
+    "model": "defaults.TopItem",
+    "pk": 944,
+    "fields": {
+      "rest_name": "예산(대전)",
+      "rank": "5",
+      "top_shop": "가판",
+      "top_item": "(가판)소떡소떡"
+    }
+  }
+]

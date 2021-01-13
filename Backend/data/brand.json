@@ -1,0 +1,6558 @@
+[
+	{
+		"model": "defaults.BrandShop",
+		"pk": 0,
+		"fields": {
+			"rest_name": "서울만남(부산)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "07:00",
+			"brand_closetime": "22:00",
+			"brand_info": "깊은 향과 다양한 맛의 브랜드 커피 제공. 멤버십카드 적립 혜택. 기타 느린우체통 서비스를 제공하는 편안하고 쾌적한 쉼터입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 1,
+		"fields": {
+			"rest_name": "서울만남(부산)",
+			"brand_name": "로띠번",
+			"brand_opentime": "07:00",
+			"brand_closetime": "22:00",
+			"brand_info": "품질 좋은 반죽을 숙성시켜 모카 크림을 토핑하여 구워낸 크리스피한 빵의 일종이며 고온에서 모카의 향을 담아 내었습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 2,
+		"fields": {
+			"rest_name": "서울만남(부산)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "22:00",
+			"brand_info": "음식이 너무 맛있어서 코를 박고 먹는다는 뜻의 코바코. 참 좋은 재료로 만든 각종 수제 돈까스와 덮밥류를 제공하고 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 3,
+		"fields": {
+			"rest_name": "서울만남(부산)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "매장 외부에 위치하고 있으며 신선하고 풍부한 맛의 고품격 커피를 제공하고 있습니다.  "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 4,
+		"fields": {
+			"rest_name": "서울만남(부산)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": " 사골 육수를 사용하여 담백함과 쫄깃한 면을 그대로 맛 보실 수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 5,
+		"fields": {
+			"rest_name": "서울만남(부산)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "[크리스피도넛]  다양한 종류의 도넛과 커피, 음료 등을 제공하고 있습니다. "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 6,
+		"fields": {
+			"rest_name": "죽전(서울)",
+			"brand_name": "배스킨라빈스",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "자판기 전용상품"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 7,
+		"fields": {
+			"rest_name": "죽전(서울)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:30",
+			"brand_closetime": "20:30",
+			"brand_info": "운전 중에 즐기는 커피한잔의 여유~"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 8,
+		"fields": {
+			"rest_name": "죽전(서울)",
+			"brand_name": "PAT",
+			"brand_opentime": "08:30",
+			"brand_closetime": "18:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 9,
+		"fields": {
+			"rest_name": "죽전(서울)",
+			"brand_name": "ELLEGOLF",
+			"brand_opentime": "08:30",
+			"brand_closetime": "18:30",
+			"brand_info": "ELLEGOLF & 드루벨트"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 10,
+		"fields": {
+			"rest_name": "죽전(서울)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:30",
+			"brand_closetime": "20:30",
+			"brand_info": "그윽한 커피향이 가득"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 11,
+		"fields": {
+			"rest_name": "죽전(서울)",
+			"brand_name": "JDX",
+			"brand_opentime": "08:30",
+			"brand_closetime": "18:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 12,
+		"fields": {
+			"rest_name": "죽전(서울)",
+			"brand_name": "기타",
+			"brand_opentime": "08:30",
+			"brand_closetime": "20:30",
+			"brand_info": "델리만쥬, 명인만두"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 13,
+		"fields": {
+			"rest_name": "기흥(부산)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "던킨도너츠 기흥휴게소점 입니다"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 14,
+		"fields": {
+			"rest_name": "기흥(부산)",
+			"brand_name": "BBQ",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "기흥휴게소 세븐스마일 내부매장에서 판매합니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 15,
+		"fields": {
+			"rest_name": "기흥(부산)",
+			"brand_name": "파리바게뜨",
+			"brand_opentime": "08:00",
+			"brand_closetime": "22:00",
+			"brand_info": "기흥휴게소 세븐스마일 내부매장에서 판매합니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 16,
+		"fields": {
+			"rest_name": "기흥(부산)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "기흥휴게소 코바코점 입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 17,
+		"fields": {
+			"rest_name": "기흥(부산)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "22:00",
+			"brand_info": "기흥휴게소 탐앤탐스 커피전문점 입니다"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 18,
+		"fields": {
+			"rest_name": "안성(서울)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:30",
+			"brand_closetime": "20:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 19,
+		"fields": {
+			"rest_name": "안성(서울)",
+			"brand_name": "롯데리아",
+			"brand_opentime": "09:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 20,
+		"fields": {
+			"rest_name": "안성(서울)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:30",
+			"brand_closetime": "21:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 21,
+		"fields": {
+			"rest_name": "안성(서울)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:30",
+			"brand_closetime": "21:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 22,
+		"fields": {
+			"rest_name": "안성(서울)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "09:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 23,
+		"fields": {
+			"rest_name": "안성(서울)",
+			"brand_name": "용우동",
+			"brand_opentime": "09:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 24,
+		"fields": {
+			"rest_name": "안성(서울)",
+			"brand_name": "기타",
+			"brand_opentime": "08:30",
+			"brand_closetime": "20:00",
+			"brand_info": "달콤커피, 크리스피크림도넛"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 25,
+		"fields": {
+			"rest_name": "안성(부산)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 26,
+		"fields": {
+			"rest_name": "안성(부산)",
+			"brand_name": "로띠번",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 27,
+		"fields": {
+			"rest_name": "안성(부산)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 28,
+		"fields": {
+			"rest_name": "안성(부산)",
+			"brand_name": "파스구찌",
+			"brand_opentime": "06:00",
+			"brand_closetime": "22:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 29,
+		"fields": {
+			"rest_name": "안성(부산)",
+			"brand_name": "JDX",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 30,
+		"fields": {
+			"rest_name": "안성(부산)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 31,
+		"fields": {
+			"rest_name": "입장거봉포도(서울)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "도너츠와 커피가 함께하는 공간"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 32,
+		"fields": {
+			"rest_name": "입장거봉포도(서울)",
+			"brand_name": "나뚜루",
+			"brand_opentime": "08:30",
+			"brand_closetime": "20:00",
+			"brand_info": "아이스크림, 커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 33,
+		"fields": {
+			"rest_name": "입장거봉포도(서울)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "21:00",
+			"brand_info": "커피전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 34,
+		"fields": {
+			"rest_name": "망향(부산)",
+			"brand_name": "배스킨라빈스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "베스킨라빈스 아이스크림 및 커피음료 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 35,
+		"fields": {
+			"rest_name": "망향(부산)",
+			"brand_name": "LYNX",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "골프의류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 36,
+		"fields": {
+			"rest_name": "망향(부산)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "00:00",
+			"brand_closetime": "20:00",
+			"brand_info": "아메리카노등 다양한 커피 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 37,
+		"fields": {
+			"rest_name": "망향(부산)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "명동칼국수,떡왕만두국,콩국수 등"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 38,
+		"fields": {
+			"rest_name": "천안삼거리(서울)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "24시간 매장 운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 39,
+		"fields": {
+			"rest_name": "천안삼거리(서울)",
+			"brand_name": "망고식스",
+			"brand_opentime": "08:30",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 40,
+		"fields": {
+			"rest_name": "천안삼거리(서울)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:30",
+			"brand_closetime": "20:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 41,
+		"fields": {
+			"rest_name": "천안삼거리(서울)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:30",
+			"brand_closetime": "20:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 42,
+		"fields": {
+			"rest_name": "천안삼거리(서울)",
+			"brand_name": "앤티앤스프레즐",
+			"brand_opentime": "08:30",
+			"brand_closetime": "20:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 43,
+		"fields": {
+			"rest_name": "천안호두(부산)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": "열린매장 / 평일(월~목,일) : 오전8시 ~ 오후7시30분 / 주말(금,토) : 오전8시 ~ 오후9시30분"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 44,
+		"fields": {
+			"rest_name": "천안호두(부산)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": "휴게소 우측 위치 / 오전8시 ~ 오후7시30분"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 45,
+		"fields": {
+			"rest_name": "천안호두(부산)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": "1층 매장  평일(월~목,일) : 오전8시 ~ 오후7시30분 / 주말(금,토) : 24시간 운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 46,
+		"fields": {
+			"rest_name": "천안호두(부산)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:40",
+			"brand_info": "1층 매장 / 평일(월~목,일) : 오전8시 ~ 오후8시40분 / 주말(금,토) : 오전8시 ~ 오후9시30분"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 47,
+		"fields": {
+			"rest_name": "청주(서울)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:30",
+			"brand_closetime": "20:30",
+			"brand_info": "도넛츠, 커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 48,
+		"fields": {
+			"rest_name": "청주(서울)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 49,
+		"fields": {
+			"rest_name": "청주(서울)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 50,
+		"fields": {
+			"rest_name": "옥산(부산)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "던킨도너츠 옥산휴게소점입니다"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 51,
+		"fields": {
+			"rest_name": "옥산(부산)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "07:00",
+			"brand_closetime": "20:00",
+			"brand_info": "옥산휴게소 할리스커피입니다"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 52,
+		"fields": {
+			"rest_name": "옥산(부산)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "옥산휴게소 코바코 돈까스입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 53,
+		"fields": {
+			"rest_name": "옥산(부산)",
+			"brand_name": "클라이머홀릭",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "클라이머홀릭 옥산휴게소점입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 54,
+		"fields": {
+			"rest_name": "옥산(부산)",
+			"brand_name": "롤리폴리(젤리캔디샵)",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "편의점 내의 롤리폴리(젤리, 캔디)입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 55,
+		"fields": {
+			"rest_name": "죽암(서울)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:30",
+			"brand_closetime": "20:30",
+			"brand_info": "단독매장 구성, 휴게소출구부 위치, 비즈니스공간으로 탁월"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 56,
+		"fields": {
+			"rest_name": "죽암(서울)",
+			"brand_name": "망고식스",
+			"brand_opentime": "08:30",
+			"brand_closetime": "20:30",
+			"brand_info": "휴게소 중앙 위치, 포인트적립사용 불가"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 57,
+		"fields": {
+			"rest_name": "죽암(서울)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "휴게소 중앙 내부 위치, 24시간 운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 58,
+		"fields": {
+			"rest_name": "죽암(서울)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:30",
+			"brand_closetime": "20:30",
+			"brand_info": "식당내부위치, 칼국수, 만두외 라면판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 59,
+		"fields": {
+			"rest_name": "죽암(부산)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "철저한 위생관리와 맛있는 빵류, 음료를 제공하고 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 60,
+		"fields": {
+			"rest_name": "죽암(부산)",
+			"brand_name": "롯데리아",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "대중적인 햄버거 점포로써 세트메뉴와 커피, 간단한 패스트푸드를 제공하고 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 61,
+		"fields": {
+			"rest_name": "죽암(부산)",
+			"brand_name": "배스킨라빈스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "시중 매장과 동일종류의 아이스크림과, 각종 음료를 제공하고 있습니다.(아이스크림 케？은 취급하지 않습니다.)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 62,
+		"fields": {
+			"rest_name": "죽암(부산)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "최고 품질의 커피와 음료를 제공하고 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 63,
+		"fields": {
+			"rest_name": "신탄진(서울)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피전문 브랜드 탐엔탐스 매장내부 편의점앞에 있습니다"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 64,
+		"fields": {
+			"rest_name": "신탄진(서울)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "매장 정중앙 위치하고 있습니다"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 65,
+		"fields": {
+			"rest_name": "옥천(부산)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "아메리카노,카페라떼,마끼야또,바닐라딜라이트 등"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 66,
+		"fields": {
+			"rest_name": "옥천(부산)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "로띠번,바닐라번,아메리카노,카페라떼,블루베리라떼 등"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 67,
+		"fields": {
+			"rest_name": "옥천(부산)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "코바코 김치냄비우동,  왕새우튀김우동,  오뎅꼬치우동,  유부우동,  스페셜돈가스,치즈돈가스,옛날돈가스,김치볶음밥,자장면, 잔치국수"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 68,
+		"fields": {
+			"rest_name": "옥천(부산)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:00",
+			"brand_closetime": "21:00",
+			"brand_info": "명동칼국수, 명동얼큰칼국수, 명동떡만두국, 명동왕만두"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 69,
+		"fields": {
+			"rest_name": "옥천(부산)",
+			"brand_name": "클라이머홀릭",
+			"brand_opentime": "09:00",
+			"brand_closetime": "20:00",
+			"brand_info": "아웃도어,골프웨어,신발,가방 등"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 70,
+		"fields": {
+			"rest_name": "옥천(부산)",
+			"brand_name": "위드미편의점",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "각종 생수,음료,커피,과자류,도시락,담배 등"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 71,
+		"fields": {
+			"rest_name": "옥천(부산)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "21:00",
+			"brand_info": "놀부부대찌개,김치부대찌개,놀부육개장,놀부닭갈비덮밥,놀부된장뚝배기"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 72,
+		"fields": {
+			"rest_name": "옥천(서울)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:30",
+			"brand_info": "남녀노소 좋아하는 깊고 진한향의 고급원두 커피를 제공합니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 73,
+		"fields": {
+			"rest_name": "옥천(서울)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:00",
+			"brand_info": "유명 프랜차이즈 체인점 코바코 돈가스를 옥천휴게소에서 연중무휴 드실수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 74,
+		"fields": {
+			"rest_name": "옥천(서울)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "유명 프랜차이즈 체인점 용우동을 옥천휴게소에서 연중무휴 드실수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 75,
+		"fields": {
+			"rest_name": "금강(부산)",
+			"brand_name": "롯데리아",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "장소 : 휴게소 2층(영업종료시간은 사정에 따라 변동될수 있습니다.)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 76,
+		"fields": {
+			"rest_name": "금강(부산)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "장소 : 상행매장, 중앙매장(08:00~20:00) 중앙매장(24시간운영)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 77,
+		"fields": {
+			"rest_name": "금강(부산)",
+			"brand_name": "코바코",
+			"brand_opentime": "00:00",
+			"brand_closetime": "00:00",
+			"brand_info": "장소 : 본관동 우동코너(24시간운영)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 78,
+		"fields": {
+			"rest_name": "금강(부산)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "장소 : 하행 열린매장, 상행 단독매장"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 79,
+		"fields": {
+			"rest_name": "황간(부산)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피전문점 할리스입니다"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 80,
+		"fields": {
+			"rest_name": "황간(부산)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "21:00",
+			"brand_info": "코바코 돈까스 매장입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 81,
+		"fields": {
+			"rest_name": "황간(부산)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "우동매장입니다"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 82,
+		"fields": {
+			"rest_name": "황간(서울)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피전문점 할리스입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 83,
+		"fields": {
+			"rest_name": "황간(서울)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "21:00",
+			"brand_info": "코바코 돈까스 매장입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 84,
+		"fields": {
+			"rest_name": "황간(서울)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "우동매장입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 85,
+		"fields": {
+			"rest_name": "추풍령(부산)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "추풍령휴게소 유명브랜드매장 할리스커피입니다. 할인 및 멤버쉽 적립이 가능합니다"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 86,
+		"fields": {
+			"rest_name": "추풍령(부산)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 87,
+		"fields": {
+			"rest_name": "추풍령(부산)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 88,
+		"fields": {
+			"rest_name": "추풍령(서울)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "할리스 커피전문점이 입점하여 있으며 오전 08시 부터 20시까지 이용하실 수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 89,
+		"fields": {
+			"rest_name": "추풍령(서울)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "코바코 돈가스 전문점이 입점하여 있으며 오전 08시 부터 20시까지 이용하실 수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 90,
+		"fields": {
+			"rest_name": "추풍령(서울)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "명동 칼국수가 입점하여 있으며 24시간 이용하실 수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 91,
+		"fields": {
+			"rest_name": "추풍령(서울)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "용우동이 입점하여 있으며 24시간 이용하실 수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 92,
+		"fields": {
+			"rest_name": "칠곡(부산)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "장소 : 자율식당 측면 / 판매품목 : 커피류, 음료류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 93,
+		"fields": {
+			"rest_name": "칠곡(부산)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "장소 : 종합안내소 측면 / 판매품목 : 커피류, 음료류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 94,
+		"fields": {
+			"rest_name": "칠곡(부산)",
+			"brand_name": "JDX",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "장소 : 휴게소 좌측면 / 판매품목 : 골프웨어"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 95,
+		"fields": {
+			"rest_name": "칠곡(부산)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "블랙야크 등산의류 전문점이 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 96,
+		"fields": {
+			"rest_name": "칠곡(서울)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "아메리카노 외 커피류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 97,
+		"fields": {
+			"rest_name": "칠곡(서울)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "아메리카노 외 커피류, 홍상라떼, 스무디류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 98,
+		"fields": {
+			"rest_name": "칠곡(서울)",
+			"brand_name": "JDX",
+			"brand_opentime": "09:00",
+			"brand_closetime": "21:00",
+			"brand_info": "골프웨어 및 용품판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 99,
+		"fields": {
+			"rest_name": "경산(서울)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 100,
+		"fields": {
+			"rest_name": "경산(서울)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 101,
+		"fields": {
+			"rest_name": "경산(서울)",
+			"brand_name": "용우동",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 102,
+		"fields": {
+			"rest_name": "평사(부산)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 103,
+		"fields": {
+			"rest_name": "건천(서울)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "독립매장(빵류, 커피류 판매)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 104,
+		"fields": {
+			"rest_name": "건천(서울)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 105,
+		"fields": {
+			"rest_name": "건천(부산)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "&amp;apos;천사가 전해주는 신의선물&amp;apos; 엔제리너스의 다양한 커피와 음료가 준비되어 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 106,
+		"fields": {
+			"rest_name": "건천(부산)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "&amp;apos;너무 맛있어 코를박고 먹는다&amp;apos; 코바코 돈가스 전문점 입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 107,
+		"fields": {
+			"rest_name": "건천(부산)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "&amp;apos;2013년 골프웨어 품질대상&amp;apos;을 수상한 발렌키 골프웨어/아웃도어가 준비되어 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 108,
+		"fields": {
+			"rest_name": "경주(부산)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "탐앤탐스 커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 109,
+		"fields": {
+			"rest_name": "언양(서울)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:30",
+			"brand_info": "던킨도너츠 운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 110,
+		"fields": {
+			"rest_name": "언양(서울)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:30",
+			"brand_info": "엔제리너스 운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 111,
+		"fields": {
+			"rest_name": "언양(서울)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:30",
+			"brand_info": "탐앤탐스 운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 112,
+		"fields": {
+			"rest_name": "양산(서울)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 113,
+		"fields": {
+			"rest_name": "양산(서울)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "돈가스전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 114,
+		"fields": {
+			"rest_name": "진영(부산)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "로띠번은 자체 개발한 모카향 토핑의 크리스피한 빵의 일종이며 고온에서도 모카향을 잃지 않고 있는 것이 특징임."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 115,
+		"fields": {
+			"rest_name": "진영(부산)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:30",
+			"brand_closetime": "21:00",
+			"brand_info": "17년 전통의 돈가스 (즐거움과 행복이 가득한 맛!!!)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 116,
+		"fields": {
+			"rest_name": "진영(부산)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "오리지널 스페셜티 커피전문점 브랜드 (국내 및 세계전문점 시장을 선도함)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 117,
+		"fields": {
+			"rest_name": "진영(순천)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "해피포인트 적립 및 그린캠페인 할인"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 118,
+		"fields": {
+			"rest_name": "진영(순천)",
+			"brand_name": "로띠번",
+			"brand_opentime": "04:00",
+			"brand_closetime": "24:00",
+			"brand_info": "로띠번"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 119,
+		"fields": {
+			"rest_name": "진영(순천)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "본관 식당가 "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 120,
+		"fields": {
+			"rest_name": "진영(순천)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "00:00",
+			"brand_closetime": "00:00",
+			"brand_info": "본관 내부 탐앤탐스매장(24시간운영), 외부탐앤탐스(08:00~20:00시간 운영)입니다. - 제휴카드사할인 및 그린캠페인할인"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 121,
+		"fields": {
+			"rest_name": "진영(순천)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "명동칼국수&왕만두 판매(본관식당가)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 122,
+		"fields": {
+			"rest_name": "진영(순천)",
+			"brand_name": "롤리폴리(젤리캔디샵)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "본관 편의점 위치"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 123,
+		"fields": {
+			"rest_name": "문산(순천)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "매일 신선한 재료와 알맞게 발효된 도우에 그윽한 모카향크림 토핑을 해서 오븐에 갓구워낸 부드럽고 모카향이 가득한 번입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 124,
+		"fields": {
+			"rest_name": "사천(부산)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "07:40",
+			"brand_closetime": "19:30",
+			"brand_info": "도너츠 & 커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 125,
+		"fields": {
+			"rest_name": "사천(부산)",
+			"brand_name": "BBQ",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 126,
+		"fields": {
+			"rest_name": "사천(부산)",
+			"brand_name": "코바코",
+			"brand_opentime": "07:40",
+			"brand_closetime": "19:30",
+			"brand_info": "돈가스전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 127,
+		"fields": {
+			"rest_name": "사천(부산)",
+			"brand_name": "클라이머홀릭",
+			"brand_opentime": "07:40",
+			"brand_closetime": "19:30",
+			"brand_info": "아웃도어 매장"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 128,
+		"fields": {
+			"rest_name": "사천(순천)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": "도너츠 & 커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 129,
+		"fields": {
+			"rest_name": "사천(순천)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "07:20",
+			"brand_closetime": "19:20",
+			"brand_info": "커피전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 130,
+		"fields": {
+			"rest_name": "사천(순천)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:00",
+			"brand_info": "돈가스전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 131,
+		"fields": {
+			"rest_name": "사천(순천)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:00",
+			"brand_info": "콜핑아웃도어매장"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 132,
+		"fields": {
+			"rest_name": "섬진강(부산)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": "로띠번"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 133,
+		"fields": {
+			"rest_name": "섬진강(부산)",
+			"brand_name": "커피딜라이트(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": "커피전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 134,
+		"fields": {
+			"rest_name": "섬진강(순천)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "로띠번/차류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 135,
+		"fields": {
+			"rest_name": "섬진강(순천)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "돈가스전문브랜드"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 136,
+		"fields": {
+			"rest_name": "섬진강(순천)",
+			"brand_name": "커피딜라이트(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 137,
+		"fields": {
+			"rest_name": "섬진강(순천)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:00",
+			"brand_info": "희디자인(사회적기업) - 핸드메이드 의류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 138,
+		"fields": {
+			"rest_name": "거창(대구)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 139,
+		"fields": {
+			"rest_name": "거창(대구)",
+			"brand_name": "코바코",
+			"brand_opentime": "09:00",
+			"brand_closetime": "19:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 140,
+		"fields": {
+			"rest_name": "거창(광주)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 141,
+		"fields": {
+			"rest_name": "거창(광주)",
+			"brand_name": "코바코",
+			"brand_opentime": "09:00",
+			"brand_closetime": "19:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 142,
+		"fields": {
+			"rest_name": "지리산(대구)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "달콤한 도넛과 향긋한 커피, 차별화된 다양한 음료 등 다양한 제품들로 달콤한 휴식을 즐기 실 수 있습니다. "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 143,
+		"fields": {
+			"rest_name": "지리산(대구)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "할리스 고유의 로스팅 기법으로 원두 고유의 풍부한 향미를 살리고 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 144,
+		"fields": {
+			"rest_name": "지리산(광주)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "달콤한 도넛과 향긋한 커피, 차별화된 다양한 음료 등 다양한 제품들로 달콤한 휴식을 즐길 수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 145,
+		"fields": {
+			"rest_name": "지리산(광주)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "할리스 고유의 로스팅 기법으로 원두 고유의 풍부한 향미를 살리고 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 146,
+		"fields": {
+			"rest_name": "화성(서울)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "도너츠전문점 던킨도너츠 운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 147,
+		"fields": {
+			"rest_name": "화성(서울)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피전문점 할리스카페 운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 148,
+		"fields": {
+			"rest_name": "화성(서울)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "놀부부대찌개"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 149,
+		"fields": {
+			"rest_name": "화성(목포)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "07:00",
+			"brand_closetime": "19:00",
+			"brand_info": "신선한 도너츠와 커피를 즐길수 있는 곳"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 150,
+		"fields": {
+			"rest_name": "화성(목포)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "할리스 커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 151,
+		"fields": {
+			"rest_name": "화성(목포)",
+			"brand_name": "JDX",
+			"brand_opentime": "07:00",
+			"brand_closetime": "19:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 152,
+		"fields": {
+			"rest_name": "화성(목포)",
+			"brand_name": "기타",
+			"brand_opentime": "07:00",
+			"brand_closetime": "19:00",
+			"brand_info": "놀부부대찌개 ,교동짬뽕"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 153,
+		"fields": {
+			"rest_name": "서산(목포)",
+			"brand_name": "롯데리아",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 154,
+		"fields": {
+			"rest_name": "서산(목포)",
+			"brand_name": "카페베네",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 155,
+		"fields": {
+			"rest_name": "서산(목포)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 156,
+		"fields": {
+			"rest_name": "서산(서울)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "저희 던킨도너츠 매장에서는 시중과 동일한 할인제도를 시행하고 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 157,
+		"fields": {
+			"rest_name": "서산(서울)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "TOM N TOMS 매장은 휴게소 중앙에 위치하며 시중과 동일한 포인트 적립 및 사용이 가능합니다"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 158,
+		"fields": {
+			"rest_name": "대천(서울)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 159,
+		"fields": {
+			"rest_name": "대천(목포)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 160,
+		"fields": {
+			"rest_name": "군산(서울)",
+			"brand_name": "카페베네",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피 전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 161,
+		"fields": {
+			"rest_name": "군산(서울)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "코바코 돈가스 전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 162,
+		"fields": {
+			"rest_name": "군산(서울)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 163,
+		"fields": {
+			"rest_name": "군산(서울)",
+			"brand_name": "JDX",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "골프웨어, 스포츠 캐쥬얼, 멀티 스포츠 웨어, 행사의류 등 계절별 신상 의류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 164,
+		"fields": {
+			"rest_name": "군산(목포)",
+			"brand_name": "카페베네",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "카페베네"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 165,
+		"fields": {
+			"rest_name": "군산(목포)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "탐앤탐스 "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 166,
+		"fields": {
+			"rest_name": "군산(목포)",
+			"brand_name": "롤리폴리(젤리캔디샵)",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "편의점 전면에 위치"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 167,
+		"fields": {
+			"rest_name": "군산(목포)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "달콤커피 / 한스브레드"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 168,
+		"fields": {
+			"rest_name": "고창고인돌(목포)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "텀블러 및 기타 로드 매장에서 취하는 할인제도 동일하게 실시함"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 169,
+		"fields": {
+			"rest_name": "고창고인돌(서울)",
+			"brand_name": "맥스웰하우스(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 170,
+		"fields": {
+			"rest_name": "고창고인돌(서울)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 171,
+		"fields": {
+			"rest_name": "고창고인돌(서울)",
+			"brand_name": "롤리폴리(젤리캔디샵)",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 172,
+		"fields": {
+			"rest_name": "함평천지(서울)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "로띠번,바닐라번 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 173,
+		"fields": {
+			"rest_name": "함평천지(서울)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "24시간 커피매장운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 174,
+		"fields": {
+			"rest_name": "함평천지(목포)",
+			"brand_name": "카페베네",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 175,
+		"fields": {
+			"rest_name": "함평천지(목포)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 176,
+		"fields": {
+			"rest_name": "함평천지(목포)",
+			"brand_name": "시젠",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 177,
+		"fields": {
+			"rest_name": "함평천지(목포)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 178,
+		"fields": {
+			"rest_name": "여산(천안)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "시중매장과 동일한 서비스를 받으며 여러가지 음료를 즐기실 수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 179,
+		"fields": {
+			"rest_name": "여산(천안)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "달콤하고 따듯한 번과 여러가지 음료를 즐기실 수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 180,
+		"fields": {
+			"rest_name": "여산(천안)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "칼국수, 만두 등 칼국수전문점의 맛을 느끼실 수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 181,
+		"fields": {
+			"rest_name": "여산(순천)",
+			"brand_name": "로띠번",
+			"brand_opentime": "07:30",
+			"brand_closetime": "09:00",
+			"brand_info": "주말 운영시간 연장"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 182,
+		"fields": {
+			"rest_name": "여산(순천)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "칼국수, 만두 등 칼국수전문점의 맛을 느끼실 수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 183,
+		"fields": {
+			"rest_name": "여산(순천)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "22:00",
+			"brand_info": "시중 드롭탑과 동일한 가격으로 다양한 커피음료를 즐기실수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 184,
+		"fields": {
+			"rest_name": "정읍녹두장군(천안)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "바닐라번, 모카번"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 185,
+		"fields": {
+			"rest_name": "정읍녹두장군(천안)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "돈가스"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 186,
+		"fields": {
+			"rest_name": "정읍녹두장군(천안)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "포인트적립 및 사용, 모바일쿠폰등 사용가능"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 187,
+		"fields": {
+			"rest_name": "정읍녹두장군(천안)",
+			"brand_name": "용우동",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "용유부우동, 용스페셜어묵우동, 용냄비우동, 용잔치국수, 용냉메밀"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 188,
+		"fields": {
+			"rest_name": "정읍녹두장군(순천)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "로띠번 및 커피류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 189,
+		"fields": {
+			"rest_name": "정읍녹두장군(순천)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "돈가스, 우동전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 190,
+		"fields": {
+			"rest_name": "정읍녹두장군(순천)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 191,
+		"fields": {
+			"rest_name": "백양사(천안)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "코바코 돈가스"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 192,
+		"fields": {
+			"rest_name": "백양사(천안)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "탐앤탐스 커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 193,
+		"fields": {
+			"rest_name": "백양사(천안)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "명동칼국수, 명동칼만두 외 "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 194,
+		"fields": {
+			"rest_name": "백양사(천안)",
+			"brand_name": "용우동",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "용우동"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 195,
+		"fields": {
+			"rest_name": "백양사(천안)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 196,
+		"fields": {
+			"rest_name": "백양사(천안)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "그린조이 - 아웃도어 골프의류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 197,
+		"fields": {
+			"rest_name": "백양사(순천)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:50",
+			"brand_info": "던킨도너츠"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 198,
+		"fields": {
+			"rest_name": "백양사(순천)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:50",
+			"brand_info": "할리스커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 199,
+		"fields": {
+			"rest_name": "백양사(순천)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": "코바코돈가스"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 200,
+		"fields": {
+			"rest_name": "곡성(천안)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "맛있는커피 여러종류의 커피를 맛볼수있는 엔제리너스"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 201,
+		"fields": {
+			"rest_name": "곡성(천안)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "맛있는 돈가스와 우동이 명품인 코바코"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 202,
+		"fields": {
+			"rest_name": "곡성(천안)",
+			"brand_name": "클라이머홀릭",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "값싸고 질좋은 등산복이 많은 클라이머홀릭"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 203,
+		"fields": {
+			"rest_name": "곡성(천안)",
+			"brand_name": "임실치즈피자",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "임실치즈, 맛있고 고소한 명품 임실치즈와 피자, 떡꼬치, 요구르트 한번 맛보면 다시 찾게되는 그맛"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 204,
+		"fields": {
+			"rest_name": "곡성(천안)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "크리스피크림도넛 매장, 달콤한 여러종류의 도넛과 은은한 커피와의 조화"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 205,
+		"fields": {
+			"rest_name": "곡성(순천)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 206,
+		"fields": {
+			"rest_name": "곡성(순천)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 207,
+		"fields": {
+			"rest_name": "곡성(순천)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 208,
+		"fields": {
+			"rest_name": "주암(순천)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "24:00",
+			"brand_info": "로띠번, 바닐라번외 아메리카노 커피류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 209,
+		"fields": {
+			"rest_name": "주암(순천)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "21:00",
+			"brand_info": "돈가스, 우동 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 210,
+		"fields": {
+			"rest_name": "주암(순천)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "아메리카노외 커피음료 판매 시중매장과 동일한 할인 혜택 및 가격(음료외 제외)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 211,
+		"fields": {
+			"rest_name": "주암(천안)",
+			"brand_name": "로띠번",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "로띠번외 커피류 판매 "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 212,
+		"fields": {
+			"rest_name": "주암(천안)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "21:00",
+			"brand_info": "돈가스 및 24시간 우동 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 213,
+		"fields": {
+			"rest_name": "주암(천안)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:30",
+			"brand_info": "아메리카노외 커피음료 판매 시중매장과 동일한 할인 혜택 및 가격(음료외 제외)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 214,
+		"fields": {
+			"rest_name": "순천(순천)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "로띠번,외 커피류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 215,
+		"fields": {
+			"rest_name": "순천(순천)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "돈가스 및 우동류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 216,
+		"fields": {
+			"rest_name": "하남드림",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": " 커피 전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 217,
+		"fields": {
+			"rest_name": "하남드림",
+			"brand_name": "기타",
+			"brand_opentime": "06:00",
+			"brand_closetime": "21:00",
+			"brand_info": "소담상(CJ프레시웨이 한식전문점), 라면, 우동전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 218,
+		"fields": {
+			"rest_name": "이천(하남)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "09:00",
+			"brand_closetime": "19:00",
+			"brand_info": "휴게소내 탐앤탐스 프랜차이즈 커피매장 운영중"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 219,
+		"fields": {
+			"rest_name": "이천(하남)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "휴게소내 카페드롭탑 프랜차이즈 커피매장 운영중"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 220,
+		"fields": {
+			"rest_name": "이천(남이)",
+			"brand_name": "스태프핫도그",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 221,
+		"fields": {
+			"rest_name": "이천(남이)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 222,
+		"fields": {
+			"rest_name": "이천(남이)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 223,
+		"fields": {
+			"rest_name": "음성(하남)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:30",
+			"brand_info": "Take Your Time Angel-in-us 당신을 미소 짓게 하는 천사의 커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 224,
+		"fields": {
+			"rest_name": "음성(하남)",
+			"brand_name": "코바코",
+			"brand_opentime": "05:00",
+			"brand_closetime": "22:00",
+			"brand_info": "True joy in COBACO! 코를 박고 먹는 즐거움, 코바코(코로나19로 인한 단축운영)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 225,
+		"fields": {
+			"rest_name": "음성(하남)",
+			"brand_name": "기타",
+			"brand_opentime": "07:00",
+			"brand_closetime": "19:00",
+			"brand_info": "놀부부대찌개 운영     ..........                                 부대찌개류(놀부, 흥부, 김치), 볶음밥(새우, 참치김치), 하절기계절메뉴(냉메밀) 운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 226,
+		"fields": {
+			"rest_name": "음성(남이)",
+			"brand_name": "코바코",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "15년 전통의 코바코 돈가스는 자체 개발한 특제소스에 부드러운 육질이 살아있는 돈가스가 일품입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 227,
+		"fields": {
+			"rest_name": "음성(남이)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "07:00",
+			"brand_closetime": "10:00",
+			"brand_info": "탐앤탐스는 신선하고 풍부한 커피의 맛과 향으로 국내 및 세계 커피전문점 시장을 선도하고 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 228,
+		"fields": {
+			"rest_name": "음성(남이)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": "깔끔하고 담백한 국물맛이 일품인 명동칼국수!"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 229,
+		"fields": {
+			"rest_name": "오창(하남)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "Take Your Time Angel-in-us 당신을 미소 짓게 하는 천사의 커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 230,
+		"fields": {
+			"rest_name": "오창(하남)",
+			"brand_name": "코바코",
+			"brand_opentime": "00:00",
+			"brand_closetime": "00:00",
+			"brand_info": "24시간 운영하는 우동 전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 231,
+		"fields": {
+			"rest_name": "오창(하남)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "좋은 사람들이 만나 향기로운 커피와 맛있는 메뉴들로 삶을 새롭게 하며, 몸과 마음에 활력과 감성을 충전하는 문화 커뮤니케이션 공간"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 232,
+		"fields": {
+			"rest_name": "오창(하남)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "45년 전통의 우리나라 대표 칼국수"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 233,
+		"fields": {
+			"rest_name": "오창(하남)",
+			"brand_name": "맥스웰하우스(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "100년 전통의 현대커피의 역사"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 234,
+		"fields": {
+			"rest_name": "오창(하남)",
+			"brand_name": "올포유(의류매장)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "올포유 , 이동수스포츠 , 피에르가르뎅 아울렛"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 235,
+		"fields": {
+			"rest_name": "오창(하남)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "소미미 - 명품 수제 앙금빵 전문 브랜드 빵의 참맛을 느낄 수 있는 영양이 살아 숨쉬는 건강한 빵"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 236,
+		"fields": {
+			"rest_name": "오창(남이)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피 및 도너츠 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 237,
+		"fields": {
+			"rest_name": "오창(남이)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "할리스 커피 판매 중"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 238,
+		"fields": {
+			"rest_name": "오창(남이)",
+			"brand_name": "롤리폴리(젤리캔디샵)",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "편의점에서 24시간 운영 중"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 239,
+		"fields": {
+			"rest_name": "오창(남이)",
+			"brand_name": "기타",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "라면, 농심가락우동, 한양식당, 놀부부대찌개(08:00~20:00)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 240,
+		"fields": {
+			"rest_name": "금산인삼랜드(대전)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "빵류 및 커피류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 241,
+		"fields": {
+			"rest_name": "금산인삼랜드(통영)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 242,
+		"fields": {
+			"rest_name": "금산인삼랜드(통영)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 243,
+		"fields": {
+			"rest_name": "금산인삼랜드(통영)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 244,
+		"fields": {
+			"rest_name": "덕유산(대전)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "내부매장 &amp;apos;던킨도너츠&amp;apos;운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 245,
+		"fields": {
+			"rest_name": "덕유산(대전)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "외부가판 &amp;apos;탐앤탐스&amp;apos;운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 246,
+		"fields": {
+			"rest_name": "덕유산(통영)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 247,
+		"fields": {
+			"rest_name": "덕유산(통영)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 248,
+		"fields": {
+			"rest_name": "함양(통영)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "로띠번 전문매장 운영(로띠번, 바닐라번 판매)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 249,
+		"fields": {
+			"rest_name": "산청(대전)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:30",
+			"brand_info": "엔제리너스 커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 250,
+		"fields": {
+			"rest_name": "산청(대전)",
+			"brand_name": "로띠번",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:30",
+			"brand_info": "로띠번(모카, 바닐라) 2종 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 251,
+		"fields": {
+			"rest_name": "산청(대전)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:30",
+			"brand_info": "탐앤탐스 커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 252,
+		"fields": {
+			"rest_name": "산청(통영)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "21:00",
+			"brand_info": "중앙계산대 옆 위치"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 253,
+		"fields": {
+			"rest_name": "산청(통영)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "휴게소 내부 엔제리너스 옆 위치"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 254,
+		"fields": {
+			"rest_name": "산청(통영)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "휴게소 전면부 위치"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 255,
+		"fields": {
+			"rest_name": "충주(양평)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "탐앤탐스 커피전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 256,
+		"fields": {
+			"rest_name": "충주(양평)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "드롭탑 커피전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 257,
+		"fields": {
+			"rest_name": "충주(창원)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 258,
+		"fields": {
+			"rest_name": "충주(창원)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 259,
+		"fields": {
+			"rest_name": "충주(창원)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 260,
+		"fields": {
+			"rest_name": "충주(창원)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 261,
+		"fields": {
+			"rest_name": "선산(양평)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 262,
+		"fields": {
+			"rest_name": "선산(양평)",
+			"brand_name": "카페베네",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 263,
+		"fields": {
+			"rest_name": "선산(양평)",
+			"brand_name": "ELLEGOLF",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 264,
+		"fields": {
+			"rest_name": "선산(양평)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 265,
+		"fields": {
+			"rest_name": "선산(양평)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 266,
+		"fields": {
+			"rest_name": "선산(창원)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 267,
+		"fields": {
+			"rest_name": "선산(창원)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 268,
+		"fields": {
+			"rest_name": "선산(창원)",
+			"brand_name": "ELLEGOLF",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 269,
+		"fields": {
+			"rest_name": "선산(창원)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 270,
+		"fields": {
+			"rest_name": "선산(창원)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "22:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 271,
+		"fields": {
+			"rest_name": "영산(창원)",
+			"brand_name": "로띠번",
+			"brand_opentime": "07:50",
+			"brand_closetime": "19:50",
+			"brand_info": "영산휴개소 내 로띠번에서 연중무휴 따뜻한 번 제공"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 272,
+		"fields": {
+			"rest_name": "영산(창원)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "07:50",
+			"brand_closetime": "19:50",
+			"brand_info": "영산휴게소 내 탐앤탐스에서 연중무휴 고급커피제공"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 273,
+		"fields": {
+			"rest_name": "영산(창원)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "영산휴게소 내 못난이꽈배기, 신전떡볶이&BHC치킨 매장에서 연중무휴 맛있는 꽈배기와 즉석에서 만들어드리는 신전떡볶이 및 BHC콜팝치킨 제공"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 274,
+		"fields": {
+			"rest_name": "칠서(양평)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "07:40",
+			"brand_closetime": "19:40",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 275,
+		"fields": {
+			"rest_name": "칠서(양평)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:10",
+			"brand_info": "코바코 양식/ 코바코 우동"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 276,
+		"fields": {
+			"rest_name": "강릉(강릉)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 277,
+		"fields": {
+			"rest_name": "강릉(강릉)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 278,
+		"fields": {
+			"rest_name": "강릉(강릉)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 279,
+		"fields": {
+			"rest_name": "강릉(강릉)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 280,
+		"fields": {
+			"rest_name": "강릉(강릉)",
+			"brand_name": "위드미편의점",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 281,
+		"fields": {
+			"rest_name": "강릉(인천)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 282,
+		"fields": {
+			"rest_name": "강릉(인천)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 283,
+		"fields": {
+			"rest_name": "강릉(인천)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 284,
+		"fields": {
+			"rest_name": "강릉(인천)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 285,
+		"fields": {
+			"rest_name": "강릉(인천)",
+			"brand_name": "위드미편의점",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 286,
+		"fields": {
+			"rest_name": "평창(인천)",
+			"brand_name": "나뚜루",
+			"brand_opentime": "08:00",
+			"brand_closetime": "21:00",
+			"brand_info": "아이스크림 전문매장(커피/음료) 주말,공휴일 상황에 따라 연장운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 287,
+		"fields": {
+			"rest_name": "평창(인천)",
+			"brand_name": "세븐일레븐",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "24시간 편의매장"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 288,
+		"fields": {
+			"rest_name": "평창(강릉)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:30",
+			"brand_info": "시중과 동일한 할인/적립 제도 운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 289,
+		"fields": {
+			"rest_name": "평창(강릉)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:30",
+			"brand_info": "시중과 동일한 할인.적립 제도 운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 290,
+		"fields": {
+			"rest_name": "횡성(강릉)",
+			"brand_name": "나뚜루",
+			"brand_opentime": "07:20",
+			"brand_closetime": "19:20",
+			"brand_info": "아이스크림 및 커피 전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 291,
+		"fields": {
+			"rest_name": "횡성(강릉)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "07:20",
+			"brand_closetime": "19:20",
+			"brand_info": "커피전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 292,
+		"fields": {
+			"rest_name": "횡성(강릉)",
+			"brand_name": "기타",
+			"brand_opentime": "07:20",
+			"brand_closetime": "19:20",
+			"brand_info": "크리스피 크림 도넛"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 293,
+		"fields": {
+			"rest_name": "횡성(인천)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "22:00",
+			"brand_info": "도너츠, 커피, 음료수 등"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 294,
+		"fields": {
+			"rest_name": "횡성(인천)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 295,
+		"fields": {
+			"rest_name": "횡성(인천)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "아메리카노, 아이스티 등"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 296,
+		"fields": {
+			"rest_name": "횡성(인천)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "달콤커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 297,
+		"fields": {
+			"rest_name": "문막(인천)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "07:00",
+			"brand_closetime": "21:00",
+			"brand_info": "탐앤탐스 매장 운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 298,
+		"fields": {
+			"rest_name": "문막(강릉)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "07:40",
+			"brand_closetime": "20:00",
+			"brand_info": "휴게소로  진입하면 바로 우측에 롯데리아와 카페베네 사이에 위치하고 있다. 해피포인트가 가능하며 각종 음료와 도너츠를 판매하고 있다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 299,
+		"fields": {
+			"rest_name": "문막(강릉)",
+			"brand_name": "롯데리아",
+			"brand_opentime": "07:40",
+			"brand_closetime": "19:30",
+			"brand_info": "연중 무휴 영업을 하며 시중과 동일한 롯데멤버스카드 적립 및 사용이 가능하다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 300,
+		"fields": {
+			"rest_name": "문막(강릉)",
+			"brand_name": "카페베네",
+			"brand_opentime": "07:40",
+			"brand_closetime": "19:30",
+			"brand_info": "휴게소로 진입하면 바로 우측에 위치하고 있으며 1층과 2층의 매장이 있다. 유리창 너머로는 별빛소공원이 보이며 매장2층은 펫카페로 제공되고 있다. "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 301,
+		"fields": {
+			"rest_name": "문막(강릉)",
+			"brand_name": "코바코",
+			"brand_opentime": "07:40",
+			"brand_closetime": "19:30",
+			"brand_info": "휴게소 식당가 내에 위치하고 있는 우동 전문점으로 새우튀김우동, 알밥우동 정식 등 총 10가지 메뉴를 제공한다. 착한우동(3,000원)도 제공하고 있다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 302,
+		"fields": {
+			"rest_name": "문막(강릉)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "07:40",
+			"brand_closetime": "19:30",
+			"brand_info": "휴게소 식당가 내에 위치하고 있으며 커피 및 각종 음료를 판매하고 있다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 303,
+		"fields": {
+			"rest_name": "문막(강릉)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:00",
+			"brand_info": "**명동칼국수** 휴게소 식당가 내에 위치하고 있으며 시원한 국물과 칼국수를 더욱 맛있게 하는  만두등 총 6가지 메뉴를 제공한다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 304,
+		"fields": {
+			"rest_name": "문막(강릉)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "07:40",
+			"brand_closetime": "19:30",
+			"brand_info": "어린왕자화장실 우측에 위치하고 있으며 커피 및 각종 음료를 판매하고 있다. 특히 착한커피(1500원)에 원두커피를 즐길수 있다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 305,
+		"fields": {
+			"rest_name": "문막(강릉)",
+			"brand_name": "기타",
+			"brand_opentime": "07:40",
+			"brand_closetime": "19:30",
+			"brand_info": "** 크리스피 도넛 **  휴게소 내 어린왕자 화장실 좌측편 별빛 프라자동에 위치하고 있으며 커피 및 각종 음료를 판매중이다. "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 306,
+		"fields": {
+			"rest_name": "여주(강릉)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "07:00",
+			"brand_closetime": "19:00",
+			"brand_info": "할리스 커피 전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 307,
+		"fields": {
+			"rest_name": "여주(강릉)",
+			"brand_name": "코바코",
+			"brand_opentime": "07:00",
+			"brand_closetime": "19:00",
+			"brand_info": "코바코 우동 전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 308,
+		"fields": {
+			"rest_name": "여주(강릉)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "07:00",
+			"brand_closetime": "19:00",
+			"brand_info": "탐앤탐스 커피 전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 309,
+		"fields": {
+			"rest_name": "여주(인천)",
+			"brand_name": "코바코",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "유부우동,오뎅우동,튀김우동,김치냄비우동"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 310,
+		"fields": {
+			"rest_name": "여주(인천)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "21:00",
+			"brand_info": "탐앤탐스 1.2호점 (신관,구관) 2군데 운영 일반 로드샵과 동일하게 적용"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 311,
+		"fields": {
+			"rest_name": "여주(인천)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "09:00",
+			"brand_closetime": "20:00",
+			"brand_info": "일반 로드샵과 동일하게 적용"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 312,
+		"fields": {
+			"rest_name": "용인(강릉)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "06:00",
+			"brand_closetime": "21:00",
+			"brand_info": "커피,도넛"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 313,
+		"fields": {
+			"rest_name": "용인(강릉)",
+			"brand_name": "나뚜루",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:00",
+			"brand_info": "아이스크림,커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 314,
+		"fields": {
+			"rest_name": "용인(강릉)",
+			"brand_name": "맥도날드",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "햄버거,음료,커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 315,
+		"fields": {
+			"rest_name": "용인(강릉)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피,차류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 316,
+		"fields": {
+			"rest_name": "용인(인천)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "07:00",
+			"brand_closetime": "21:00",
+			"brand_info": "도넛 & 커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 317,
+		"fields": {
+			"rest_name": "용인(인천)",
+			"brand_name": "롯데리아",
+			"brand_opentime": "08:00",
+			"brand_closetime": "21:00",
+			"brand_info": "햄버거, 음료, 커피 / 주말은 23시까지 영업"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 318,
+		"fields": {
+			"rest_name": "용인(인천)",
+			"brand_name": "코바코",
+			"brand_opentime": "04:00",
+			"brand_closetime": "24:00",
+			"brand_info": "수제등심돈가스, 치즈돈가스, 옛날돈가스"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 319,
+		"fields": {
+			"rest_name": "용인(인천)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피, 차류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 320,
+		"fields": {
+			"rest_name": "춘천(부산)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": "돈까스류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 321,
+		"fields": {
+			"rest_name": "춘천(부산)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": "놀부부대찌개"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 322,
+		"fields": {
+			"rest_name": "홍천강(춘천)",
+			"brand_name": "카페베네",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "홍천강조망대에 카페베네 커피전문점이 위치해 아름다은 홍천강을 바라보며 커피를 마실수있 있다"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 323,
+		"fields": {
+			"rest_name": "홍천강(춘천)",
+			"brand_name": "코바코",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "코바코 돈까스, 코바코 우동 "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 324,
+		"fields": {
+			"rest_name": "홍천강(춘천)",
+			"brand_name": "망고식스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 325,
+		"fields": {
+			"rest_name": "치악(부산)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:40",
+			"brand_info": "할리스커피(Hollys Coffee)는 1998년 6월 서울 강남에 한국 최초로 에스프레소 전문점을 오픈한 커피 브랜드 입니다. 부드럽고 깊은 커피 맛을 선호하는 한국 사람들의 입맛에 맞게 오픈 초창기부터 원두를 독자적으로 로스팅해 고객들의 사랑을 받고 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 326,
+		"fields": {
+			"rest_name": "치악(부산)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:40",
+			"brand_info": "신선하고 엄선된 최상의 재료만을 사용하여 국내산 수제 버터필링 기법으로 만든 도우를 발효시켜 그윽한 모카향 크림토핑을 해서 오븐에서 갓 구워낸 부드럽고 후레쉬한 모카향이 가득한 번"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 327,
+		"fields": {
+			"rest_name": "치악(부산)",
+			"brand_name": "ELLEGOLF",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:40",
+			"brand_info": "스포티한 감성을 바탕으로 멋스러우면서도 ？한 디자인을 접목하여 감각적인 영 골프웨어를 표현"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 328,
+		"fields": {
+			"rest_name": "치악(부산)",
+			"brand_name": "망고식스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:40",
+			"brand_info": "망고식스는 생과일 주스와 가벼운 디저트메뉴로 세계 최고의 음료와 디저트를 만든다는 단순하고 풋풋한 생각을 바탕으로 태어났습니다. "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 329,
+		"fields": {
+			"rest_name": "치악(부산)",
+			"brand_name": "JDX",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:40",
+			"brand_info": "이태리 컬러 디자이너와의 협업을 통해 유러피안 감성의 컬러/스타일/패턴을 접목한 스포츠웨어"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 330,
+		"fields": {
+			"rest_name": "치악(춘천)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "로스팅 후 숙성과정을 거쳐 7~30일 사이에 가장깊고 풍부한 커피 본연의 맛으로 제공합니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 331,
+		"fields": {
+			"rest_name": "치악(춘천)",
+			"brand_name": "스태프핫도그",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피, 음료, 스태프 핫도그& 수제 디저트 바움쿠헨을 판매하고 있으며   take out 가능"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 332,
+		"fields": {
+			"rest_name": "치악(춘천)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "칼국수, 칼만두, 왕만두 등 판매하고 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 333,
+		"fields": {
+			"rest_name": "치악(춘천)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "00:00",
+			"brand_info": "24시간 운영중이며 빠른 배식과 간편하게 식사를 하실수 있습니다"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 334,
+		"fields": {
+			"rest_name": "치악(춘천)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "놀부부대찌개, 흥부부대찌개, 김치부대찌개, 육계장, 닭갈비철판덮밥, 순두부찌개 등 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 335,
+		"fields": {
+			"rest_name": "단양팔경(부산)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "아메리카노, 라떼, 카푸치노, 시그니처 라떼(바닐라 딜라이트)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 336,
+		"fields": {
+			"rest_name": "단양팔경(부산)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:00",
+			"brand_info": "코바코 등심까스, 코바코 치즈돈까스, 코바코 모듬돈까스"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 337,
+		"fields": {
+			"rest_name": "단양팔경(부산)",
+			"brand_name": "명동칼국수",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:00",
+			"brand_info": "명동칼국수, 명동떡만두국"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 338,
+		"fields": {
+			"rest_name": "단양팔경(부산)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "착한우동, 용유부우동, 용짜장면,  용새우튀김 우동, 용꼬치어묵 우동"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 339,
+		"fields": {
+			"rest_name": "단양팔경(부산)",
+			"brand_name": "클라이머홀릭",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "크라이머홀릭, 엠바골프 의류매장"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 340,
+		"fields": {
+			"rest_name": "단양팔경(부산)",
+			"brand_name": "롤리폴리(젤리캔디샵)",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "젤리, 캔디, 초콜릿"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 341,
+		"fields": {
+			"rest_name": "안동(부산)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "엔제리너스 커피전문점이 입점하여 있으며 오전 08시부터 20시까지 이용하실 수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 342,
+		"fields": {
+			"rest_name": "안동(부산)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "로띠번 유명브랜드 매장이 입점하여 있으며 오전 08시 부터 20시까지 이용하실 수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 343,
+		"fields": {
+			"rest_name": "안동(부산)",
+			"brand_name": "코바코",
+			"brand_opentime": "09:00",
+			"brand_closetime": "19:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 344,
+		"fields": {
+			"rest_name": "안동(춘천)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "07:00",
+			"brand_closetime": "19:00",
+			"brand_info": "엔제리너스 커피전문점이 입점하여 있으며 오전 07시부터 19시까지 이용하실 수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 345,
+		"fields": {
+			"rest_name": "안동(춘천)",
+			"brand_name": "로띠번",
+			"brand_opentime": "07:00",
+			"brand_closetime": "17:00",
+			"brand_info": "로띠번 유명브랜드 매장이 입점하여 있으며 오전 07시 부터 19시까지 이용하실 수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 346,
+		"fields": {
+			"rest_name": "군위(부산)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 347,
+		"fields": {
+			"rest_name": "군위(부산)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "코바코 수제 돈가스 전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 348,
+		"fields": {
+			"rest_name": "군위(춘천)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 349,
+		"fields": {
+			"rest_name": "군위(춘천)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 350,
+		"fields": {
+			"rest_name": "동해(삼척)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:00",
+			"brand_info": "고객님을 미소짓게 하는 천사의 커피, 바다 를 바라보며 향긋한 커피내음을 만끽할수 있는 곳-동해 엔제리너스"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 351,
+		"fields": {
+			"rest_name": "동해(삼척)",
+			"brand_name": "코바코",
+			"brand_opentime": "07:30",
+			"brand_closetime": "18:30",
+			"brand_info": "다같은 코바코가 아닙니다. 동해휴게소만의 특별함이 있는 곳-정말 코 박고 드시게 될것입니다. "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 352,
+		"fields": {
+			"rest_name": "동해(삼척)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:00",
+			"brand_info": "커피 본연의 맛을 잘살릴수 있는 기후인 브라질 다스 알마스에서 재배된 스페셜 티 원두를 모든커피에 사용하여 풍미와 향이 독특한 최상의 커피를 맛보실수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 353,
+		"fields": {
+			"rest_name": "장유(서부산)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "09:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 354,
+		"fields": {
+			"rest_name": "장유(서부산)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 355,
+		"fields": {
+			"rest_name": "벌곡(대전)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "유명브랜드 커피 매장인 엔제리너스를 아침8시 부터 저녁 8시까지 운영하고 있으며 커피 향이 뛰어나 마니아 단골 고객층을 확보하고 있으며 시중과 동일하게 할인제도를 운영하여 판매하고 있습니다. "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 356,
+		"fields": {
+			"rest_name": "벌곡(대전)",
+			"brand_name": "용우동",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "고속도로 휴게소를  방문하면 꼭 먹고 싶은 음식인 우동의 맛을 현대적으로 조화시킨 우동 브랜드로 꾸준한 음식맛 개선을 통해 언제나 한결같은 맛으로 보답하고 있는 매장 입니다. "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 357,
+		"fields": {
+			"rest_name": "벌곡(논산)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "오븐에서 갓 구운 빵으로 맛과 영양을 유지"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 358,
+		"fields": {
+			"rest_name": "벌곡(논산)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "카라멜라떼,카페아메리카노 등 고품격 커피맛과 편안한 분위기가 있는 커피전문매장입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 359,
+		"fields": {
+			"rest_name": "벌곡(논산)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "유부우동,튀김우동,어묵우동 등 한국적인 우동맛~"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 360,
+		"fields": {
+			"rest_name": "벌곡(논산)",
+			"brand_name": "클라이머홀릭",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "아웃도어 의류 전문 매장으로 상설매장과 정상매장을 함께 운영하고 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 361,
+		"fields": {
+			"rest_name": "현풍(대구)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "22:00",
+			"brand_info": "돈가스 전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 362,
+		"fields": {
+			"rest_name": "현풍(대구)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피매장"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 363,
+		"fields": {
+			"rest_name": "현풍(창원)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피 전문점 "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 364,
+		"fields": {
+			"rest_name": "현풍(창원)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "돈가스 전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 365,
+		"fields": {
+			"rest_name": "현풍(창원)",
+			"brand_name": "스트릿츄러스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "스페인 정통 츄러스에서 우리나라의 입맛을 고려해 만들어 낸 츄러스 판매점 "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 366,
+		"fields": {
+			"rest_name": "동명(부산)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 367,
+		"fields": {
+			"rest_name": "동명(부산)",
+			"brand_name": "망고식스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 368,
+		"fields": {
+			"rest_name": "동명(춘천)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 369,
+		"fields": {
+			"rest_name": "동명(춘천)",
+			"brand_name": "망고식스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 370,
+		"fields": {
+			"rest_name": "동명(춘천)",
+			"brand_name": "올포유(의류매장)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 371,
+		"fields": {
+			"rest_name": "홍성(서울)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 372,
+		"fields": {
+			"rest_name": "홍성(목포)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 373,
+		"fields": {
+			"rest_name": "영천(대구)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:00",
+			"brand_info": "커피 / 음료 / 도너츠"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 374,
+		"fields": {
+			"rest_name": "영천(대구)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피 / 음료"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 375,
+		"fields": {
+			"rest_name": "영천(포항)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피 / 음료 / 도넛츠"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 376,
+		"fields": {
+			"rest_name": "영천(포항)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피 / 음료"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 377,
+		"fields": {
+			"rest_name": "서천(서울)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 378,
+		"fields": {
+			"rest_name": "서천(목포)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 379,
+		"fields": {
+			"rest_name": "구정(삼척)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "매장내 위치"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 380,
+		"fields": {
+			"rest_name": "문경(양평)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "07:00",
+			"brand_closetime": "23:00",
+			"brand_info": "커피, 음료 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 381,
+		"fields": {
+			"rest_name": "문경(양평)",
+			"brand_name": "JDX",
+			"brand_opentime": "08:30",
+			"brand_closetime": "20:30",
+			"brand_info": "골프의류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 382,
+		"fields": {
+			"rest_name": "함평나비(광주)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 383,
+		"fields": {
+			"rest_name": "함평나비(무안)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 384,
+		"fields": {
+			"rest_name": "문경(창원)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "도너츠, 커피류, 음료류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 385,
+		"fields": {
+			"rest_name": "문경(창원)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "07:00",
+			"brand_closetime": "21:00",
+			"brand_info": "커피전문 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 386,
+		"fields": {
+			"rest_name": "문경(창원)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "번(빵류) 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 387,
+		"fields": {
+			"rest_name": "문경(창원)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "코바코 돈가스 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 388,
+		"fields": {
+			"rest_name": "문경(창원)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피전문 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 389,
+		"fields": {
+			"rest_name": "구정(속초)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": "커피와함께 로띠번을 드셔보세요"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 390,
+		"fields": {
+			"rest_name": "구정(속초)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": "우동 및 돈가스 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 391,
+		"fields": {
+			"rest_name": "남성주참외(창원)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "이 즐거움을 위해 할리스커피는 1998년 국내 최초 에스프레소 커피 전문점의 문을 연 이래 지속적으로 커피 시장을 이끄는 새로운 시도를 해왔습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 392,
+		"fields": {
+			"rest_name": "남성주참외(창원)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "코바코는 맛있는 음식으로 전달하는 입안의 즐거움뿐만 아니라 다양하고 재미있는 문화를 고객님들과 함께하고자 합니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 393,
+		"fields": {
+			"rest_name": "남성주참외(창원)",
+			"brand_name": "용우동",
+			"brand_opentime": "07:00",
+			"brand_closetime": "22:00",
+			"brand_info": "18년 전통의 용우동은 ‘고객 없이는 우리도 없다’ 를 실천하고 있습니다. "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 394,
+		"fields": {
+			"rest_name": "남성주참외(양평)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "21:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 395,
+		"fields": {
+			"rest_name": "남성주참외(양평)",
+			"brand_name": "클라이머홀릭",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "의류 (등산,골프웨어), 애견 용품"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 396,
+		"fields": {
+			"rest_name": "남성주참외(양평)",
+			"brand_name": "기타",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "고속우동(더본코리아 업무 제휴 브랜드)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 397,
+		"fields": {
+			"rest_name": "속리산(청주)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 398,
+		"fields": {
+			"rest_name": "속리산(청주)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 399,
+		"fields": {
+			"rest_name": "속리산(청주)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 400,
+		"fields": {
+			"rest_name": "화서(영덕)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "매장내부에 위치하고 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 401,
+		"fields": {
+			"rest_name": "화서(영덕)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "할리스커피 매장에 위치하고 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 402,
+		"fields": {
+			"rest_name": "화서(영덕)",
+			"brand_name": "코바코",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "코바코 우동입니다 "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 403,
+		"fields": {
+			"rest_name": "화서(영덕)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "건물정면 우측 하이숍쪽에 위치하고 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 404,
+		"fields": {
+			"rest_name": "화서(영덕)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "미도어묵 매장으로 외부 흡연실 옆쪽에 위치 하고 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 405,
+		"fields": {
+			"rest_name": "진안마이산(익산)",
+			"brand_name": "망고식스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 406,
+		"fields": {
+			"rest_name": "진안마이산(익산)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": " 놀부부대찌개"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 407,
+		"fields": {
+			"rest_name": "진안마이산(장수)",
+			"brand_name": "뚜레쥬르",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "커피와 빵류 음료류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 408,
+		"fields": {
+			"rest_name": "진안마이산(장수)",
+			"brand_name": "망고식스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 409,
+		"fields": {
+			"rest_name": "진안마이산(장수)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "놀부부대찌개"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 410,
+		"fields": {
+			"rest_name": "고성공룡나라(통영)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피 전문점 프랜차이즈"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 411,
+		"fields": {
+			"rest_name": "고성공룡나라(통영)",
+			"brand_name": "코바코",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "코바코양식/우동"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 412,
+		"fields": {
+			"rest_name": "고성공룡나라(대전)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "안녕하세요! 고성 엔제리너스입니다. 그윽한 커피의 향을 엔제리너스에서 느끼세요 ^^:"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 413,
+		"fields": {
+			"rest_name": "고성공룡나라(대전)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "24:00",
+			"brand_info": "안녕하세요! 고성 코바코 우동, 돈가스 매장입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 414,
+		"fields": {
+			"rest_name": "고성공룡나라(대전)",
+			"brand_name": "망고식스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "신선한 과일의 향이 느껴지지 않나요? 저희 고성 망고식스에서 깨끗한 맛을 느끼세요 ^^:"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 415,
+		"fields": {
+			"rest_name": "덕평",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "도너츠, 커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 416,
+		"fields": {
+			"rest_name": "덕평",
+			"brand_name": "배스킨라빈스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "아이스크림전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 417,
+		"fields": {
+			"rest_name": "덕평",
+			"brand_name": "나뚜루",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "아이스크림, 커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 418,
+		"fields": {
+			"rest_name": "덕평",
+			"brand_name": "파리바게뜨",
+			"brand_opentime": "07:00",
+			"brand_closetime": "23:00",
+			"brand_info": "빵,커피,케익,선물류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 419,
+		"fields": {
+			"rest_name": "덕평",
+			"brand_name": "세븐일레븐",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "음료,과자,여행용품,편의용품 등"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 420,
+		"fields": {
+			"rest_name": "덕평",
+			"brand_name": "스무티킹",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "스무디 전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 421,
+		"fields": {
+			"rest_name": "청통(대구)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 422,
+		"fields": {
+			"rest_name": "청통(대구)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "빵류/커피류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 423,
+		"fields": {
+			"rest_name": "청통(대구)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "양식류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 424,
+		"fields": {
+			"rest_name": "와촌(포항)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 425,
+		"fields": {
+			"rest_name": "와촌(포항)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "돈까스류/함박스테이크"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 426,
+		"fields": {
+			"rest_name": "와촌(포항)",
+			"brand_name": "망고식스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "과일쥬스/커피류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 427,
+		"fields": {
+			"rest_name": "와촌(포항)",
+			"brand_name": "용우동",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "우동류/짜장면"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 428,
+		"fields": {
+			"rest_name": "괴산(양평)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "22:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 429,
+		"fields": {
+			"rest_name": "괴산(양평)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 430,
+		"fields": {
+			"rest_name": "괴산(양평)",
+			"brand_name": "코바코",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 431,
+		"fields": {
+			"rest_name": "괴산(양평)",
+			"brand_name": "클라이머홀릭",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "의류매장"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 432,
+		"fields": {
+			"rest_name": "괴산(양평)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "크리스피크림(도너츠), 신전떡볶이, BHC치킨"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 433,
+		"fields": {
+			"rest_name": "원주(부산)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "할리스 커피의 깊고 진한 커피를 원하신다면 강력 추전합니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 434,
+		"fields": {
+			"rest_name": "원주(부산)",
+			"brand_name": "코바코",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "코바코 돈가스 "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 435,
+		"fields": {
+			"rest_name": "원주(부산)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "우동 "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 436,
+		"fields": {
+			"rest_name": "원주(춘천)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "아메카노, 라떼, 초코등 다양한 음료를 즐겨 보세요..."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 437,
+		"fields": {
+			"rest_name": "원주(춘천)",
+			"brand_name": "코바코",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "코바코 양식,우동"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 438,
+		"fields": {
+			"rest_name": "원주(춘천)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 439,
+		"fields": {
+			"rest_name": "옥계(속초)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:00",
+			"brand_info": "즐거움과 행복이 가득한 맛! 코바코! 돈가스 및 우동 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 440,
+		"fields": {
+			"rest_name": "옥계(속초)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "달콤하고 따뜻하게 커피를 마실수 있는  바다가 보이는 해맞이옥계휴게소 드롭탑"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 441,
+		"fields": {
+			"rest_name": "괴산(창원)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "07:40",
+			"brand_closetime": "19:40",
+			"brand_info": "달콤한 도넛과 향긋한 커피, 차별화된 음료 등 다양한 제품들로 달콤한 휴식을 즐기실 수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 442,
+		"fields": {
+			"rest_name": "괴산(창원)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "07:40",
+			"brand_closetime": "19:40",
+			"brand_info": "할리스 고유의 로스팅 기법으로 원두 고유의 풍부한 향미를 살리고 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 443,
+		"fields": {
+			"rest_name": "괴산(창원)",
+			"brand_name": "코바코",
+			"brand_opentime": "07:40",
+			"brand_closetime": "19:40",
+			"brand_info": "코바코 돈가스"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 444,
+		"fields": {
+			"rest_name": "괴산(창원)",
+			"brand_name": "기타",
+			"brand_opentime": "07:40",
+			"brand_closetime": "19:40",
+			"brand_info": "놀부부대찌개"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 445,
+		"fields": {
+			"rest_name": "김천(서울)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 446,
+		"fields": {
+			"rest_name": "예산(대전)",
+			"brand_name": "카페베네",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 447,
+		"fields": {
+			"rest_name": "예산(대전)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:20",
+			"brand_closetime": "20:20",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 448,
+		"fields": {
+			"rest_name": "예산(대전)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 449,
+		"fields": {
+			"rest_name": "예산(당진)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 450,
+		"fields": {
+			"rest_name": "예산(당진)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 451,
+		"fields": {
+			"rest_name": "예산(당진)",
+			"brand_name": "롤리폴리(젤리캔디샵)",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "편의점 계산대 앞"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 452,
+		"fields": {
+			"rest_name": "공주(대전)",
+			"brand_name": "카페베네",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 453,
+		"fields": {
+			"rest_name": "공주(대전)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 454,
+		"fields": {
+			"rest_name": "공주(대전)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "공차 매장"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 455,
+		"fields": {
+			"rest_name": "부여백제(공주)",
+			"brand_name": "카페베네",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피와 차, 총 25가지의 주문 가능한 음료를 제공해 드리고 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 456,
+		"fields": {
+			"rest_name": "부여백제(공주)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "우동류 2종, 라면3종, 국수1종, 김밥 1종  다양한 가격대로 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 457,
+		"fields": {
+			"rest_name": "부여백제(서천)",
+			"brand_name": "카페베네",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피와 차 를 판매하며 총 25가지 메뉴로 구성되어있습니다"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 458,
+		"fields": {
+			"rest_name": "부여백제(서천)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "실속우동, 왕새우튀김우동, 부산어묵우동, 잔치국수,  떡만두라면정식, 실속라면,콩나물라면"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 459,
+		"fields": {
+			"rest_name": "공주(당진)",
+			"brand_name": "카페베네",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "아메리카노"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 460,
+		"fields": {
+			"rest_name": "공주(당진)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "00:00",
+			"brand_info": "왕새우튀김우동,부산어묵우동"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 461,
+		"fields": {
+			"rest_name": "공주(당진)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "공차(밀크티,아메리카노)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 462,
+		"fields": {
+			"rest_name": "목감(서울)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "07:00",
+			"brand_closetime": "21:00",
+			"brand_info": "운영시간은 07시 ~ 21시 까지 운영 됩니다. "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 463,
+		"fields": {
+			"rest_name": "안성맞춤(평택)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "안성맞춤휴게소에서 던킨과 함께할수있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 464,
+		"fields": {
+			"rest_name": "안성맞춤(평택)",
+			"brand_name": "롯데리아",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "햄버거의 중심 패스트푸드 전문점인 롯데리아 운영 중"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 465,
+		"fields": {
+			"rest_name": "안성맞춤(평택)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "맛과 향이 좋은 할리스 커피를 휴게소에서 즐길수 있습니다"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 466,
+		"fields": {
+			"rest_name": "안성맞춤(평택)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "베이커리 전문점을 휴게소에서 만날수 있습니다. 운전중 간식 타임은 역시 로띠번이 최고~~~"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 467,
+		"fields": {
+			"rest_name": "안성맞춤(제천)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "안성맞춤휴게소에서 던킨과 함께 할수 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 468,
+		"fields": {
+			"rest_name": "안성맞춤(제천)",
+			"brand_name": "롯데리아",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "햄버거의 중심 패스트푸드 전문점인 롯데리아 운영 중"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 469,
+		"fields": {
+			"rest_name": "안성맞춤(제천)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "맛과 향이 좋은 할리스 커피를 휴게소에서 즐길 수 있습니다. 구매 포인트 적립도 필수..."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 470,
+		"fields": {
+			"rest_name": "안성맞춤(제천)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "베이커리 전문점을 휴게소에서 만날수 있습니다. 운전중 간식타임은 역시 로띠번이 최고...."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 471,
+		"fields": {
+			"rest_name": "안성맞춤(제천)",
+			"brand_name": "올포유(의류매장)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "엘르 의류매장이 있어 즐거운 여행 및 가족 친지분들께 싸고 알차게 선물할수 있습니다"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 472,
+		"fields": {
+			"rest_name": "행담도",
+			"brand_name": "나뚜루",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 473,
+		"fields": {
+			"rest_name": "행담도",
+			"brand_name": "파스구찌",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 474,
+		"fields": {
+			"rest_name": "행담도",
+			"brand_name": "앤티앤스프레즐",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 475,
+		"fields": {
+			"rest_name": "행담도",
+			"brand_name": "투썸플레이스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "22:00",
+			"brand_info": "※ 운영시간 ▶ 투썸(상행) : 8시~24시 / 투썸(하행) : 8시~22시"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 476,
+		"fields": {
+			"rest_name": "행담도",
+			"brand_name": "임실치즈피자",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 477,
+		"fields": {
+			"rest_name": "행담도",
+			"brand_name": "롤리폴리(젤리캔디샵)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 478,
+		"fields": {
+			"rest_name": "김천(부산)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:00",
+			"brand_info": "도넛, 커피류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 479,
+		"fields": {
+			"rest_name": "김천(부산)",
+			"brand_name": "파스구찌",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피, 음료류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 480,
+		"fields": {
+			"rest_name": "함안(부산)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 481,
+		"fields": {
+			"rest_name": "함안(부산)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "번,커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 482,
+		"fields": {
+			"rest_name": "함안(부산)",
+			"brand_name": "망고식스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "망고음료,커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 483,
+		"fields": {
+			"rest_name": "진주(부산)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "도넛 및 커피 음료류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 484,
+		"fields": {
+			"rest_name": "진주(부산)",
+			"brand_name": "파스구찌",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피, 음료류 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 485,
+		"fields": {
+			"rest_name": "함안(순천)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 486,
+		"fields": {
+			"rest_name": "함안(순천)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "번 ,커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 487,
+		"fields": {
+			"rest_name": "함안(순천)",
+			"brand_name": "망고식스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "망고음료 커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 488,
+		"fields": {
+			"rest_name": "서여주(양평)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:00",
+			"brand_info": "편의점에 들어오시면 커피매장과 같이 운영하며, Take-Out 가능합니다. "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 489,
+		"fields": {
+			"rest_name": "서여주(양평)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "07:00",
+			"brand_closetime": "19:00",
+			"brand_info": "편의점에 들어오시면 로띠번 매장과 같이 운영하고 있습니다. 따로 좌석은 운영하지 않으며 Take-Out 전문입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 490,
+		"fields": {
+			"rest_name": "서여주(창원)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:00",
+			"brand_info": "편의점에 들어오시면 맥스웰하우스와 같이 운영하고 있습니다. 모카번, 바닐라번이 있으며, Take-Out 가능합니다.   "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 491,
+		"fields": {
+			"rest_name": "서여주(창원)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "18:30",
+			"brand_info": "편의점에 들어오시면 로띠번 매장과 같이 운영하고 있습니다. 따로 좌석은 운영하지 않으며 Take-Out 전문입니다"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 492,
+		"fields": {
+			"rest_name": "이서(순천)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 493,
+		"fields": {
+			"rest_name": "이서(순천)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 494,
+		"fields": {
+			"rest_name": "이서(순천)",
+			"brand_name": "NEPA",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 495,
+		"fields": {
+			"rest_name": "이서(천안)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 496,
+		"fields": {
+			"rest_name": "이서(천안)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 497,
+		"fields": {
+			"rest_name": "이서(천안)",
+			"brand_name": "NEPA",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 498,
+		"fields": {
+			"rest_name": "오수(완주)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "매일 굽는 모카번과 바닐라번"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 499,
+		"fields": {
+			"rest_name": "오수(완주)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "오동통 우동면에 따끈한 국물 우동전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 500,
+		"fields": {
+			"rest_name": "오수(완주)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "진한 커피향의 브랜드 커피매장 탐앤탐스"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 501,
+		"fields": {
+			"rest_name": "오수(순천)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 502,
+		"fields": {
+			"rest_name": "오수(순천)",
+			"brand_name": "코바코",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "우동전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 503,
+		"fields": {
+			"rest_name": "오수(순천)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피전문점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 504,
+		"fields": {
+			"rest_name": "황전(순천)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "도너츠 및 커피 "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 505,
+		"fields": {
+			"rest_name": "황전(순천)",
+			"brand_name": "파스구찌",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 506,
+		"fields": {
+			"rest_name": "황전(완주)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피 및 도너츠 "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 507,
+		"fields": {
+			"rest_name": "황전(완주)",
+			"brand_name": "파스구찌",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 508,
+		"fields": {
+			"rest_name": "황전(완주)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "던킨도너츠 전망대점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 509,
+		"fields": {
+			"rest_name": "구리(일산)",
+			"brand_name": "코바코",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "코바코 우동,코바코 돈까스"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 510,
+		"fields": {
+			"rest_name": "구리(일산)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "07:00",
+			"brand_closetime": "20:00",
+			"brand_info": "휴게소 매장내 편의점 옆에 위치 하고있습니다"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 511,
+		"fields": {
+			"rest_name": "통도사(부산)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "07:00",
+			"brand_closetime": "19:00",
+			"brand_info": "오리지널 스페셜티 커피 전문점 브랜드"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 512,
+		"fields": {
+			"rest_name": "성주(창원)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "직접 발효시켜 갓 구워내 더 맛있는 바닐라번 / 모카번이 있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 513,
+		"fields": {
+			"rest_name": "성주(창원)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "22:00",
+			"brand_info": "대표메뉴 - 수제등심돈가스"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 514,
+		"fields": {
+			"rest_name": "성주(창원)",
+			"brand_name": "용우동",
+			"brand_opentime": "08:00",
+			"brand_closetime": "08:00",
+			"brand_info": "쫄깃한 우동면과 감칠맛나는 우동육수가 조화로운 우동코너"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 515,
+		"fields": {
+			"rest_name": "성주(양평)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "스낵코너에 위치하고 있으며 바로 구워낸 빵으로 커피와 함께 먹으면 맛있습니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 516,
+		"fields": {
+			"rest_name": "성주(양평)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "양식(돈가스)코너 브랜드이며 직접 만들어서 제공하는 돈가스(등심돈가스) 입니다. "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 517,
+		"fields": {
+			"rest_name": "성주(양평)",
+			"brand_name": "용우동",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "우동(용우동)코너로 브랜드이며 쫄깃한 면발과 깊은 육수맛이 일품입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 518,
+		"fields": {
+			"rest_name": "보성녹차(순천)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "아메리카노 등 커피류와 녹차, 스파클링, 스무디, 아이스티, 홍차, 허브티 등을 판매중입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 519,
+		"fields": {
+			"rest_name": "보성녹차(순천)",
+			"brand_name": "클라이머홀릭",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "실용성과 가성비가 높고 좋은 원단을 사용하여 보온성과 통풍성이 뛰어난 정통 아웃도어 브랜드 입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 520,
+		"fields": {
+			"rest_name": "보성녹차(영암)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "아메리카노 등 커피류와 녹차, 아이스티, 홍차, 허브티, 스무디, 스파클링류 등을 판매중입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 521,
+		"fields": {
+			"rest_name": "보성녹차(영암)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "등심돈까스, 치즈돈까스, 모듬돈까스 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 522,
+		"fields": {
+			"rest_name": "보성녹차(영암)",
+			"brand_name": "클라이머홀릭",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "실용성과 가성비가 높고 좋은 원단을 사용하여 보온성과 통풍성이 뛰어난 정통 아웃도어 브랜드 입니다."
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 523,
+		"fields": {
+			"rest_name": "마장",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 524,
+		"fields": {
+			"rest_name": "마장",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 525,
+		"fields": {
+			"rest_name": "마장",
+			"brand_name": "맥도날드",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 526,
+		"fields": {
+			"rest_name": "마장",
+			"brand_name": "프레즐",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 527,
+		"fields": {
+			"rest_name": "마장",
+			"brand_name": "스타벅스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 528,
+		"fields": {
+			"rest_name": "마장",
+			"brand_name": "롯데마트",
+			"brand_opentime": "10:00",
+			"brand_closetime": "19:50",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 529,
+		"fields": {
+			"rest_name": "마장",
+			"brand_name": "ELLEGOLF",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 530,
+		"fields": {
+			"rest_name": "마장",
+			"brand_name": "망고식스",
+			"brand_opentime": "08:30",
+			"brand_closetime": "19:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 531,
+		"fields": {
+			"rest_name": "마장",
+			"brand_name": "JDX",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 532,
+		"fields": {
+			"rest_name": "마장",
+			"brand_name": "레드페이스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 533,
+		"fields": {
+			"rest_name": "마장",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 534,
+		"fields": {
+			"rest_name": "마장",
+			"brand_name": "롤리폴리(젤리캔디샵)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "푸드코트 내 소량"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 535,
+		"fields": {
+			"rest_name": "마장",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "교동짬뽕, 빅찹핫도그, 호봉토스트"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 536,
+		"fields": {
+			"rest_name": "금왕(평택)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "엔젤리너스 운영중"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 537,
+		"fields": {
+			"rest_name": "금왕(평택)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "코바코 운영중"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 538,
+		"fields": {
+			"rest_name": "금왕(평택)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "용우동 운영중"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 539,
+		"fields": {
+			"rest_name": "금왕(제천)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 540,
+		"fields": {
+			"rest_name": "금왕(제천)",
+			"brand_name": "카페베네",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 541,
+		"fields": {
+			"rest_name": "금왕(제천)",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "24:00",
+			"brand_info": "옛날돈까스, 치즈돈가스"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 542,
+		"fields": {
+			"rest_name": "금왕(제천)",
+			"brand_name": "용우동",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "유부,튀김,어묵, 짜장면 "
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 543,
+		"fields": {
+			"rest_name": "강천산(대구)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피, TEA, 번 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 544,
+		"fields": {
+			"rest_name": "천등산(제천)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피,빵류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 545,
+		"fields": {
+			"rest_name": "천등산(제천)",
+			"brand_name": "파스구찌",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피,음료,차류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 546,
+		"fields": {
+			"rest_name": "천등산(평택)",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "던킨 도너츠(빵), 커피음료류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 547,
+		"fields": {
+			"rest_name": "천등산(평택)",
+			"brand_name": "파스구찌",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 548,
+		"fields": {
+			"rest_name": "강천산(광주)",
+			"brand_name": "로띠번",
+			"brand_opentime": "08:00",
+			"brand_closetime": "19:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 549,
+		"fields": {
+			"rest_name": "외동(포항)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "07:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 550,
+		"fields": {
+			"rest_name": "외동(포항)",
+			"brand_name": "코바코",
+			"brand_opentime": "09:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 551,
+		"fields": {
+			"rest_name": "외동(부산)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "아메리카노, 라떼, 스파클링, 크러쉬, 케모마일"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 552,
+		"fields": {
+			"rest_name": "외동(부산)",
+			"brand_name": "코바코",
+			"brand_opentime": "06:00",
+			"brand_closetime": "22:00",
+			"brand_info": "수제등심돈까스,  치즈돈까스, 돈까스제육덮밥, 외동휴게소 정식"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 553,
+		"fields": {
+			"rest_name": "논공(대구)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 554,
+		"fields": {
+			"rest_name": "논공(대구)",
+			"brand_name": "클라이머홀릭",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 555,
+		"fields": {
+			"rest_name": "논공(대구)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 556,
+		"fields": {
+			"rest_name": "논공(대구)",
+			"brand_name": "롤리폴리(젤리캔디샵)",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "편의점 내 위치"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 557,
+		"fields": {
+			"rest_name": "논공(광주)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 558,
+		"fields": {
+			"rest_name": "논공(광주)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 559,
+		"fields": {
+			"rest_name": "논공(광주)",
+			"brand_name": "롤리폴리(젤리캔디샵)",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 560,
+		"fields": {
+			"rest_name": "논공(광주)",
+			"brand_name": "기타",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "디지니 골프, 불스원"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 561,
+		"fields": {
+			"rest_name": "의성(청주)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피 및 각종 음료 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 562,
+		"fields": {
+			"rest_name": "의성(영덕)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "커피 및 각종 음료 판매"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 563,
+		"fields": {
+			"rest_name": "청송(영덕)",
+			"brand_name": "기타",
+			"brand_opentime": "08:30",
+			"brand_closetime": "19:30",
+			"brand_info": "크리스피 크림&도넛"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 564,
+		"fields": {
+			"rest_name": "홍천(서울)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "브랜드 커피 전문매장 (휴게소 외부 매장중앙)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 565,
+		"fields": {
+			"rest_name": "홍천(서울)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "브랜드 커피 전문매장 (휴게소 한식코너 옆)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 566,
+		"fields": {
+			"rest_name": "홍천(서울)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "브랜드 커피 전문매장 (열린매장 코너 오른편)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 567,
+		"fields": {
+			"rest_name": "홍천(양양)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 568,
+		"fields": {
+			"rest_name": "홍천(양양)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 569,
+		"fields": {
+			"rest_name": "홍천(양양)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "07:30",
+			"brand_closetime": "19:30",
+			"brand_info": null
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 570,
+		"fields": {
+			"rest_name": "내린천",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "1층"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 571,
+		"fields": {
+			"rest_name": "내린천",
+			"brand_name": "롯데리아",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "1층, 2층 / 2층에 넓은 좌석 운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 572,
+		"fields": {
+			"rest_name": "내린천",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "2층"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 573,
+		"fields": {
+			"rest_name": "내린천",
+			"brand_name": "코바코",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "돈까스, 우동/라면"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 574,
+		"fields": {
+			"rest_name": "내린천",
+			"brand_name": "ELLEGOLF",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "3층"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 575,
+		"fields": {
+			"rest_name": "내린천",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "1층 ,4층 두곳 운영"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 576,
+		"fields": {
+			"rest_name": "내린천",
+			"brand_name": "스트릿츄러스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "4층"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 577,
+		"fields": {
+			"rest_name": "낙동강의성(영천)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "매장위치 : 건물좌측, 화장실우측"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 578,
+		"fields": {
+			"rest_name": "낙동강의성(영천)",
+			"brand_name": "로띠번",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "매장위치 : 건물내부 우측"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 579,
+		"fields": {
+			"rest_name": "낙동강의성(영천)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "매장위치 : 건물우측"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 580,
+		"fields": {
+			"rest_name": "낙동강구미(상주)",
+			"brand_name": "엔제리너스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "매장위치 : 건물전면 좌측"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 581,
+		"fields": {
+			"rest_name": "낙동강구미(상주)",
+			"brand_name": "로띠번",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "매장위치 : 건물내부 우측(24시간 운영)"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 582,
+		"fields": {
+			"rest_name": "낙동강구미(상주)",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "매장위치 : 건물전면 우측, 화장실 앞"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 583,
+		"fields": {
+			"rest_name": "군위영천(영천)",
+			"brand_name": "할리스커피",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "편의점 좌측 위치"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 584,
+		"fields": {
+			"rest_name": "군위영천(영천)",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "08:00",
+			"brand_closetime": "20:00",
+			"brand_info": "라면 우동 퇴식구 맞은편 위치"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 585,
+		"fields": {
+			"rest_name": "시흥하늘",
+			"brand_name": "던킨도너츠",
+			"brand_opentime": "06:00",
+			"brand_closetime": "22:00",
+			"brand_info": "도너츠, 커피"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 586,
+		"fields": {
+			"rest_name": "시흥하늘",
+			"brand_name": "롯데리아",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "콜라음료류, 햄버거류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 587,
+		"fields": {
+			"rest_name": "시흥하늘",
+			"brand_name": "할리스커피",
+			"brand_opentime": "06:00",
+			"brand_closetime": "22:00",
+			"brand_info": "아메리카노, 카푸치노외"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 588,
+		"fields": {
+			"rest_name": "시흥하늘",
+			"brand_name": "파리바게뜨",
+			"brand_opentime": "06:00",
+			"brand_closetime": "22:00",
+			"brand_info": "빵,음료,케익류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 589,
+		"fields": {
+			"rest_name": "시흥하늘",
+			"brand_name": "미니스탑",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "24시 편의점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 590,
+		"fields": {
+			"rest_name": "시흥하늘",
+			"brand_name": "ELLEGOLF",
+			"brand_opentime": "09:00",
+			"brand_closetime": "22:00",
+			"brand_info": "골프의류"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 591,
+		"fields": {
+			"rest_name": "시흥하늘",
+			"brand_name": "탐앤탐스",
+			"brand_opentime": "06:00",
+			"brand_closetime": "22:00",
+			"brand_info": "아메리카노, 카푸치노등"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 592,
+		"fields": {
+			"rest_name": "시흥하늘",
+			"brand_name": "드롭탑(커피전문점)",
+			"brand_opentime": "06:00",
+			"brand_closetime": "22:00",
+			"brand_info": "커피,브레드"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 593,
+		"fields": {
+			"rest_name": "함양(통영)",
+			"brand_name": "나뚜루",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "편의점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 594,
+		"fields": {
+			"rest_name": "함양(통영)",
+			"brand_name": "하겐다즈",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "편의점"
+		}
+	},
+	{
+		"model": "defaults.BrandShop",
+		"pk": 595,
+		"fields": {
+			"rest_name": "함양(통영)",
+			"brand_name": "기타",
+			"brand_opentime": "00:00",
+			"brand_closetime": "24:00",
+			"brand_info": "편의점 임실치즈 및 요구르트"
+		}
+	}
+]

@@ -1,0 +1,685 @@
+@font-face {
+  font-family: 'MapoDPPA';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/MapoDPPA.woff')
+    format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.mainbox {
+  /* max-width: 600px; */
+  min-width: 270px;
+  padding: 12px;
+  margin: 7% 0 7% 0;
+}
+
+img {
+  width: 100%;
+}
+
+@media (min-width: 676px) {
+  .mainbox {
+    width: 676px;
+  }
+}
+
+@media (max-width: 280px) {
+  .homebox {
+    min-width: 270px;
+  }
+}
+@media (min-width: 281px) and (max-width: 319px) {
+  .homebox {
+    min-width: 270px;
+  }
+}
+@media (min-width: 320px) and (max-width: 374px) {
+  .homebox {
+    min-width: 300px;
+  }
+}
+@media (min-width: 375px) and (max-width: 419px) {
+  .homebox {
+    min-width: 360px;
+  }
+}
+@media (min-width: 420px) and (max-width: 479px) {
+  .homebox {
+    min-width: 400px;
+  }
+}
+@media (min-width: 480px) and (max-width: 519px) {
+  .homebox {
+    min-width: 460px;
+  }
+}
+@media (min-width: 520px) and (max-width: 559px) {
+  .homebox {
+    min-width: 500px;
+  }
+}
+@media (min-width: 560px) and (max-width: 599px) {
+  .homebox {
+    min-width: 540px;
+  }
+}
+@media (min-width: 600px) and (max-width: 639px) {
+  .homebox {
+    min-width: 580px;
+  }
+}
+@media (min-width: 640px) and (max-width: 699px) {
+  .homebox {
+    min-width: 620px;
+  }
+}
+@media (min-width: 700px) and (max-width: 768px) {
+  .homebox {
+    min-width: 680px;
+  }
+}
+@media (min-width: 768px) and (max-width: 859px) {
+  .homebox {
+    min-width: 740px;
+  }
+}
+@media (min-width: 860px) and (max-width: 1023px) {
+  .homebox {
+    min-width: 840px;
+  }
+}
+@media (min-width: 1024px) {
+  .homebox {
+    min-width: 960px;
+  }
+}
+
+@media (max-width: 450px) {
+  .btnbox {
+    text-align: center;
+    color: #ecf0f1;
+    /* background-color: #2c3e50; */
+    margin: 20px 0 20px 0;
+    padding: 0px 12px 0px 12px;
+    width: 100%;
+  }
+}
+
+@media (min-width: 451px) {
+  .btnbox {
+    text-align: center;
+    color: #ecf0f1;
+    /* background-color: #2c3e50; */
+    margin: 20px 0 20px 0;
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+  }
+}
+
+@media (max-width: 450px) {
+  .btn-3d {
+    position: relative;
+    width: 100%;
+    display: inline-block;
+    color: #ecf0f1;
+    text-decoration: none;
+    border-radius: 5px;
+    border: solid 1px #6dc8fb;
+    background: #6dc8fb;
+    text-align: center;
+    padding: 16px 18px 14px;
+    margin: 10px 0 10px 0;
+    -webkit-transition: all 0.1s;
+    -moz-transition: all 0.1s;
+    transition: all 0.1s;
+
+    -webkit-box-shadow: 0px 6px 0px #3eabf9;
+    -moz-box-shadow: 0px 6px 0px #3eabf9;
+    box-shadow: 0px 6px 0px #3eabf9;
+  }
+}
+
+@media (min-width: 451px) {
+  .btn-3d {
+    position: relative;
+    width: 30%;
+    display: inline-block;
+    color: #ecf0f1;
+    text-decoration: none;
+    border-radius: 5px;
+    border: solid 1px #6dc8fb;
+    background: #6dc8fb;
+    text-align: center;
+    padding: 16px 18px 14px;
+    margin: 12px;
+
+    -webkit-transition: all 0.1s;
+    -moz-transition: all 0.1s;
+    transition: all 0.1s;
+
+    -webkit-box-shadow: 0px 6px 0px #3eabf9;
+    -moz-box-shadow: 0px 6px 0px #3eabf9;
+    box-shadow: 0px 6px 0px #3eabf9;
+  }
+}
+
+.btn-3d:active {
+  -webkit-box-shadow: 0px 2px 0px #3eabf9;
+  -moz-box-shadow: 0px 2px 0px #3eabf9;
+  box-shadow: 0px 2px 0px #3eabf9;
+  position: relative;
+  top: 4px;
+}
+
+.loginbox {
+  width: 100%;
+  font-family: 'NanumBarunpen';
+}
+
+.logoutbox {
+  padding: 0 12px 0 12px;
+}
+
+.welcome {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logout-btn {
+  /* min-width: 100%; */
+  width: 100%;
+  cursor: pointer;
+  margin-right: 0.25em;
+  margin-top: 0.5em;
+  padding: 0.938em;
+  border: none;
+  border-radius: 4px;
+  background-color: #22223b;
+  color: #fefefe;
+
+  /* margin: 20px 0 10px 0; */
+}
+
+.logout-btn:hover {
+  background-color: #4a4e69;
+  color: #fefefe;
+}
+
+/* ///////////////////////////////////////// */
+
+.login form {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.login label {
+  margin-bottom: 0.5em;
+  color: #444;
+  font-weight: lighter;
+}
+
+.login input {
+  padding: 10px 10px;
+  border-radius: 5px;
+  outline: none;
+  border: 1px solid #d6d1d5;
+}
+
+.login input::placeholder {
+  font-size: 1.2em;
+  font-weight: lighter;
+  color: #bbb;
+}
+
+.login .login-btn {
+  width: 100%;
+  cursor: pointer;
+  margin-top: 0.5em;
+  margin-bottom: 6em;
+  padding: 0.938em;
+  border: none;
+  border-radius: 4px;
+  background-color: #22223b;
+  color: #fefefe;
+}
+
+.login button:hover {
+  background-color: #4a4e69;
+  color: #fefefe;
+}
+
+.login .signup-btn {
+  width: 100%;
+  cursor: pointer;
+  margin-right: 0.25em;
+  margin-top: 0.5em;
+  padding: 0.938em;
+  border: none;
+  border-radius: 4px;
+  background-color: #2a2a74;
+  color: #fefefe;
+}
+
+.login .signup-btn:hover {
+  background-color: #606483;
+  color: #fefefe;
+}
+
+.login .loginback-btn {
+  /* min-width: 100%; */
+  width: 100%;
+  cursor: pointer;
+  margin-right: 0.25em;
+  margin-top: 0.5em;
+  padding: 0.938em;
+  border: none;
+  border-radius: 4px;
+  background-color: #515199;
+  color: #fefefe;
+}
+
+.login .loginback-btn:hover {
+  background-color: #7b82b1;
+  color: #fefefe;
+}
+
+.error {
+  color: #db2269;
+  font-size: 0.5em;
+  display: relative;
+}
+
+.userid,
+.password {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+.submit {
+  width: 100%;
+  color: #fff;
+  display: flex;
+  justify-content: space-around;
+  margin: 10px 0 10px 0;
+}
+
+.logbox {
+  width: 100%;
+  padding: 12px;
+}
+
+/* widget */
+.homeActions .adminActions {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+}
+
+.homeActions .adminButton {
+  height: 60px;
+  width: 60px;
+  background-color: rgba(67, 83, 143, 0.8);
+  border-radius: 50%;
+  display: block;
+  color: #fff;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+.homeActions .adminButton i {
+  font-size: 22px;
+}
+
+.homeActions .adminButtons {
+  position: absolute;
+  width: 100%;
+  bottom: 120%;
+  text-align: center;
+}
+
+.homeActions .adminButtons a {
+  display: block;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  text-decoration: none;
+  margin: 10px auto 0;
+  line-height: 1.15;
+  color: #fff;
+  opacity: 0;
+  visibility: hidden;
+  position: relative;
+  box-shadow: 0 0 5px 1px rgba(51, 51, 51, 0.3);
+}
+
+.homeActions .adminButtons a:hover {
+  transform: scale(1.05);
+}
+
+.homeActions .adminButtons a:nth-child(1) {
+  background-color: #e637e6;
+  transition: opacity 0.2s ease-in-out 0.3s, transform 0.15s ease-in-out;
+}
+
+.homeActions .adminButtons a:nth-child(2) {
+  background-color: #03a9f4;
+  transition: opacity 0.2s ease-in-out 0.25s, transform 0.15s ease-in-out;
+}
+
+.homeActions .adminButtons a:nth-child(3) {
+  background-color: #4caf50;
+  transition: opacity 0.2s ease-in-out 0.15s, transform 0.15s ease-in-out;
+}
+
+.homeActions .adminActions a i {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.homeActions .adminToggle {
+  -webkit-appearance: none;
+  position: absolute;
+  border-radius: 50%;
+  top: 0;
+  left: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  z-index: 2;
+  transition: box-shadow 0.2s ease-in-out;
+  box-shadow: 0 3px 5px 1px rgba(51, 51, 51, 0.3);
+}
+
+.homeActions .adminToggle:hover {
+  box-shadow: 0 3px 6px 2px rgba(51, 51, 51, 0.3);
+}
+
+.homeActions .adminToggle:checked ~ .adminButtons a {
+  opacity: 1;
+  visibility: visible;
+}
+
+.homeActions .gototop-btn {
+  color: #ffffff;
+}
+
+.homeActions .logout-btn {
+  color: #ffffff;
+}
+
+.loginActions .adminActions {
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+}
+
+.loginActions .adminButton {
+  height: 60px;
+  width: 60px;
+  background-color: rgba(67, 83, 143, 0.8);
+  border-radius: 50%;
+  display: block;
+  color: #fff;
+  text-align: center;
+  position: relative;
+  z-index: 1;
+}
+
+.loginActions .adminButton i {
+  font-size: 22px;
+}
+
+.loginActions .adminButtons {
+  position: absolute;
+  width: 100%;
+  bottom: 120%;
+  text-align: center;
+}
+
+.loginActions .adminButtons a {
+  display: block;
+  width: 45px;
+  height: 45px;
+  border-radius: 50%;
+  text-decoration: none;
+  margin: 10px auto 0;
+  line-height: 1.15;
+  color: #fff;
+  opacity: 0;
+  visibility: hidden;
+  position: relative;
+  box-shadow: 0 0 5px 1px rgba(51, 51, 51, 0.3);
+}
+
+.loginActions .adminButtons a:hover {
+  transform: scale(1.05);
+}
+
+.loginActions .adminButtons a:nth-child(1) {
+  background-color: #e637e6;
+  transition: opacity 0.2s ease-in-out 0.3s, transform 0.15s ease-in-out;
+}
+
+.loginActions .adminButtons a:nth-child(2) {
+  background-color: #03a9f4;
+  transition: opacity 0.2s ease-in-out 0.25s, transform 0.15s ease-in-out;
+}
+
+.loginActions .adminButtons a:nth-child(3) {
+  background-color: #4caf50;
+  transition: opacity 0.2s ease-in-out 0.15s, transform 0.15s ease-in-out;
+}
+
+.loginActions .adminActions a i {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.loginActions .adminToggle {
+  -webkit-appearance: none;
+  position: absolute;
+  border-radius: 50%;
+  top: 0;
+  left: 0;
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  z-index: 2;
+  transition: box-shadow 0.2s ease-in-out;
+  box-shadow: 0 3px 5px 1px rgba(51, 51, 51, 0.3);
+}
+
+.loginActions .adminToggle:hover {
+  box-shadow: 0 3px 6px 2px rgba(51, 51, 51, 0.3);
+}
+
+.loginActions .adminToggle:checked ~ .adminButtons a {
+  opacity: 1;
+  visibility: visible;
+}
+
+.loginActions .gototop-btn {
+  color: #ffffff;
+}
+
+.loginActions .gototop-btn {
+  color: #ffffff;
+}
+
+/* /////////////////////////////////////////////////// */
+.img-box {
+  height: 22vmax;
+  position: relative;
+  margin-bottom: 8%;
+}
+
+.img-box::before {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  content: '';
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.img-border {
+  position: absolute;
+  top: 3%;
+  right: 2%;
+  bottom: 3%;
+  left: 2%;
+  content: '';
+
+  border-color: white;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.img-box img {
+  width: 100%;
+  height: 100%;
+}
+
+.img-title {
+  position: absolute;
+  top: 35%;
+  text-align: center;
+  width: 100%;
+  color: #ffffff;
+  font-family: 'MapoDPPA';
+  font-size: 4vmin;
+}
+
+.img-content {
+  position: absolute;
+  top: 60%;
+  text-align: center;
+  width: 100%;
+  color: #ffffff;
+  font-family: 'MapoDPPA';
+  font-size: 3.2vmin;
+}
+
+.logobox {
+  height: 8vmax;
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-bottom: 8%;
+}
+
+.logobox img {
+  /* display: block; */
+  height: 100%;
+  width: auto;
+  float: left;
+}
+
+.logotitle {
+  height: 100%;
+
+  display: flex;
+  align-items: center;
+  font-size: 3.3vmax;
+}
+
+.logotitle span {
+  font-family: 'MapoDPPA';
+}
+
+.intro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-bottom: 8%;
+  font-family: 'NanumBarunpen';
+  font-size: 1.3vmax;
+}
+
+.oddbox img,
+.evenbox img {
+  filter: brightness(90%);
+
+  height: 9vmax;
+
+  position: relative;
+  /* z-index: 10; */
+}
+
+.titleback1 {
+  background-color: #dce3ef;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+
+  font-family: 'MapoDPPA';
+  font-size: 2vmax;
+}
+
+.titleback2 {
+  background-color: #b9cde3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+
+  font-family: 'MapoDPPA';
+  font-size: 2vmax;
+}
+
+.titleback3 {
+  background-color: #9ab4d4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+
+  font-family: 'MapoDPPA';
+  font-size: 2vmax;
+}
+
+.titleback4 {
+  background-color: #899dbd;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+
+  font-family: 'MapoDPPA';
+  font-size: 2vmax;
+}
+
+.fas {
+  vertical-align: middle;
+}
+
+.fa {
+  vertical-align: middle;
+}

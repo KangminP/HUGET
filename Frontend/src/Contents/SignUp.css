@@ -1,0 +1,84 @@
+.regibox {
+  padding: 12px;
+  font-family: 'NanumBarunpen';
+}
+
+@media (min-width: 700px) {
+  .regibox {
+    width: 700px;
+  }
+}
+
+@media (min-width: 600px) and (max-width: 699px) {
+  .regibox {
+    width: 580px;
+  }
+}
+
+@media (min-width: 500px) and (max-width: 599px) {
+  .regibox {
+    width: 500px;
+  }
+}
+
+@media (min-width: 400px) and (max-width: 499px) {
+  .regibox {
+    width: 400px;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 399px) {
+  .regibox {
+    width: 320px;
+  }
+}
+
+@media (max-width: 299px) {
+  .regibox {
+    width: 280px;
+  }
+}
+
+.form-group {
+  width: 100%;
+}
+
+.create-btn {
+  /* min-width: 100%; */
+  width: 100%;
+  cursor: pointer;
+  margin-right: 0.25em;
+  margin-top: 0.5em;
+  padding: 0.938em;
+  border: none;
+  border-radius: 4px;
+  background-color: #22223b;
+  color: #fefefe;
+
+  /* margin: 20px 0 10px 0; */
+}
+
+.create-btn:hover {
+  background-color: #4a4e69;
+  color: #fefefe;
+}
+
+.regiback-btn {
+  /* min-width: 100%; */
+  width: 100%;
+  cursor: pointer;
+  margin-right: 0.25em;
+  margin-top: 0.5em;
+  padding: 0.938em;
+  border: none;
+  border-radius: 4px;
+  background-color: #515199;
+  color: #fefefe;
+
+  /* margin: 20px 0 10px 0; */
+}
+
+.regiback-btn:hover {
+  background-color: #7b82b1;
+  color: #fefefe;
+}

@@ -1,0 +1,4062 @@
+[
+  {
+    "model": "defaults.Rest",
+    "pk": 0,
+    "fields": {
+      "rest_name": "서울만남(부산)",
+      "rest_address": "서울 서초구 원지동10-16",
+      "rest_tel": "02-578-3372",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["127.039722", "37.4601323"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 1,
+    "fields": {
+      "rest_name": "기흥(부산)",
+      "rest_address": "경기 용인시 기흥구공세로 173 기흥휴게소",
+      "rest_tel": "031-286-5001",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["127.10519", "37.23509"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 2,
+    "fields": {
+      "rest_name": "안성(부산)",
+      "rest_address": "경기 안성시 원곡면경부고속도로 365",
+      "rest_tel": "031-655-0531",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["127.13152", "37.076769"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 1,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 3,
+    "fields": {
+      "rest_name": "망향(부산)",
+      "rest_address": "충남 천안시 성거읍요방리 121",
+      "rest_tel": "041-557-4000",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["127.181609", "36.855309"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 1,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 4,
+    "fields": {
+      "rest_name": "옥산(부산)",
+      "rest_address": "충북 청원군 옥산면오산리 589-15",
+      "rest_tel": "043-260-1053",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["127.37072", "36.6572"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 1,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 5,
+    "fields": {
+      "rest_name": "천안호두(부산)",
+      "rest_address": "충남 천안시 수신면신풍리 447-3",
+      "rest_tel": "041-552-4560",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["127.26427", "36.73053"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 6,
+    "fields": {
+      "rest_name": "죽암(부산)",
+      "rest_address": "충북 청원군 현도면선동1길 40-58",
+      "rest_tel": "043-269-0850",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["127.42972", "36.48664"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 7,
+    "fields": {
+      "rest_name": "금강(부산)",
+      "rest_address": "충북 옥천군 동이면조령리 568",
+      "rest_tel": "043-731-2233",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["127.67105", "36.279039"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 1,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 8,
+    "fields": {
+      "rest_name": "황간(부산)",
+      "rest_address": "충북 영동군 황간면회포리 103-2",
+      "rest_tel": "043-742-5805",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["127.8532", "36.24885"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 9,
+    "fields": {
+      "rest_name": "추풍령(부산)",
+      "rest_address": "경북 김천시 봉산면광천리 691",
+      "rest_tel": "054-430-2000",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["128.00092", "36.20045"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 10,
+    "fields": {
+      "rest_name": "평사(부산)",
+      "rest_address": "경북 경산시 진량읍경부고속도로105",
+      "rest_tel": "053-852-8651",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["128.866989", "35.88575"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 1,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 11,
+    "fields": {
+      "rest_name": "칠곡(부산)",
+      "rest_address": "경북 칠곡군 왜관읍아곡리(경부고속도로) 159",
+      "rest_tel": "054-975-2277",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["128.42938", "36.019549"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 12,
+    "fields": {
+      "rest_name": "건천(부산)",
+      "rest_address": "경북 경주시 건천읍방내리 14",
+      "rest_tel": "054-751-6890",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["129.109468", "35.83027"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 13,
+    "fields": {
+      "rest_name": "언양(부산)",
+      "rest_address": "울산광역시 울주군 언양읍태기리 684-1",
+      "rest_tel": "055-383-6145",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["129.1380839", "35.5959093"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 14,
+    "fields": {
+      "rest_name": "옥천(부산)",
+      "rest_address": "충북 옥천군 옥천읍매화리 236-16",
+      "rest_tel": "043-731-8521",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["127.59546", "36.29743"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 15,
+    "fields": {
+      "rest_name": "경주(부산)",
+      "rest_address": "경북 경주시 내남면월산리",
+      "rest_tel": "054-748-3195",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["129.19315", "35.72387"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 16,
+    "fields": {
+      "rest_name": "김천(부산)",
+      "rest_address": "경북 김천시 농소면신촌리 730-2",
+      "rest_tel": "054-435-0211",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["128.1565488", "36.129147"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 17,
+    "fields": {
+      "rest_name": "옥천만남의광장",
+      "rest_address": "충북 옥천군 옥천읍중앙로 135",
+      "rest_tel": "043-732-0081",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["127.5719062", "36.30870506"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 1,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 18,
+    "fields": {
+      "rest_name": "죽전(서울)",
+      "rest_address": "경기 용인시 죽전2동866-2 ",
+      "rest_tel": "031-262-3168",
+      "rest_high": "경부선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["127.10433", "37.33263"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 19,
+    "fields": {
+      "rest_name": "안성(서울)",
+      "rest_address": "경기도 안성군 원곡면산하리 경부고속도로 372",
+      "rest_tel": "031-611-5793",
+      "rest_high": "경부선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["127.14498", "37.01386"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 20,
+    "fields": {
+      "rest_name": "천안삼거리(서울)",
+      "rest_address": "충남 천안시 구성동171",
+      "rest_tel": "041-551-2480",
+      "rest_high": "경부선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["127.17292", "36.78765"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 1,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 1,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 21,
+    "fields": {
+      "rest_name": "죽암(서울)",
+      "rest_address": "충북 청원군 현도면죽전리 314",
+      "rest_tel": "043-260-8035",
+      "rest_high": "경부선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["127.43043", "36.496849"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 22,
+    "fields": {
+      "rest_name": "옥천(서울)",
+      "rest_address": "충북 옥천군 옥천읍매화리(옥천동이로) 옥천동이로 242-34",
+      "rest_tel": "043-731-8097",
+      "rest_high": "경부선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["127.598739", "36.2974"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 23,
+    "fields": {
+      "rest_name": "황간(서울)",
+      "rest_address": "충북 영동군 황간면회포리 114",
+      "rest_tel": "043-742-7633",
+      "rest_high": "경부선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["127.85449", "36.24897"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 24,
+    "fields": {
+      "rest_name": "입장거봉포도(서울)",
+      "rest_address": "충남 천안시 입장면가산리 361-7",
+      "rest_tel": "041-588-7868",
+      "rest_high": "경부선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["127.192309", "36.942319"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 25,
+    "fields": {
+      "rest_name": "추풍령(서울)",
+      "rest_address": "경북 김천시 봉산면광천리 737-1",
+      "rest_tel": "054-439-3187",
+      "rest_high": "경부선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["128.002749", "36.19983"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 26,
+    "fields": {
+      "rest_name": "칠곡(서울)",
+      "rest_address": "경북 칠곡군 왜관읍아곡리 138",
+      "rest_tel": "054-975-1883",
+      "rest_high": "경부선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["128.43028", "36.01224"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 27,
+    "fields": {
+      "rest_name": "경산(서울)",
+      "rest_address": "경북 경산시 진량면신상리 995-3",
+      "rest_tel": "053-852-5243",
+      "rest_high": "경부선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["128.81038", "35.87871"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 28,
+    "fields": {
+      "rest_name": "건천(서울)",
+      "rest_address": "경북 경주시 건천읍금척리 683-2",
+      "rest_tel": "054-751-7401",
+      "rest_high": "경부선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["129.109214", "35.831545"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 29,
+    "fields": {
+      "rest_name": "언양(서울)",
+      "rest_address": "울산광역시 울주군 언양읍반곡리 966-14",
+      "rest_tel": "052-263-6153",
+      "rest_high": "경부선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["129.141534", "35.598051"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 1,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 30,
+    "fields": {
+      "rest_name": "신탄진(서울)",
+      "rest_address": "대전시 대덕구 상서동236-1",
+      "rest_tel": "042-934-2442",
+      "rest_high": "경부선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["127.4174485", "36.4282738"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 31,
+    "fields": {
+      "rest_name": "청주(서울)",
+      "rest_address": "충북 청원군 옥산면 장남리284-16",
+      "rest_tel": "043-237-1700",
+      "rest_high": "경부선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["127.3473667", "36.7158981"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 32,
+    "fields": {
+      "rest_name": "양산(서울)",
+      "rest_address": "경남 양산시 동면 내송리788번지",
+      "rest_tel": "055-384-0144",
+      "rest_high": "경부선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["129.056701", "35.3233415"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 33,
+    "fields": {
+      "rest_name": "김천(서울)",
+      "rest_address": "경북 김천시 농소면신촌리 728-1",
+      "rest_tel": "054-433-1523",
+      "rest_high": "경부선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["128.1617902", "36.1309523"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 34,
+    "fields": {
+      "rest_name": "섬진강(부산)",
+      "rest_address": "전남 광양시 진월면신아리 1192-1",
+      "rest_tel": "061-772-7986",
+      "rest_high": "남해선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["127.77011", "34.98476"],
+      "rest_tmap": "남해선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 35,
+    "fields": {
+      "rest_name": "진영(부산)",
+      "rest_address": "경남 김해시 진영읍우동리(하계로96번길)94-4",
+      "rest_tel": "055-342-3236",
+      "rest_high": "남해선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["128.7158", "35.278349"],
+      "rest_tmap": "남해선",
+      "rest_feeding": 1,
+      "rest_sleep": 0,
+      "rest_shower": 1,
+      "rest_laundary": 1,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 36,
+    "fields": {
+      "rest_name": "사천(부산)",
+      "rest_address": "경남 사천시 곤양면묵곡리(서삼로) 619번길",
+      "rest_tel": "055-854-3134",
+      "rest_high": "남해선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["128.010879", "35.0736"],
+      "rest_tmap": "남해선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 37,
+    "fields": {
+      "rest_name": "진주(부산)",
+      "rest_address": "경남 진주시 호탄동382 외 62필지",
+      "rest_tel": "055-759-3205",
+      "rest_high": "남해선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["128.1220051", "35.1595244"],
+      "rest_tmap": "남해선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 38,
+    "fields": {
+      "rest_name": "함안(부산)",
+      "rest_address": "경남 함안군 군북면유현리 산 993-6",
+      "rest_tel": "055-582-2191",
+      "rest_high": "남해선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["128.3436779", "35.2943804"],
+      "rest_tmap": "남해선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 39,
+    "fields": {
+      "rest_name": "보성녹차(영암)",
+      "rest_address": "전남 보성군 미력면화방리 산 196-7",
+      "rest_tel": "070-4325-8801",
+      "rest_high": "남해선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["127.1327444", "34.8165895"],
+      "rest_tmap": "남해선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 40,
+    "fields": {
+      "rest_name": "섬진강(순천)",
+      "rest_address": "전남 광양시 진월면신아리 1192-1",
+      "rest_tel": "061-772-7993",
+      "rest_high": "남해선",
+      "rest_highdirect": "순천",
+      "rest_coordinate": ["127.76938", "34.985209"],
+      "rest_tmap": "남해선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 41,
+    "fields": {
+      "rest_name": "진영(순천)",
+      "rest_address": "경남 김해시 진영읍우동리 289-1",
+      "rest_tel": "055-342-3959",
+      "rest_high": "남해선",
+      "rest_highdirect": "순천",
+      "rest_coordinate": ["128.71605", "35.27963"],
+      "rest_tmap": "남해선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 42,
+    "fields": {
+      "rest_name": "문산(순천)",
+      "rest_address": "경남 진주시 문산읍소문리 968-2",
+      "rest_tel": "055-761-2820",
+      "rest_high": "남해선",
+      "rest_highdirect": "순천",
+      "rest_coordinate": ["128.152279", "35.17147"],
+      "rest_tmap": "남해선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 43,
+    "fields": {
+      "rest_name": "사천(순천)",
+      "rest_address": "경남 사천시 곤양면묵곡리 산171-31",
+      "rest_tel": "055-854-3547",
+      "rest_high": "남해선",
+      "rest_highdirect": "순천",
+      "rest_coordinate": ["128.01262", "35.074639"],
+      "rest_tmap": "남해선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 44,
+    "fields": {
+      "rest_name": "함안(순천)",
+      "rest_address": "경남 함안군 군북면유현리 산 993-1",
+      "rest_tel": "055-582-5470",
+      "rest_high": "남해선",
+      "rest_highdirect": "순천",
+      "rest_coordinate": ["128.3436779", "35.2943804"],
+      "rest_tmap": "남해선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 45,
+    "fields": {
+      "rest_name": "보성녹차(순천)",
+      "rest_address": "전남 보성군 겸백면수남리 385-3",
+      "rest_tel": "070-4325-8808",
+      "rest_high": "남해선",
+      "rest_highdirect": "순천",
+      "rest_coordinate": ["127.1810177", "34.8072815"],
+      "rest_tmap": "남해선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 46,
+    "fields": {
+      "rest_name": "논공(대구)",
+      "rest_address": "대구 달성군 논공읍삼리 462-1",
+      "rest_tel": "070-4304-0620",
+      "rest_high": "광주대구선",
+      "rest_highdirect": "대구",
+      "rest_coordinate": ["128.4009873", "35.7661116"],
+      "rest_tmap": "광주대구선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 47,
+    "fields": {
+      "rest_name": "논공(광주)",
+      "rest_address": "대구광역시 달성군 논공읍삼리리 458-5",
+      "rest_tel": "070-4304-0600",
+      "rest_high": "광주대구선",
+      "rest_highdirect": "광주",
+      "rest_coordinate": ["128.4009873", "35.7661116"],
+      "rest_tmap": "광주대구선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 48,
+    "fields": {
+      "rest_name": "함평나비(광주)",
+      "rest_address": "전남 함평군 엄다면화양리 산10-3번지",
+      "rest_tel": "061-324-8840",
+      "rest_high": "무안광주선",
+      "rest_highdirect": "광주",
+      "rest_coordinate": ["126.51149", "35.03763"],
+      "rest_tmap": "무안광주선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 49,
+    "fields": {
+      "rest_name": "함평나비(무안)",
+      "rest_address": "전남 함평군 엄다면화양리 1025-3번지",
+      "rest_tel": "061-324-8858",
+      "rest_high": "무안광주선",
+      "rest_highdirect": "무안",
+      "rest_coordinate": ["126.50903", "35.03789"],
+      "rest_tmap": "무안광주선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 50,
+    "fields": {
+      "rest_name": "지리산(대구)",
+      "rest_address": "전북 남원시 아영면아곡리 산83",
+      "rest_tel": "063-636-7191",
+      "rest_high": "광주대구선",
+      "rest_highdirect": "대구",
+      "rest_coordinate": ["127.56746", "35.48363"],
+      "rest_tmap": "광주대구선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 51,
+    "fields": {
+      "rest_name": "거창(대구)",
+      "rest_address": "경남 거창군 가조면도리 산181",
+      "rest_tel": "055-943-9534",
+      "rest_high": "광주대구선",
+      "rest_highdirect": "대구",
+      "rest_coordinate": ["128.057079", "35.70811"],
+      "rest_tmap": "광주대구선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 52,
+    "fields": {
+      "rest_name": "강천산(대구)",
+      "rest_address": "전라북도 순창군 순창읍 88올림픽고속도로 22(백산리 927-1)",
+      "rest_tel": "063-653-3050",
+      "rest_high": "광주대구선",
+      "rest_highdirect": "대구",
+      "rest_coordinate": ["127.10588", "35.36544"],
+      "rest_tmap": "광주대구선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 53,
+    "fields": {
+      "rest_name": "지리산(광주)",
+      "rest_address": "전북 남원시 아영면아곡리 79-1",
+      "rest_tel": "063-636-7195",
+      "rest_high": "광주대구선",
+      "rest_highdirect": "광주",
+      "rest_coordinate": ["127.5671", "35.48121"],
+      "rest_tmap": "광주대구선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 54,
+    "fields": {
+      "rest_name": "거창(광주)",
+      "rest_address": "경남 거창군 가조면도리(가조가야로)",
+      "rest_tel": "055-943-0992",
+      "rest_high": "광주대구선",
+      "rest_highdirect": "광주",
+      "rest_coordinate": ["128.05694", "35.70607"],
+      "rest_tmap": "광주대구선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 55,
+    "fields": {
+      "rest_name": "강천산(광주)",
+      "rest_address": "전북 순창군 순창읍광주대구고속도로 27",
+      "rest_tel": "063-653-4033",
+      "rest_high": "광주대구선",
+      "rest_highdirect": "광주",
+      "rest_coordinate": ["127.10437", "35.36436"],
+      "rest_tmap": "광주대구선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 56,
+    "fields": {
+      "rest_name": "화성(목포)",
+      "rest_address": "경기도 화성군 팔탄면덕천리 102-1",
+      "rest_tel": "031-353-8140",
+      "rest_high": "서해안선",
+      "rest_highdirect": "목포",
+      "rest_coordinate": ["126.8794", "37.14546"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 57,
+    "fields": {
+      "rest_name": "행담도",
+      "rest_address": "충남 당진군 신평면매산리 513",
+      "rest_tel": "041-358-0700",
+      "rest_high": "서해안선",
+      "rest_highdirect": "목포",
+      "rest_coordinate": ["126.808669", "36.94453"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 1,
+      "rest_fix": 1,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 58,
+    "fields": {
+      "rest_name": "대천(목포)",
+      "rest_address": "충남 보령시 주교면주교리 933-5",
+      "rest_tel": "041-931-6901",
+      "rest_high": "서해안선",
+      "rest_highdirect": "목포",
+      "rest_coordinate": ["126.55629", "36.37321"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 59,
+    "fields": {
+      "rest_name": "서산(목포)",
+      "rest_address": "충청남도 서산시 해미면삼송리 119",
+      "rest_tel": "041-688-8814",
+      "rest_high": "서해안선",
+      "rest_highdirect": "목포",
+      "rest_coordinate": ["126.56563", "36.74287"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 60,
+    "fields": {
+      "rest_name": "군산(목포)",
+      "rest_address": "전라북도 군산시 성산면산곡리 산1",
+      "rest_tel": "063-453-0402",
+      "rest_high": "서해안선",
+      "rest_highdirect": "목포",
+      "rest_coordinate": ["126.8293", "35.98109"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 1,
+      "rest_sleep": 0,
+      "rest_shower": 1,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 61,
+    "fields": {
+      "rest_name": "고창고인돌(목포)",
+      "rest_address": "전북 고창군 신림면벽송리 557-10",
+      "rest_tel": "063-561-6313",
+      "rest_high": "서해안선",
+      "rest_highdirect": "목포",
+      "rest_coordinate": ["126.6738432", "35.468627"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 62,
+    "fields": {
+      "rest_name": "함평천지(목포)",
+      "rest_address": "전남 함평군 함평읍장교리 산112-13",
+      "rest_tel": "061-323-3751",
+      "rest_high": "서해안선",
+      "rest_highdirect": "목포",
+      "rest_coordinate": ["126.47877", "35.06953"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 63,
+    "fields": {
+      "rest_name": "홍성(목포)",
+      "rest_address": "충남 홍성군 은하면금국리 292-3",
+      "rest_tel": "041-642-1151",
+      "rest_high": "서해안선",
+      "rest_highdirect": "목포",
+      "rest_coordinate": ["126.57996", "36.55274"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 64,
+    "fields": {
+      "rest_name": "서천(목포)",
+      "rest_address": "충남 서천군 비인면서해안고속도로169(성산리)",
+      "rest_tel": "041-952-5757",
+      "rest_high": "서해안선",
+      "rest_highdirect": "목포",
+      "rest_coordinate": ["126.6267", "36.12992"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 65,
+    "fields": {
+      "rest_name": "화성(서울)",
+      "rest_address": "경기도 화성군 팔탄면덕천리 102-3",
+      "rest_tel": "031-353-8143",
+      "rest_high": "서해안선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["126.88073", "37.14337"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 66,
+    "fields": {
+      "rest_name": "행담도",
+      "rest_address": "충남 당진군 신평면매산리 513",
+      "rest_tel": "041-358-0700",
+      "rest_high": "서해안선",
+      "rest_highdirect": "목포",
+      "rest_coordinate": ["126.808669", "36.94453"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 67,
+    "fields": {
+      "rest_name": "대천(서울)",
+      "rest_address": "충남 보령시 주교면주교리 904-34",
+      "rest_tel": "041-931-6801",
+      "rest_high": "서해안선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["126.55769", "36.37412"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 68,
+    "fields": {
+      "rest_name": "서산(서울)",
+      "rest_address": "충청남도 서산시 해미면삼송리 산46-2",
+      "rest_tel": "041-688-7714",
+      "rest_high": "서해안선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["126.56565", "36.733779"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 69,
+    "fields": {
+      "rest_name": "군산(서울)",
+      "rest_address": "전북 군산시 나포면서해안고속도로 3182",
+      "rest_tel": "063-453-2818",
+      "rest_high": "서해안선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["126.79705", "36.01883"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 70,
+    "fields": {
+      "rest_name": "고창고인돌(서울)",
+      "rest_address": "전북 고창군 고창읍신월리 66-1",
+      "rest_tel": "063-561-6323",
+      "rest_high": "서해안선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["126.6690285", "35.4618757"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 71,
+    "fields": {
+      "rest_name": "함평천지(서울)",
+      "rest_address": "전라남도 함평군 손불면죽암리 29-1",
+      "rest_tel": "061-323-3641",
+      "rest_high": "서해안선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["126.48164", "35.1308"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 72,
+    "fields": {
+      "rest_name": "홍성(서울)",
+      "rest_address": "경기 이천시 부발읍아미리",
+      "rest_tel": "041-642-1172",
+      "rest_high": "서해안선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["126.58152", "36.553039"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 73,
+    "fields": {
+      "rest_name": "서천(서울)",
+      "rest_address": "충남 서천군 비인면성산리 22-4",
+      "rest_tel": "041-952-9700",
+      "rest_high": "서해안선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["126.62743", "36.13145"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 74,
+    "fields": {
+      "rest_name": "목감(서울)",
+      "rest_address": "경기 시흥시 목감동125 외9필지",
+      "rest_tel": "031-411-0590",
+      "rest_high": "서해안선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["126.86988", "37.389401"],
+      "rest_tmap": "서해안선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 75,
+    "fields": {
+      "rest_name": "진안마이산(익산)",
+      "rest_address": "전북 진안군 진안읍단양리 171-110",
+      "rest_tel": "063-432-1380",
+      "rest_high": "익산장수선",
+      "rest_highdirect": "익산",
+      "rest_coordinate": ["127.424422", "35.7748538"],
+      "rest_tmap": "익산장수선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 76,
+    "fields": {
+      "rest_name": "진안마이산(장수)",
+      "rest_address": "전북 진안군 진안읍단양리 333-75",
+      "rest_tel": "063-432-6350",
+      "rest_high": "익산장수선",
+      "rest_highdirect": "장수",
+      "rest_coordinate": ["127.424422", "35.7748538"],
+      "rest_tmap": "익산장수선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 77,
+    "fields": {
+      "rest_name": "영천(대구)",
+      "rest_address": "경북 영천시 임고면금대리 99",
+      "rest_tel": "054-338-0037",
+      "rest_high": "대구포항선",
+      "rest_highdirect": "대구",
+      "rest_coordinate": ["129.04502", "36.05245"],
+      "rest_tmap": "대구포항선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 78,
+    "fields": {
+      "rest_name": "청통(대구)",
+      "rest_address": "경북 영천시 청통면우천리 산 160-4",
+      "rest_tel": "054-337-5009",
+      "rest_high": "대구포항선",
+      "rest_highdirect": "대구",
+      "rest_coordinate": ["128.85969", "35.99364"],
+      "rest_tmap": "대구포항선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 79,
+    "fields": {
+      "rest_name": "영천(포항)",
+      "rest_address": "경북 영천시 임고면금대리 103",
+      "rest_tel": "054-338-0062",
+      "rest_high": "대구포항선",
+      "rest_highdirect": "포항",
+      "rest_coordinate": ["129.04225", "36.05199"],
+      "rest_tmap": "대구포항선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 80,
+    "fields": {
+      "rest_name": "와촌(포항)",
+      "rest_address": "경북 경산시 와촌면강학리 산71-1 외 14필지",
+      "rest_tel": "053-853-1002",
+      "rest_high": "대구포항선",
+      "rest_highdirect": "포항",
+      "rest_coordinate": ["128.7737809", "35.9518729"],
+      "rest_tmap": "대구포항선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 81,
+    "fields": {
+      "rest_name": "여산(천안)",
+      "rest_address": "전북 익산시 여산면호산리 24-1",
+      "rest_tel": "063-836-5168",
+      "rest_high": "호남선",
+      "rest_highdirect": "논산",
+      "rest_coordinate": ["127.10439", "36.048559"],
+      "rest_tmap": "호남선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 82,
+    "fields": {
+      "rest_name": "정읍녹두장군(천안)",
+      "rest_address": "전북 정읍시 북면남산리 20-5",
+      "rest_tel": "063-532-2373",
+      "rest_high": "호남선",
+      "rest_highdirect": "논산",
+      "rest_coordinate": ["126.86387", "35.60059"],
+      "rest_tmap": "호남선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 83,
+    "fields": {
+      "rest_name": "곡성(천안)",
+      "rest_address": "전남 곡성군 겸면가정리 347",
+      "rest_tel": "061-362-8300",
+      "rest_high": "호남선",
+      "rest_highdirect": "논산",
+      "rest_coordinate": ["127.15246", "35.25913"],
+      "rest_tmap": "호남선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 84,
+    "fields": {
+      "rest_name": "백양사(천안)",
+      "rest_address": "전라남도 장성군 북일면 호남고속도로 108 (백양사휴게소(상행))박산리 158",
+      "rest_tel": "061-394-5177",
+      "rest_high": "호남선",
+      "rest_highdirect": "논산",
+      "rest_coordinate": ["126.80698", "35.39309"],
+      "rest_tmap": "호남선",
+      "rest_feeding": 1,
+      "rest_sleep": 0,
+      "rest_shower": 1,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 85,
+    "fields": {
+      "rest_name": "주암(천안)",
+      "rest_address": "전남 순천시 주암면고산리 57-4",
+      "rest_tel": "061-754-2432",
+      "rest_high": "호남선",
+      "rest_highdirect": "논산",
+      "rest_coordinate": ["127.26549", "35.07658"],
+      "rest_tmap": "호남선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 86,
+    "fields": {
+      "rest_name": "이서(천안)",
+      "rest_address": "서울 송파구 송파동185-5",
+      "rest_tel": "063-236-2592",
+      "rest_high": "호남선",
+      "rest_highdirect": "논산",
+      "rest_coordinate": ["127.0225782", "35.8028464"],
+      "rest_tmap": "호남선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 87,
+    "fields": {
+      "rest_name": "여산(순천)",
+      "rest_address": "전북 익산시 여산면호산리 32-6",
+      "rest_tel": "063-836-5280",
+      "rest_high": "호남선",
+      "rest_highdirect": "순천",
+      "rest_coordinate": ["127.10313", "36.04869"],
+      "rest_tmap": "호남선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 88,
+    "fields": {
+      "rest_name": "정읍녹두장군(순천)",
+      "rest_address": "전북 정읍시 북면남산리 19-1",
+      "rest_tel": "063-532-0510",
+      "rest_high": "호남선",
+      "rest_highdirect": "순천",
+      "rest_coordinate": ["126.8622", "35.60096"],
+      "rest_tmap": "호남선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 89,
+    "fields": {
+      "rest_name": "주암(순천)",
+      "rest_address": "전남 순천시 주암면고산리 252-2",
+      "rest_tel": "061-754-4980",
+      "rest_high": "호남선",
+      "rest_highdirect": "순천",
+      "rest_coordinate": ["127.26427", "35.07634"],
+      "rest_tmap": "호남선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 90,
+    "fields": {
+      "rest_name": "백양사(순천)",
+      "rest_address": "전라남도 장성군 북이면 호남고속도로 107 (백양사휴게소(하))",
+      "rest_tel": "061-394-9990",
+      "rest_high": "호남선",
+      "rest_highdirect": "순천",
+      "rest_coordinate": ["126.80577", "35.39445"],
+      "rest_tmap": "호남선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 91,
+    "fields": {
+      "rest_name": "곡성(순천)",
+      "rest_address": "전남 곡성군 겸면가정리 산96-6",
+      "rest_tel": "061-363-2766",
+      "rest_high": "호남선",
+      "rest_highdirect": "순천",
+      "rest_coordinate": ["127.15086", "35.25862"],
+      "rest_tmap": "호남선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 92,
+    "fields": {
+      "rest_name": "순천(순천)",
+      "rest_address": "전남 순천시 서면비월리 산169-2",
+      "rest_tel": "061-755-4982",
+      "rest_high": "호남선",
+      "rest_highdirect": "순천",
+      "rest_coordinate": ["127.44517", "35.0088"],
+      "rest_tmap": "호남선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 93,
+    "fields": {
+      "rest_name": "이서(순천)",
+      "rest_address": "서울 송파구 송파동185-5",
+      "rest_tel": "063-227-4114",
+      "rest_high": "호남선",
+      "rest_highdirect": "순천",
+      "rest_coordinate": ["127.0225782", "35.8028464"],
+      "rest_tmap": "호남선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 94,
+    "fields": {
+      "rest_name": "오수(순천)",
+      "rest_address": "전북 임실군 오수면오산리 675-18",
+      "rest_tel": "063-644-6116",
+      "rest_high": "순천완주선",
+      "rest_highdirect": "순천",
+      "rest_coordinate": ["127.3082441", "35.5405946"],
+      "rest_tmap": "순천완주선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 95,
+    "fields": {
+      "rest_name": "황전(순천)",
+      "rest_address": "전남 순천시 황전면선변리 560-7",
+      "rest_tel": "061-782-1135",
+      "rest_high": "순천완주선",
+      "rest_highdirect": "순천",
+      "rest_coordinate": ["127.4519504", "35.1488916"],
+      "rest_tmap": "순천완주선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 96,
+    "fields": {
+      "rest_name": "오수(완주)",
+      "rest_address": "전북 임실군 오수면대명리 83-16",
+      "rest_tel": "063-644-5115",
+      "rest_high": "순천완주선",
+      "rest_highdirect": "완주",
+      "rest_coordinate": ["127.3082441", "35.5405946"],
+      "rest_tmap": "순천완주선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 97,
+    "fields": {
+      "rest_name": "황전(완주)",
+      "rest_address": "전남 순천시 황전면선변리 595-7",
+      "rest_tel": "061-782-1154",
+      "rest_high": "순천완주선",
+      "rest_highdirect": "완주",
+      "rest_coordinate": ["127.4520389", "35.1512573"],
+      "rest_tmap": "순천완주선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 98,
+    "fields": {
+      "rest_name": "화서(영덕)",
+      "rest_address": "경북 상주시 화서면상용리 408",
+      "rest_tel": "054-531-1982",
+      "rest_high": "당진영덕선",
+      "rest_highdirect": "당진",
+      "rest_coordinate": ["127.92286", "36.44452"],
+      "rest_tmap": "당진영덕선",
+      "rest_feeding": 1,
+      "rest_sleep": 0,
+      "rest_shower": 1,
+      "rest_laundary": 1,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 99,
+    "fields": {
+      "rest_name": "공주(당진)",
+      "rest_address": "충남 공주시 의당면청룡리 65-16",
+      "rest_tel": "041-854-0050",
+      "rest_high": "당진영덕선",
+      "rest_highdirect": "당진",
+      "rest_coordinate": ["127.1650654", "36.4984673"],
+      "rest_tmap": "당진영덕선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 100,
+    "fields": {
+      "rest_name": "예산(당진)",
+      "rest_address": "충남 예산군 신양면서계양리 672-3",
+      "rest_tel": "041-335-0020",
+      "rest_high": "당진영덕선",
+      "rest_highdirect": "당진",
+      "rest_coordinate": ["126.8376503", "36.6194352"],
+      "rest_tmap": "당진영덕선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 101,
+    "fields": {
+      "rest_name": "의성(청주)",
+      "rest_address": "경북 의성군 안계면새못안길 45-49",
+      "rest_tel": "054-862-9076",
+      "rest_high": "당진영덕선",
+      "rest_highdirect": "당진",
+      "rest_coordinate": ["128.4447356", "36.4109239"],
+      "rest_tmap": "당진영덕선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 102,
+    "fields": {
+      "rest_name": "청송(청주)",
+      "rest_address": "경북 청송군 파천면중평병부길 203-92",
+      "rest_tel": "054-872-5910",
+      "rest_high": "당진영덕선",
+      "rest_highdirect": "당진",
+      "rest_coordinate": ["129.0120128", "36.4568305"],
+      "rest_tmap": "당진영덕선",
+      "rest_feeding": 1,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 103,
+    "fields": {
+      "rest_name": "속리산(청주)",
+      "rest_address": "충북 보은군 마로면적암리 180외 19필지",
+      "rest_tel": "043-544-1466",
+      "rest_high": "당진영덕선",
+      "rest_highdirect": "영덕",
+      "rest_coordinate": ["127.8668665", "36.4477136"],
+      "rest_tmap": "당진영덕선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 104,
+    "fields": {
+      "rest_name": "공주(대전)",
+      "rest_address": "충남 공주시 장기면송선리 320-3",
+      "rest_tel": "041-854-6060",
+      "rest_high": "당진영덕선",
+      "rest_highdirect": "영덕",
+      "rest_coordinate": ["127.1664327", "36.4967745"],
+      "rest_tmap": "당진영덕선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 105,
+    "fields": {
+      "rest_name": "예산(대전)",
+      "rest_address": "충남 예산군 신양면서계양리 662-28",
+      "rest_tel": "041-334-0094",
+      "rest_high": "당진영덕선",
+      "rest_highdirect": "영덕",
+      "rest_coordinate": ["126.840778", "36.6214179"],
+      "rest_tmap": "당진영덕선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 106,
+    "fields": {
+      "rest_name": "의성(영덕)",
+      "rest_address": "경북 의성군 안계면새못안길 45-47",
+      "rest_tel": "054-862-9252",
+      "rest_high": "당진영덕선",
+      "rest_highdirect": "영덕",
+      "rest_coordinate": ["128.4474819", "36.4092975"],
+      "rest_tmap": "당진영덕선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 107,
+    "fields": {
+      "rest_name": "청송(영덕)",
+      "rest_address": "경북 청송군 파천면중평병부길 203-115",
+      "rest_tel": "054-872-9101",
+      "rest_high": "당진영덕선",
+      "rest_highdirect": "영덕",
+      "rest_coordinate": ["129.0132755", "36.4554804"],
+      "rest_tmap": "당진영덕선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 108,
+    "fields": {
+      "rest_name": "함양(통영)",
+      "rest_address": "경남 함양군 지곡면보산리산40-1",
+      "rest_tel": "055-963-6717",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "통영",
+      "rest_coordinate": ["127.80459", "35.55079"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 109,
+    "fields": {
+      "rest_name": "함양(하남)",
+      "rest_address": "경남 함양군 지곡면보산리 278-6",
+      "rest_tel": "055-963-8001",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "하남",
+      "rest_coordinate": ["127.80651", "35.55186"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 110,
+    "fields": {
+      "rest_name": "산청(통영)",
+      "rest_address": "경남 산청군 단성면방목리 산68-7",
+      "rest_tel": "055-973-9036",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "통영",
+      "rest_coordinate": ["127.936959", "35.3311099"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 111,
+    "fields": {
+      "rest_name": "금산인삼랜드(통영)",
+      "rest_address": "충남 금산군 군북면외부리 718",
+      "rest_tel": "041-751-2892",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "통영",
+      "rest_coordinate": ["127.496628", "36.15265987"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 112,
+    "fields": {
+      "rest_name": "덕유산(통영)",
+      "rest_address": "전라북도 장수군 계북면통영대전고속도로 147",
+      "rest_tel": "063-353-5100",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "통영",
+      "rest_coordinate": ["127.64543", "35.81631"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 113,
+    "fields": {
+      "rest_name": "고성공룡나라(통영)",
+      "rest_address": "경남 고성군 대가면송계리 447-7번지",
+      "rest_tel": "055-674-7028",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "통영",
+      "rest_coordinate": ["128.262939", "35.05206"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 1,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 114,
+    "fields": {
+      "rest_name": "산청(대전)",
+      "rest_address": "경남 산청군 단성면방목리 산71-7",
+      "rest_tel": "055-973-5970",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "하남",
+      "rest_coordinate": ["127.9390505", "35.3334697"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 115,
+    "fields": {
+      "rest_name": "금산인삼랜드(대전)",
+      "rest_address": "충남 금산군 군북면대암길 34-30",
+      "rest_tel": "041-754-9200",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "하남",
+      "rest_coordinate": ["127.4977682", "36.15456234"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 116,
+    "fields": {
+      "rest_name": "덕유산(대전)",
+      "rest_address": "전라북도 무주군 안성면공진리 471",
+      "rest_tel": "063-353-4200",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "하남",
+      "rest_coordinate": ["127.64372", "35.8133"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 117,
+    "fields": {
+      "rest_name": "고성공룡나라(대전)",
+      "rest_address": "경남 고성군 대가면신전리 85번지",
+      "rest_tel": "055-674-0494",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "하남",
+      "rest_coordinate": ["128.25234", "35.05627"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 118,
+    "fields": {
+      "rest_name": "하남드림",
+      "rest_address": "경기 하남시 중부고속도로 117",
+      "rest_tel": "031-791-4200",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "통영",
+      "rest_coordinate": ["127.2038981", "37.5303154"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 119,
+    "fields": {
+      "rest_name": "이천(남이)",
+      "rest_address": "경기 이천시 마장면목리 142",
+      "rest_tel": "031-637-0987",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "통영",
+      "rest_coordinate": ["127.40347", "37.26511"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 120,
+    "fields": {
+      "rest_name": "오창(남이)",
+      "rest_address": "충북 청원군 오창면화산리 395-15",
+      "rest_tel": "043-217-1477",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "통영",
+      "rest_coordinate": ["127.4821", "36.758379"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 121,
+    "fields": {
+      "rest_name": "음성(남이)",
+      "rest_address": "충북 음성군 삼성면용성리 산44",
+      "rest_tel": "043-878-6410",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "통영",
+      "rest_coordinate": ["127.48151", "37.019529"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 122,
+    "fields": {
+      "rest_name": "마장",
+      "rest_address": "경기 이천시 마장면목리 산 13-32",
+      "rest_tel": "031-630-0001",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "통영",
+      "rest_coordinate": ["127.4078964", "37.2628324"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 123,
+    "fields": {
+      "rest_name": "이천(하남)",
+      "rest_address": "경기 이천시 신둔면용면리",
+      "rest_tel": "031-638-1117",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "하남",
+      "rest_coordinate": ["127.37832", "37.29341"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 1,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 124,
+    "fields": {
+      "rest_name": "오창(하남)",
+      "rest_address": "충북 청원군 오창면화산리 396-10",
+      "rest_tel": "043-217-8303",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "하남",
+      "rest_coordinate": ["127.48146", "36.75662"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 125,
+    "fields": {
+      "rest_name": "음성(하남)",
+      "rest_address": "충북 음성군 삼성면양덕리 100-1",
+      "rest_tel": "043-878-6403",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "하남",
+      "rest_coordinate": ["127.48376", "37.02198"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 126,
+    "fields": {
+      "rest_name": "마장",
+      "rest_address": "경기 이천시 마장면목리 산 13-32",
+      "rest_tel": "031-630-0001",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "통영",
+      "rest_coordinate": ["127.4078964", "37.2628324"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 127,
+    "fields": {
+      "rest_name": "안성맞춤(제천)",
+      "rest_address": "경기 안성시 서운면신능리 51-11 외 29필지",
+      "rest_tel": "031-674-4406",
+      "rest_high": "평택제천선",
+      "rest_highdirect": "제천",
+      "rest_coordinate": ["127.2741", "36.96821"],
+      "rest_tmap": "평택제천선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 128,
+    "fields": {
+      "rest_name": "금왕(제천)",
+      "rest_address": "충북 음성군 금왕읍용계리",
+      "rest_tel": "043-881-0001",
+      "rest_high": "평택제천선",
+      "rest_highdirect": "제천",
+      "rest_coordinate": ["127.5885814", "36.9692362"],
+      "rest_tmap": "평택제천선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 129,
+    "fields": {
+      "rest_name": "천등산(제천)",
+      "rest_address": "충북 충주시 산척면평택제천고속도로 106",
+      "rest_tel": "043-844-2930",
+      "rest_high": "평택제천선",
+      "rest_highdirect": "제천",
+      "rest_coordinate": ["127.9394927", "37.0613459"],
+      "rest_tmap": "평택제천선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 130,
+    "fields": {
+      "rest_name": "안성맞춤(평택)",
+      "rest_address": "경기 안성시 서운면신능리 51-16 외 23필지",
+      "rest_tel": "031-673-3822",
+      "rest_high": "평택제천선",
+      "rest_highdirect": "평택",
+      "rest_coordinate": ["127.27479", "36.96962"],
+      "rest_tmap": "평택제천선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 131,
+    "fields": {
+      "rest_name": "금왕(평택)",
+      "rest_address": "충북 음성군 금왕읍용계리",
+      "rest_tel": "043-877-7000",
+      "rest_high": "평택제천선",
+      "rest_highdirect": "평택",
+      "rest_coordinate": ["127.5872859", "36.9705562"],
+      "rest_tmap": "평택제천선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 132,
+    "fields": {
+      "rest_name": "천등산(평택)",
+      "rest_address": "충북 충주시 산척면평택제천고속도로 109",
+      "rest_tel": "043-844-2991",
+      "rest_high": "평택제천선",
+      "rest_highdirect": "평택",
+      "rest_coordinate": ["127.9894097", "37.0769073"],
+      "rest_tmap": "평택제천선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 133,
+    "fields": {
+      "rest_name": "영산(창원)",
+      "rest_address": "경남 창녕군 영산면신제리 1471-1",
+      "rest_tel": "055-521-2978",
+      "rest_high": "중부내륙선",
+      "rest_highdirect": "창원",
+      "rest_coordinate": ["128.49615", "35.42957"],
+      "rest_tmap": "중부내륙선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 1,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 134,
+    "fields": {
+      "rest_name": "선산(양평)",
+      "rest_address": "경북 구미시 옥성면대원리 31-3",
+      "rest_tel": "054-482-6031",
+      "rest_high": "중부내륙선",
+      "rest_highdirect": "양평",
+      "rest_coordinate": ["128.25081", "36.27471"],
+      "rest_tmap": "중부내륙선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 135,
+    "fields": {
+      "rest_name": "충주(양평)",
+      "rest_address": "충북 충주시 중앙탑면 중부내륙고속도록 230-1",
+      "rest_tel": "043-857-9339",
+      "rest_high": "중부내륙선",
+      "rest_highdirect": "양평",
+      "rest_coordinate": ["127.83877", "37.02296"],
+      "rest_tmap": "중부내륙선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 1,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 136,
+    "fields": {
+      "rest_name": "괴산(양평)",
+      "rest_address": "충북 괴산군 장연면오가리 293-2",
+      "rest_tel": "043-832-7966",
+      "rest_high": "중부내륙선",
+      "rest_highdirect": "양평",
+      "rest_coordinate": ["127.9595", "36.83172"],
+      "rest_tmap": "중부내륙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 137,
+    "fields": {
+      "rest_name": "문경(양평)",
+      "rest_address": "경북 문경시 유곡동458",
+      "rest_tel": "054-554-1655",
+      "rest_high": "중부내륙선",
+      "rest_highdirect": "양평",
+      "rest_coordinate": ["128.15212", "36.62038"],
+      "rest_tmap": "중부내륙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 138,
+    "fields": {
+      "rest_name": "남성주참외(양평)",
+      "rest_address": "경북 성주군 용암면본리 428",
+      "rest_tel": "054-933-7105",
+      "rest_high": "중부내륙선",
+      "rest_highdirect": "양평",
+      "rest_coordinate": ["128.3199229", "35.8575172"],
+      "rest_tmap": "중부내륙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 139,
+    "fields": {
+      "rest_name": "서여주(양평)",
+      "rest_address": "서울 강남구 논현동 165",
+      "rest_tel": "031-884-9714",
+      "rest_high": "중부내륙선",
+      "rest_highdirect": "양평",
+      "rest_coordinate": ["127.580517", "37.278542"],
+      "rest_tmap": "중부내륙선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 140,
+    "fields": {
+      "rest_name": "성주(창원)",
+      "rest_address": "경북 성주군 초전면용봉리 산129-48",
+      "rest_tel": "054-932-0800",
+      "rest_high": "중부내륙선",
+      "rest_highdirect": "창원",
+      "rest_coordinate": ["128.2596605", "36.0104381"],
+      "rest_tmap": "중부내륙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 141,
+    "fields": {
+      "rest_name": "칠서(양평)",
+      "rest_address": "경남 함안군 칠서면계내리 35",
+      "rest_tel": "055-587-9656",
+      "rest_high": "중부내륙선",
+      "rest_highdirect": "창원",
+      "rest_coordinate": ["128.49676", "35.37093"],
+      "rest_tmap": "중부내륙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 1,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 142,
+    "fields": {
+      "rest_name": "선산(창원)",
+      "rest_address": "경북 구미시 옥성면대원리 85-1",
+      "rest_tel": "054-482-6011",
+      "rest_high": "중부내륙선",
+      "rest_highdirect": "창원",
+      "rest_coordinate": ["128.24895", "36.27762"],
+      "rest_tmap": "중부내륙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 143,
+    "fields": {
+      "rest_name": "충주(창원)",
+      "rest_address": "충북 충주시 가금면용전리 산 50-3",
+      "rest_tel": "043-857-9229",
+      "rest_high": "중부내륙선",
+      "rest_highdirect": "창원",
+      "rest_coordinate": ["127.83767", "37.02249"],
+      "rest_tmap": "중부내륙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 144,
+    "fields": {
+      "rest_name": "괴산(창원)",
+      "rest_address": "충북 괴산군 장연면오가리 103번지",
+      "rest_tel": "043-832-6594",
+      "rest_high": "중부내륙선",
+      "rest_highdirect": "창원",
+      "rest_coordinate": ["127.95833", "36.83145"],
+      "rest_tmap": "중부내륙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 145,
+    "fields": {
+      "rest_name": "문경(창원)",
+      "rest_address": "경북 문경시 유곡동460",
+      "rest_tel": "054-554-1610",
+      "rest_high": "중부내륙선",
+      "rest_highdirect": "창원",
+      "rest_coordinate": ["128.1503", "36.621"],
+      "rest_tmap": "중부내륙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 146,
+    "fields": {
+      "rest_name": "남성주참외(창원)",
+      "rest_address": "경북 성주군 선남면명포리 880-5",
+      "rest_tel": "054-931-5741",
+      "rest_high": "중부내륙선",
+      "rest_highdirect": "창원",
+      "rest_coordinate": ["128.314445", "35.8686499"],
+      "rest_tmap": "중부내륙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 147,
+    "fields": {
+      "rest_name": "서여주(창원)",
+      "rest_address": "서울 강남구 논현동165",
+      "rest_tel": "031-885-9760",
+      "rest_high": "중부내륙선",
+      "rest_highdirect": "창원",
+      "rest_coordinate": ["127.5759217", "37.2793963"],
+      "rest_tmap": "중부내륙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 148,
+    "fields": {
+      "rest_name": "성주(양평)",
+      "rest_address": "경북 성주군 초전면용봉리(중부내륙고속도로)",
+      "rest_tel": "054-933-0800 ",
+      "rest_high": "중부내륙선",
+      "rest_highdirect": "양평",
+      "rest_coordinate": ["128.2587566", "36.0080799"],
+      "rest_tmap": "중부내륙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 149,
+    "fields": {
+      "rest_name": "용인(강릉)",
+      "rest_address": "경기도 용인시 고림동9번지",
+      "rest_tel": "031-339-3663",
+      "rest_high": "영동선",
+      "rest_highdirect": "강릉",
+      "rest_coordinate": ["127.24211", "37.24602"],
+      "rest_tmap": "영동선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 150,
+    "fields": {
+      "rest_name": "여주(강릉)",
+      "rest_address": "경기 여주군 가남면본두리 687-1",
+      "rest_tel": "031-882-3120",
+      "rest_high": "영동선",
+      "rest_highdirect": "강릉",
+      "rest_coordinate": ["127.56886", "37.23867"],
+      "rest_tmap": "영동선",
+      "rest_feeding": 1,
+      "rest_sleep": 0,
+      "rest_shower": 1,
+      "rest_laundary": 1,
+      "rest_drug": 1,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 151,
+    "fields": {
+      "rest_name": "횡성(강릉)",
+      "rest_address": "강원도 횡성군 안흥면 영동고속도로 154",
+      "rest_tel": "033-342-4231",
+      "rest_high": "영동선",
+      "rest_highdirect": "강릉",
+      "rest_coordinate": ["128.134369", "37.46335"],
+      "rest_tmap": "영동선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 152,
+    "fields": {
+      "rest_name": "문막(강릉)",
+      "rest_address": "강원 원주시 문막읍동화리 113",
+      "rest_tel": "033-731-8481",
+      "rest_high": "영동선",
+      "rest_highdirect": "강릉",
+      "rest_coordinate": ["127.85774", "37.335249"],
+      "rest_tmap": "영동선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 153,
+    "fields": {
+      "rest_name": "평창(강릉)",
+      "rest_address": "강원도 평창군 용평면이목정리 778-2",
+      "rest_tel": "033-334-5100",
+      "rest_high": "영동선",
+      "rest_highdirect": "강릉",
+      "rest_coordinate": ["128.45288", "37.60593"],
+      "rest_tmap": "영동선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 154,
+    "fields": {
+      "rest_name": "강릉(강릉)",
+      "rest_address": "강원도 강릉시 성산면보광리 산273",
+      "rest_tel": "033-648-8850",
+      "rest_high": "영동선",
+      "rest_highdirect": "강릉",
+      "rest_coordinate": ["128.806189", "37.75801"],
+      "rest_tmap": "영동선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 155,
+    "fields": {
+      "rest_name": "덕평",
+      "rest_address": "경기 이천시 마장면각평리 319",
+      "rest_tel": "031-645-0001",
+      "rest_high": "영동선",
+      "rest_highdirect": "강릉",
+      "rest_coordinate": ["127.389689", "37.241772"],
+      "rest_tmap": "영동선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 1,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 156,
+    "fields": {
+      "rest_name": "용인(인천)",
+      "rest_address": "경기도 용인시 고림동89번지",
+      "rest_tel": "031-339-3660",
+      "rest_high": "영동선",
+      "rest_highdirect": "인천",
+      "rest_coordinate": ["127.23826", "37.24791"],
+      "rest_tmap": "영동선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 157,
+    "fields": {
+      "rest_name": "여주(인천)",
+      "rest_address": "경기도 여주시 가남읍화평길 116",
+      "rest_tel": "031-882-2900",
+      "rest_high": "영동선",
+      "rest_highdirect": "인천",
+      "rest_coordinate": ["127.56999", "37.23948"],
+      "rest_tmap": "영동선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 158,
+    "fields": {
+      "rest_name": "문막(인천)",
+      "rest_address": "강원 원주시 문막읍포진리",
+      "rest_tel": "033-734-7471",
+      "rest_high": "영동선",
+      "rest_highdirect": "인천",
+      "rest_coordinate": ["127.8177", "37.29768"],
+      "rest_tmap": "영동선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 159,
+    "fields": {
+      "rest_name": "횡성(인천)",
+      "rest_address": "강원 횡성군 안흥면봉화로 소사5길 29",
+      "rest_tel": "033-342-4200",
+      "rest_high": "영동선",
+      "rest_highdirect": "인천",
+      "rest_coordinate": ["128.13489", "37.46468"],
+      "rest_tmap": "영동선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 160,
+    "fields": {
+      "rest_name": "평창(인천)",
+      "rest_address": "강원 평창군 용평면이목정리",
+      "rest_tel": "033-333-6131",
+      "rest_high": "영동선",
+      "rest_highdirect": "인천",
+      "rest_coordinate": ["128.46368", "37.61035"],
+      "rest_tmap": "영동선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 161,
+    "fields": {
+      "rest_name": "강릉(인천)",
+      "rest_address": "강원도 강릉시 성산면보광리 산4-2",
+      "rest_tel": "033-647-9970",
+      "rest_high": "영동선",
+      "rest_highdirect": "인천",
+      "rest_coordinate": ["128.80554", "37.759229"],
+      "rest_tmap": "영동선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 162,
+    "fields": {
+      "rest_name": "덕평",
+      "rest_address": "경기 이천시 마장면각평리 319",
+      "rest_tel": "031-645-0001",
+      "rest_high": "영동선",
+      "rest_highdirect": "강릉",
+      "rest_coordinate": ["127.389689", "37.241772"],
+      "rest_tmap": "영동선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 163,
+    "fields": {
+      "rest_name": "치악(부산)",
+      "rest_address": "강원 원주시 신림면금창리(치악로)416 치악(부산)휴게소",
+      "rest_tel": "033-762-9234",
+      "rest_high": "중앙선",
+      "rest_highdirect": "김해",
+      "rest_coordinate": ["128.049109", "37.253949"],
+      "rest_tmap": "중앙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 164,
+    "fields": {
+      "rest_name": "안동(부산)",
+      "rest_address": "경북 안동시 풍산읍계평리 산547-6",
+      "rest_tel": "054-853-4370",
+      "rest_high": "중앙선",
+      "rest_highdirect": "김해",
+      "rest_coordinate": ["128.64255", "36.553329"],
+      "rest_tmap": "중앙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 165,
+    "fields": {
+      "rest_name": "군위(부산)",
+      "rest_address": "경북 군위군 군위읍오곡리 산67-5",
+      "rest_tel": "054-383-6114",
+      "rest_high": "중앙선",
+      "rest_highdirect": "김해",
+      "rest_coordinate": ["128.57532", "36.26642"],
+      "rest_tmap": "중앙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 166,
+    "fields": {
+      "rest_name": "단양팔경(부산)",
+      "rest_address": "충청북도 단양군 적성면기동리 산74-1",
+      "rest_tel": "043-423-5401",
+      "rest_high": "중앙선",
+      "rest_highdirect": "김해",
+      "rest_coordinate": ["128.28744", "36.99496"],
+      "rest_tmap": "중앙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 167,
+    "fields": {
+      "rest_name": "춘천(부산)",
+      "rest_address": "강원 춘천시 동내면 사암리산112-1",
+      "rest_tel": "033-264-0500",
+      "rest_high": "중앙선",
+      "rest_highdirect": "김해",
+      "rest_coordinate": ["127.76667", "37.812529"],
+      "rest_tmap": "중앙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 168,
+    "fields": {
+      "rest_name": "동명(부산)",
+      "rest_address": "경북 칠곡군 동명면가천리 120-2",
+      "rest_tel": "054-977-6922",
+      "rest_high": "중앙선",
+      "rest_highdirect": "김해",
+      "rest_coordinate": ["128.54708", "36.006789"],
+      "rest_tmap": "중앙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 169,
+    "fields": {
+      "rest_name": "원주(부산)",
+      "rest_address": "강원 원주시 호저면옥산리 211",
+      "rest_tel": "033-731-4291",
+      "rest_high": "중앙선",
+      "rest_highdirect": "김해",
+      "rest_coordinate": ["127.93127", "37.43473"],
+      "rest_tmap": "중앙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 170,
+    "fields": {
+      "rest_name": "홍천강(춘천)",
+      "rest_address": "강원도 홍천군 북방면소매곡리 294",
+      "rest_tel": "033-435-1201",
+      "rest_high": "중앙선",
+      "rest_highdirect": "춘천",
+      "rest_coordinate": ["127.82774", "37.712689"],
+      "rest_tmap": "중앙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 171,
+    "fields": {
+      "rest_name": "치악(춘천)",
+      "rest_address": "강원도 원주시 신림면금창리 500-55",
+      "rest_tel": "033-762-8030",
+      "rest_high": "중앙선",
+      "rest_highdirect": "춘천",
+      "rest_coordinate": ["128.04853", "37.25631"],
+      "rest_tmap": "중앙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 172,
+    "fields": {
+      "rest_name": "안동(춘천)",
+      "rest_address": "경북 안동시 풍산읍계평리 산128-2",
+      "rest_tel": "054-853-4061",
+      "rest_high": "중앙선",
+      "rest_highdirect": "춘천",
+      "rest_coordinate": ["128.64437", "36.553509"],
+      "rest_tmap": "중앙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 173,
+    "fields": {
+      "rest_name": "군위(춘천)",
+      "rest_address": "경북 군위군 군위읍오곡리 산68-8",
+      "rest_tel": "054-383-7114",
+      "rest_high": "중앙선",
+      "rest_highdirect": "춘천",
+      "rest_coordinate": ["128.576529", "36.26575"],
+      "rest_tmap": "중앙선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 174,
+    "fields": {
+      "rest_name": "단양팔경(춘천)",
+      "rest_address": "충청북도 단양군 단성면하방리 56",
+      "rest_tel": "043-421-1671",
+      "rest_high": "중앙선",
+      "rest_highdirect": "춘천",
+      "rest_coordinate": ["128.32292", "36.94269"],
+      "rest_tmap": "중앙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 175,
+    "fields": {
+      "rest_name": "동명(춘천)",
+      "rest_address": "경북 칠곡군 동명면 중앙고속도로 122",
+      "rest_tel": "054-977-6901",
+      "rest_high": "중앙선",
+      "rest_highdirect": "춘천",
+      "rest_coordinate": ["128.54869", "36.00622"],
+      "rest_tmap": "중앙선",
+      "rest_feeding": 1,
+      "rest_sleep": 0,
+      "rest_shower": 1,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 176,
+    "fields": {
+      "rest_name": "원주(춘천)",
+      "rest_address": "강원 원주시 호저면옥산리 219-1",
+      "rest_tel": "033-731-8194",
+      "rest_high": "중앙선",
+      "rest_highdirect": "춘천",
+      "rest_coordinate": ["127.92953", "37.4353"],
+      "rest_tmap": "중앙선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 177,
+    "fields": {
+      "rest_name": "홍천(서울)",
+      "rest_address": "강원 홍천군 화촌면 서울양양고속도로 83",
+      "rest_tel": "033-436-9000",
+      "rest_high": "서울양양선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["128.0066629", "37.7589646"],
+      "rest_tmap": "서울양양선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 178,
+    "fields": {
+      "rest_name": "내린천",
+      "rest_address": "강원 인제군 상남면 하남리 372번지",
+      "rest_tel": "033-852-8619",
+      "rest_high": "서울양양선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["128.2841667", "37.9163491"],
+      "rest_tmap": "서울양양선",
+      "rest_feeding": 1,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 179,
+    "fields": {
+      "rest_name": "홍천(양양)",
+      "rest_address": "강원 홍천군 화촌면 서울양양고속도로 84",
+      "rest_tel": "033-436-3000",
+      "rest_high": "서울양양선",
+      "rest_highdirect": "양양",
+      "rest_coordinate": ["128.0033297", "37.7572826"],
+      "rest_tmap": "서울양양선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 180,
+    "fields": {
+      "rest_name": "내린천",
+      "rest_address": "강원 인제군 상남면 하남리 372번지",
+      "rest_tel": "033-852-8619",
+      "rest_high": "서울양양선",
+      "rest_highdirect": "서울",
+      "rest_coordinate": ["128.2841667", "37.9163491"],
+      "rest_tmap": "서울양양선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 181,
+    "fields": {
+      "rest_name": "동해(삼척)",
+      "rest_address": "강원도 동해시 망상동산5-1",
+      "rest_tel": "033-534-6631",
+      "rest_high": "동해선",
+      "rest_highdirect": "동해",
+      "rest_coordinate": ["129.07442", "37.60118"],
+      "rest_tmap": "동해선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 182,
+    "fields": {
+      "rest_name": "구정(삼척)",
+      "rest_address": "강원 강릉시 구정면제비리 888",
+      "rest_tel": "033-644-8345",
+      "rest_high": "동해선",
+      "rest_highdirect": "동해",
+      "rest_coordinate": ["128.85147", "37.72247"],
+      "rest_tmap": "동해선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 183,
+    "fields": {
+      "rest_name": "옥계(속초)",
+      "rest_address": "강원 강릉시 옥계면도직리 산2-2",
+      "rest_tel": "033-534-1700",
+      "rest_high": "동해선",
+      "rest_highdirect": "속초",
+      "rest_coordinate": ["129.0579374", "37.616184"],
+      "rest_tmap": "동해선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 184,
+    "fields": {
+      "rest_name": "구정(속초)",
+      "rest_address": "강원 강릉시 구정면동해고속도로 346",
+      "rest_tel": "033-644-4760",
+      "rest_high": "동해선",
+      "rest_highdirect": "속초",
+      "rest_coordinate": ["128.85376", "37.722789"],
+      "rest_tmap": "동해선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 185,
+    "fields": {
+      "rest_name": "외동(부산)",
+      "rest_address": "경상북도 경주시 외동읍 내외로 577-189상석길 58-74",
+      "rest_tel": "054-745-0637",
+      "rest_high": "부산포항선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["129.2853644", "35.6725781"],
+      "rest_tmap": "동해선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 186,
+    "fields": {
+      "rest_name": "외동(포항)",
+      "rest_address": "경북 경주시 외동읍상석길 58-70",
+      "rest_tel": "054-745-0631",
+      "rest_high": "부산포항선",
+      "rest_highdirect": "포항",
+      "rest_coordinate": ["129.2883219", "35.672673"],
+      "rest_tmap": "동해선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 187,
+    "fields": {
+      "rest_name": "시흥하늘",
+      "rest_address": "경기 시흥시 조남동서울외곽순환고속도로",
+      "rest_tel": "031-683-4800",
+      "rest_high": "수도권제1순환선",
+      "rest_highdirect": "제천",
+      "rest_coordinate": ["126.8532655", "37.3837734"],
+      "rest_tmap": "수도권제1순환선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 1,
+      "rest_drug": 1,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 188,
+    "fields": {
+      "rest_name": "구리(일산)",
+      "rest_address": "경기 구리시 사노동170-13 구리고속도로휴게소",
+      "rest_tel": "031-529-3564",
+      "rest_high": "수도권제1순환선",
+      "rest_highdirect": "퇴계원",
+      "rest_coordinate": ["127.136989", "37.6278276"],
+      "rest_tmap": "수도권제2순환선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 189,
+    "fields": {
+      "rest_name": "장유(서부산)",
+      "rest_address": "경남 김해시 장유면부곡리 53-1",
+      "rest_tel": "055-313-2610",
+      "rest_high": "남해제2지선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["128.7913896", "35.2120733"],
+      "rest_tmap": "남해2지선선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 190,
+    "fields": {
+      "rest_name": "부여백제(서천)",
+      "rest_address": "충남 부여군 내산면율암리  134",
+      "rest_tel": "041-833-5400",
+      "rest_high": "서천공주선",
+      "rest_highdirect": "공주",
+      "rest_coordinate": ["126.7972978", "36.2582531"],
+      "rest_tmap": "서천공주선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 191,
+    "fields": {
+      "rest_name": "부여백제(공주)",
+      "rest_address": "충남 부여군 내산면율암리 149-5",
+      "rest_tel": "041-834-5600",
+      "rest_high": "서천공주선",
+      "rest_highdirect": "서천",
+      "rest_coordinate": ["126.99032", "36.398469"],
+      "rest_tmap": "서천공주선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 192,
+    "fields": {
+      "rest_name": "벌곡(논산)",
+      "rest_address": "충남 논산시 벌곡면신양리 475",
+      "rest_tel": "041-732-7694",
+      "rest_high": "호남선의 지선",
+      "rest_highdirect": "논산",
+      "rest_coordinate": ["127.2734438", "36.2177742"],
+      "rest_tmap": "호남선지선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 193,
+    "fields": {
+      "rest_name": "벌곡(대전)",
+      "rest_address": "충남 논산시 벌곡면양산리124-1",
+      "rest_tel": "041-734-5250",
+      "rest_high": "호남선의 지선",
+      "rest_highdirect": "대전",
+      "rest_coordinate": ["127.2704581", "36.2103775"],
+      "rest_tmap": "호남선지선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 194,
+    "fields": {
+      "rest_name": "삼국유사군위(상주)",
+      "rest_address": "경상북도 영천시 신녕면 치산효령로 989-23",
+      "rest_tel": "031-296-1501",
+      "rest_high": "상주영천선",
+      "rest_highdirect": "상주",
+      "rest_coordinate": ["128.7183022", "36.06756547"],
+      "rest_tmap": "상주영천선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 1,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 195,
+    "fields": {
+      "rest_name": "군위영천(영천)",
+      "rest_address": "경상북도 영천시 신녕면 치산효령로 865-43",
+      "rest_tel": "031-295-1501",
+      "rest_high": "상주영천선",
+      "rest_highdirect": "영천",
+      "rest_coordinate": ["128.7183022", "36.06756547"],
+      "rest_tmap": "상주영천선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 196,
+    "fields": {
+      "rest_name": "낙동강구미(상주)",
+      "rest_address": "경상북도 구미시 도개면 용산3길 132122-65",
+      "rest_tel": "055-312-2820",
+      "rest_high": "상주영천선",
+      "rest_highdirect": "상주",
+      "rest_coordinate": ["128.2972123", "36.3442725"],
+      "rest_tmap": "상주영천선",
+      "rest_feeding": 0,
+      "rest_sleep": 0,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 197,
+    "fields": {
+      "rest_name": "낙동강의성(영천)",
+      "rest_address": "경상북도 의성군 단밀면 도안로 757-68",
+      "rest_tel": "031-481-9764",
+      "rest_high": "상주영천선",
+      "rest_highdirect": "영천",
+      "rest_coordinate": ["128.2958204", "36.34569063"],
+      "rest_tmap": "상주영천선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 1,
+      "rest_drug": 1,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 198,
+    "fields": {
+      "rest_name": "현풍(대구)",
+      "rest_address": "대구광역시 달성군 현풍면성하리 342",
+      "rest_tel": "053-615-0337",
+      "rest_high": "중부내륙선의 지선",
+      "rest_highdirect": "대구",
+      "rest_coordinate": ["128.4375", "35.70234"],
+      "rest_tmap": "중부내륙선지선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 199,
+    "fields": {
+      "rest_name": "현풍(창원)",
+      "rest_address": "대구 달성군 현풍면성하리 286",
+      "rest_tel": "053-614-2436",
+      "rest_high": "중부내륙선의 지선",
+      "rest_highdirect": "현풍",
+      "rest_coordinate": ["128.436029", "35.7022"],
+      "rest_tmap": "중부내륙선지선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 0,
+      "rest_laundary": 0,
+      "rest_drug": 0,
+      "rest_fix": 0,
+      "rest_truck": 0
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 200,
+    "fields": {
+      "rest_name": "통도사(부산)",
+      "rest_address": "경상남도 양산시 하북면 경부고속도로 31-1",
+      "rest_tel": "055-383-6145",
+      "rest_high": "경부선",
+      "rest_highdirect": "부산",
+      "rest_coordinate": ["129.0880053", "35.4888683"],
+      "rest_tmap": "경부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 1,
+      "rest_drug": 1,
+      "rest_fix": 1,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 201,
+    "fields": {
+      "rest_name": "산청(하남)",
+      "rest_address": "경상남도 산청군 단성면 통영대전고속도로 76",
+      "rest_tel": "055-973-1703",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "하남",
+      "rest_coordinate": ["127.938997", "35.333484"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 1,
+      "rest_drug": 1,
+      "rest_fix": 1,
+      "rest_truck": 1
+    }
+  },
+  {
+    "model": "defaults.Rest",
+    "pk": 202,
+    "fields": {
+      "rest_name": "산청(통영)",
+      "rest_address": "경상남도 산청군 단성면 방목리 366-3",
+      "rest_tel": "055-973-1704",
+      "rest_high": "통영대전선/중부선",
+      "rest_highdirect": "통영",
+      "rest_coordinate": ["127.937098", "35.333424"],
+      "rest_tmap": "통영대전선, 중부선",
+      "rest_feeding": 1,
+      "rest_sleep": 1,
+      "rest_shower": 1,
+      "rest_laundary": 1,
+      "rest_drug": 1,
+      "rest_fix": 1,
+      "rest_truck": 1
+    }
+  }
+]
